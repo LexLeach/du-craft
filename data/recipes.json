@@ -149,6 +149,56 @@
     "industry": "",
     "input": {}
   },
+  "Tier 1 XL Element Schematic Copy": {
+    "tier": 1,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 1,
+    "time": 12000,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 2 XL Element Schematic Copy": {
+    "tier": 2,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 1,
+    "time": 30000,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 3 XL Element Schematic Copy": {
+    "tier": 3,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 1,
+    "time": 75000,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 4 XL Element Schematic Copy": {
+    "tier": 4,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 1,
+    "time": 187200,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 5 XL Element Schematic Copy": {
+    "tier": 5,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 1,
+    "time": 468000,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
   "Bauxite": {
     "tier": 1,
     "type": "Ore",
@@ -8896,7 +8946,8 @@
       "Basic Screw": 216,
       "Basic Injector": 125,
       "Basic Combustion Chamber L": 1,
-      "Basic Reinforced Frame L": 1
+      "Basic Reinforced Frame L": 1,
+      "Tier 1 L Element Schematic Copy": 1
     }
   },
   "Uncommon Freight Atmospheric Engine L": {
@@ -8912,7 +8963,8 @@
       "Uncommon Screw": 108,
       "Uncommon Injector": 125,
       "Uncommon Combustion Chamber L": 1,
-      "Uncommon Reinforced Frame L": 1
+      "Uncommon Reinforced Frame L": 1,
+      "Tier 2 L Element Schematic Copy": 1
     }
   },
   "Uncommon Maneuver Atmospheric Engine L": {
@@ -8928,7 +8980,8 @@
       "Uncommon Screw": 108,
       "Uncommon Injector": 125,
       "Uncommon Combustion Chamber L": 1,
-      "Uncommon Reinforced Frame L": 1
+      "Uncommon Reinforced Frame L": 1,
+      "Tier 2 L Element Schematic Copy": 1
     }
   },
   "Uncommon Military Atmospheric Engine L": {
@@ -8944,7 +8997,8 @@
       "Uncommon Screw": 108,
       "Uncommon Injector": 125,
       "Uncommon Combustion Chamber L": 1,
-      "Uncommon Reinforced Frame L": 1
+      "Uncommon Reinforced Frame L": 1,
+      "Tier 2 L Element Schematic Copy": 1
     }
   },
   "Uncommon Safe Atmospheric Engine L": {
@@ -8960,7 +9014,8 @@
       "Uncommon Screw": 108,
       "Uncommon Injector": 125,
       "Uncommon Combustion Chamber L": 1,
-      "Uncommon Reinforced Frame L": 1
+      "Uncommon Reinforced Frame L": 1,
+      "Tier 2 L Element Schematic Copy": 1
     }
   },
   "Advanced Freight Atmospheric Engine L": {
@@ -8975,7 +9030,8 @@
       "Uncommon Screw": 216,
       "Advanced Injector": 125,
       "Advanced Combustion Chamber L": 1,
-      "Advanced Reinforced Frame L": 1
+      "Advanced Reinforced Frame L": 1,
+      "Tier 3 L Element Schematic Copy": 1
     }
   },
   "Advanced Maneuver Atmospheric Engine L": {
@@ -8990,7 +9046,8 @@
       "Uncommon Screw": 216,
       "Advanced Injector": 125,
       "Advanced Combustion Chamber L": 1,
-      "Advanced Reinforced Frame L": 1
+      "Advanced Reinforced Frame L": 1,
+      "Tier 3 L Element Schematic Copy": 1
     }
   },
   "Advanced Military Atmospheric Engine L": {
@@ -9021,7 +9078,8 @@
       "Uncommon Screw": 216,
       "Advanced Injector": 125,
       "Advanced Combustion Chamber L": 1,
-      "Advanced Reinforced Frame L": 1
+      "Advanced Reinforced Frame L": 1,
+      "Tier 3 L Element Schematic Copy": 1
     }
   },
   "Rare Freight Atmospheric Engine L": {
@@ -9037,7 +9095,8 @@
       "Advanced Screw": 108,
       "Rare Injector": 125,
       "Rare Combustion Chamber L": 1,
-      "Rare Reinforced Frame L": 1
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Rare Maneuver Atmospheric Engine L": {
@@ -9053,7 +9112,8 @@
       "Advanced Screw": 108,
       "Rare Injector": 125,
       "Rare Combustion Chamber L": 1,
-      "Rare Reinforced Frame L": 1
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Rare Military Atmospheric Engine L": {
@@ -9069,7 +9129,8 @@
       "Advanced Screw": 108,
       "Rare Injector": 125,
       "Rare Combustion Chamber L": 1,
-      "Rare Reinforced Frame L": 1
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Rare Safe Atmospheric Engine L": {
@@ -9085,7 +9146,8 @@
       "Advanced Screw": 108,
       "Rare Injector": 125,
       "Rare Combustion Chamber L": 1,
-      "Rare Reinforced Frame L": 1
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Basic Space Engine XS": {
@@ -9711,7 +9773,8 @@
       "Basic Screw": 216,
       "Basic Burner": 125,
       "Basic Ionic Chamber L": 1,
-      "Basic Reinforced Frame L": 1
+      "Basic Reinforced Frame L": 1,
+      "Tier 1 L Element Schematic Copy": 1
     }
   },
   "Uncommon Freight Space Engine L": {
@@ -9727,7 +9790,8 @@
       "Uncommon Screw": 108,
       "Uncommon Burner": 125,
       "Uncommon Ionic Chamber L": 1,
-      "Uncommon Reinforced Frame L": 1
+      "Uncommon Reinforced Frame L": 1,
+      "Tier 2 L Element Schematic Copy": 1
     }
   },
   "Uncommon Maneuver Space Engine L": {
@@ -9743,7 +9807,8 @@
       "Uncommon Screw": 108,
       "Uncommon Burner": 125,
       "Uncommon Ionic Chamber L": 1,
-      "Uncommon Reinforced Frame L": 1
+      "Uncommon Reinforced Frame L": 1,
+      "Tier 2 L Element Schematic Copy": 1
     }
   },
   "Uncommon Military Space Engine L": {
@@ -9759,7 +9824,8 @@
       "Uncommon Screw": 108,
       "Uncommon Burner": 125,
       "Uncommon Ionic Chamber L": 1,
-      "Uncommon Reinforced Frame L": 1
+      "Uncommon Reinforced Frame L": 1,
+      "Tier 2 L Element Schematic Copy": 1
     }
   },
   "Uncommon Safe Space Engine L": {
@@ -9775,7 +9841,8 @@
       "Uncommon Screw": 108,
       "Uncommon Burner": 125,
       "Uncommon Ionic Chamber L": 1,
-      "Uncommon Reinforced Frame L": 1
+      "Uncommon Reinforced Frame L": 1,
+      "Tier 2 L Element Schematic Copy": 1
     }
   },
   "Advanced Freight Space Engine L": {
@@ -9790,7 +9857,8 @@
       "Uncommon Screw": 216,
       "Advanced Burner": 125,
       "Advanced Ionic Chamber L": 1,
-      "Advanced Reinforced Frame L": 1
+      "Advanced Reinforced Frame L": 1,
+      "Tier 3 L Element Schematic Copy": 1
     }
   },
   "Advanced Maneuver Space Engine L": {
@@ -9805,7 +9873,8 @@
       "Uncommon Screw": 216,
       "Advanced Burner": 125,
       "Advanced Ionic Chamber L": 1,
-      "Advanced Reinforced Frame L": 1
+      "Advanced Reinforced Frame L": 1,
+      "Tier 3 L Element Schematic Copy": 1
     }
   },
   "Advanced Military Space Engine L": {
@@ -9820,7 +9889,8 @@
       "Uncommon Screw": 216,
       "Advanced Burner": 125,
       "Advanced Ionic Chamber L": 1,
-      "Advanced Reinforced Frame L": 1
+      "Advanced Reinforced Frame L": 1,
+      "Tier 3 L Element Schematic Copy": 1
     }
   },
   "Advanced Safe Space Engine L": {
@@ -9835,7 +9905,8 @@
       "Uncommon Screw": 216,
       "Advanced Burner": 125,
       "Advanced Ionic Chamber L": 1,
-      "Advanced Reinforced Frame L": 1
+      "Advanced Reinforced Frame L": 1,
+      "Tier 3 L Element Schematic Copy": 1
     }
   },
   "Rare Freight Space Engine L": {
@@ -9851,7 +9922,8 @@
       "Advanced Screw": 108,
       "Rare Burner": 125,
       "Rare Ionic Chamber L": 1,
-      "Rare Reinforced Frame L": 1
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Rare Maneuver Space Engine L": {
@@ -9867,7 +9939,8 @@
       "Advanced Screw": 108,
       "Rare Burner": 125,
       "Rare Ionic Chamber L": 1,
-      "Rare Reinforced Frame L": 1
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Rare Military Space Engine L": {
@@ -9883,7 +9956,8 @@
       "Advanced Screw": 108,
       "Rare Burner": 125,
       "Rare Ionic Chamber L": 1,
-      "Rare Reinforced Frame L": 1
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Rare Safe Space Engine L": {
@@ -9899,7 +9973,8 @@
       "Advanced Screw": 108,
       "Rare Burner": 125,
       "Rare Ionic Chamber L": 1,
-      "Rare Reinforced Frame L": 1
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Basic Space Engine XL": {
@@ -9914,7 +9989,8 @@
       "Basic Screw": 1296,
       "Basic Burner": 625,
       "Basic Ionic Chamber XL": 1,
-      "Basic Reinforced Frame XL": 1
+      "Basic Reinforced Frame XL": 1,
+      "Tier 1 XL Element Schematic Copy": 1
     }
   },
   "Uncommon Freight Space Engine XL": {
@@ -9930,7 +10006,8 @@
       "Uncommon Screw": 648,
       "Uncommon Burner": 625,
       "Uncommon Ionic Chamber XL": 1,
-      "Uncommon Reinforced Frame XL": 1
+      "Uncommon Reinforced Frame XL": 1,
+      "Tier 2 XL Element Schematic Copy": 1
     }
   },
   "Uncommon Maneuver Space Engine XL": {
@@ -9946,7 +10023,8 @@
       "Uncommon Screw": 648,
       "Uncommon Burner": 625,
       "Uncommon Ionic Chamber XL": 1,
-      "Uncommon Reinforced Frame XL": 1
+      "Uncommon Reinforced Frame XL": 1,
+      "Tier 2 XL Element Schematic Copy": 1
     }
   },
   "Uncommon Military Space Engine XL": {
@@ -9962,7 +10040,8 @@
       "Uncommon Screw": 648,
       "Uncommon Burner": 625,
       "Uncommon Ionic Chamber XL": 1,
-      "Uncommon Reinforced Frame XL": 1
+      "Uncommon Reinforced Frame XL": 1,
+      "Tier 2 XL Element Schematic Copy": 1
     }
   },
   "Uncommon Safe Space Engine XL": {
@@ -9978,7 +10057,8 @@
       "Uncommon Screw": 648,
       "Uncommon Burner": 625,
       "Uncommon Ionic Chamber XL": 1,
-      "Uncommon Reinforced Frame XL": 1
+      "Uncommon Reinforced Frame XL": 1,
+      "Tier 2 XL Element Schematic Copy": 1
     }
   },
   "Advanced Freight Space Engine XL": {
@@ -9993,7 +10073,8 @@
       "Uncommon Screw": 1296,
       "Advanced Burner": 625,
       "Advanced Ionic Chamber XL": 1,
-      "Advanced Reinforced Frame XL": 1
+      "Advanced Reinforced Frame XL": 1,
+      "Tier 3 XL Element Schematic Copy": 1
     }
   },
   "Advanced Maneuver Space Engine XL": {
@@ -10008,7 +10089,8 @@
       "Uncommon Screw": 1296,
       "Advanced Burner": 625,
       "Advanced Ionic Chamber XL": 1,
-      "Advanced Reinforced Frame XL": 1
+      "Advanced Reinforced Frame XL": 1,
+      "Tier 3 XL Element Schematic Copy": 1
     }
   },
   "Advanced Military Space Engine XL": {
@@ -10023,7 +10105,8 @@
       "Uncommon Screw": 1296,
       "Advanced Burner": 625,
       "Advanced Ionic Chamber XL": 1,
-      "Advanced Reinforced Frame XL": 1
+      "Advanced Reinforced Frame XL": 1,
+      "Tier 3 XL Element Schematic Copy": 1
     }
   },
   "Advanced Safe Space Engine XL": {
@@ -10038,7 +10121,8 @@
       "Uncommon Screw": 1296,
       "Advanced Burner": 625,
       "Advanced Ionic Chamber XL": 1,
-      "Advanced Reinforced Frame XL": 1
+      "Advanced Reinforced Frame XL": 1,
+      "Tier 3 XL Element Schematic Copy": 1
     }
   },
   "Rare Freight Space Engine XL": {
@@ -10054,7 +10138,8 @@
       "Advanced Screw": 648,
       "Rare Burner": 625,
       "Rare Ionic Chamber XL": 1,
-      "Rare Reinforced Frame XL": 1
+      "Rare Reinforced Frame XL": 1,
+      "Tier 4 XL Element Schematic Copy": 1
     }
   },
   "Rare Maneuver Space Engine XL": {
@@ -10070,7 +10155,8 @@
       "Advanced Screw": 648,
       "Rare Burner": 625,
       "Rare Ionic Chamber XL": 1,
-      "Rare Reinforced Frame XL": 1
+      "Rare Reinforced Frame XL": 1,
+      "Tier 4 XL Element Schematic Copy": 1
     }
   },
   "Rare Military Space Engine XL": {
@@ -10086,7 +10172,8 @@
       "Advanced Screw": 648,
       "Rare Burner": 625,
       "Rare Ionic Chamber XL": 1,
-      "Rare Reinforced Frame XL": 1
+      "Rare Reinforced Frame XL": 1,
+      "Tier 4 XL Element Schematic Copy": 1
     }
   },
   "Rare Safe Space Engine XL": {
@@ -10102,7 +10189,8 @@
       "Advanced Screw": 648,
       "Rare Burner": 625,
       "Rare Ionic Chamber XL": 1,
-      "Rare Reinforced Frame XL": 1
+      "Rare Reinforced Frame XL": 1,
+      "Tier 4 XL Element Schematic Copy": 1
     }
   },
   "Hover Engine S": {
@@ -10272,7 +10360,7 @@
       "Advanced Standard Frame M": 1
     }
   },
-  "Vertical Booster XS": {
+  "Basic Vertical Booster XS": {
     "tier": 1,
     "type": "Piloting Element",
     "volume": 11,
@@ -10285,7 +10373,7 @@
       "Basic Injector": 1
     }
   },
-  "Vertical Booster S": {
+  "Basic Vertical Booster S": {
     "tier": 1,
     "type": "Piloting Element",
     "volume": 20.33,
@@ -10301,7 +10389,7 @@
       "Basic Standard Frame XS": 1
     }
   },
-  "Vertical Booster M": {
+  "Basic Vertical Booster M": {
     "tier": 1,
     "type": "Piloting Element",
     "volume": 105.24,
@@ -10317,7 +10405,7 @@
       "Basic Standard Frame S": 1
     }
   },
-  "Vertical Booster L": {
+  "Basic Vertical Booster L": {
     "tier": 1,
     "type": "Piloting Element",
     "volume": 562.4,
@@ -10329,7 +10417,107 @@
       "Basic Pipe": 36,
       "Basic Injector": 25,
       "Basic Ionic Chamber M": 1,
-      "Basic Standard Frame M": 1
+      "Basic Standard Frame M": 1,
+      "Tier 1 L Element Schematic Copy": 1
+    }
+  },
+  "Uncommon Freight Vertical Booster L": {
+    "tier": 2,
+    "type": "Piloting Element",
+    "volume": 562.4,
+    "outputQuantity": 1,
+    "time": 21658,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Basic Pipe": 108,
+      "Uncommon Pipe": 108,
+      "Uncommon Injector": 125,
+      "Uncommon Ionic Chamber L": 1,
+      "Uncommon Standard Frame L": 1,
+      "Tier 2 L Element Schematic Copy": 1
+    }
+  },
+  "Uncommon Maneuver Vertical Booster L": {
+    "tier": 2,
+    "type": "Piloting Element",
+    "volume": 562.4,
+    "outputQuantity": 1,
+    "time": 21658,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Basic Pipe": 108,
+      "Uncommon Pipe": 108,
+      "Uncommon Injector": 125,
+      "Uncommon Ionic Chamber L": 1,
+      "Uncommon Standard Frame L": 1,
+      "Tier 2 L Element Schematic Copy": 1
+    }
+  },
+  "Uncommon Military Vertical Booster L": {
+    "tier": 2,
+    "type": "Piloting Element",
+    "volume": 562.4,
+    "outputQuantity": 1,
+    "time": 21658,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Basic Pipe": 108,
+      "Uncommon Pipe": 108,
+      "Uncommon Injector": 125,
+      "Uncommon Ionic Chamber L": 1,
+      "Uncommon Standard Frame L": 1,
+      "Tier 2 L Element Schematic Copy": 1
+    }
+  },
+  "Advanced Freight Vertical Booster L": {
+    "tier": 3,
+    "type": "Piloting Element",
+    "volume": 562.4,
+    "outputQuantity": 1,
+    "time": 64973,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Uncommon Pipe": 216,
+      "Advanced Injector": 125,
+      "Advanced Ionic Chamber L": 1,
+      "Advanced Standard Frame L": 1,
+      "Tier 3 L Element Schematic Copy": 1
+    }
+  },
+  "Advanced Maneuver Vertical Booster L": {
+    "tier": 3,
+    "type": "Piloting Element",
+    "volume": 562.4,
+    "outputQuantity": 1,
+    "time": 64973,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Uncommon Pipe": 216,
+      "Advanced Injector": 125,
+      "Advanced Ionic Chamber L": 1,
+      "Advanced Standard Frame L": 1,
+      "Tier 3 L Element Schematic Copy": 1
+    }
+  },
+  "Advanced Military Vertical Booster L": {
+    "tier": 3,
+    "type": "Piloting Element",
+    "volume": 562.4,
+    "outputQuantity": 1,
+    "time": 64973,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Uncommon Pipe": 216,
+      "Advanced Injector": 125,
+      "Advanced Ionic Chamber L": 1,
+      "Advanced Standard Frame L": 1,
+      "Tier 3 L Element Schematic Copy": 1
     }
   },
   "Landing Gear XS": {
@@ -12038,7 +12226,8 @@
       "Uncommon Component": 648,
       "Uncommon Electronics": 625,
       "Uncommon Screen XL": 1,
-      "Uncommon Casing XL": 1
+      "Uncommon Casing XL": 1,
+      "Tier 3 XL Element Schematic Copy": 1
     }
   },
   "Transparent Screen XS": {
