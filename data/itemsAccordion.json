@@ -1649,10 +1649,40 @@
                   {
                     "name": "Vertical Boosters",
                     "data": [
-                      "Vertical Booster XS",
-                      "Vertical Booster S",
-                      "Vertical Booster M",
-                      "Vertical Booster L"
+                      {
+                        "name": "Vertical Boosters XS",
+                        "data": [
+                          "Basic Vertical Booster XS"
+                        ]
+                      },
+                      {
+                        "name": "Vertical Boosters S",
+                        "data": [
+                          "Basic Vertical Booster S"
+                        ]
+                      },
+                      { 
+                        "name": "Vertical Boosters M",
+                        "data": [
+                          "Basic Vertical Booster M"
+                        ]
+                      },
+                      {
+                        "name": "Vertical Boosters L",
+                        "data": 
+                        [
+                          "Basic Vertical Booster L",
+                          "Uncommon Freight Vertical Booster L",
+                          "Uncommon Maneuver Vertical Booster L",
+                          "Uncommon Military Vertical Booster L",
+                          "Advanced Freight Vertical Booster L",
+                          "Advanced Maneuver Vertical Booster L",
+                          "Advanced Military Vertical Booster L",
+                          "Rare Freight Vertical Booster L",
+                          "Rare Maneuver Vertical Booster L",
+                          "Rare Military Vertical Booster L"
+                        ]
+                      }
                     ]
                   }
                 ]
@@ -2664,6 +2694,16 @@
               "Tier 3 L Element Schematic Copy",
               "Tier 4 L Element Schematic Copy",
               "Tier 5 L Element Schematic Copy"
+            ]
+          },
+          {
+            "name": "XL",
+            "data": [
+              "Tier 1 XL Element Schematic Copy",
+              "Tier 2 XL Element Schematic Copy",
+              "Tier 3 XL Element Schematic Copy",
+              "Tier 4 XL Element Schematic Copy",
+              "Tier 5 XL Element Schematic Copy"
             ]
           }
         ]
