@@ -199,6 +199,16 @@
     "industry": "",
     "input": {}
   },
+  "Warp Cell Schematic Copy": {
+    "tier": 3,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 10,
+    "time": 10020,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
   "Bauxite": {
     "tier": 1,
     "type": "Ore",
@@ -21009,7 +21019,8 @@
     "industry": "Glass Furnace M",
     "input": {
       "Advanced Quantum Alignment Unit": 1,
-      "Advanced Antimatter Core": 1
+      "Advanced Antimatter Core": 1,
+      "Warp Cell Schematic Copy": 1
     }
   },
   "Warp Drive L": {
