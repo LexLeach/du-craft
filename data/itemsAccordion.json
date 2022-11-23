@@ -2713,6 +2713,17 @@
         "data": [
           "Warp Cell Schematic Copy"
         ]
+      },
+      {
+        "name": "Ammo",
+        "data": [
+          {
+            "name": "S",
+            "data" : [
+              "Tier 3 Ammo S Schematic Copy"
+            ]
+          }
+        ]
       }
     ]
   }

@@ -209,6 +209,16 @@
     "industry": "",
     "input": {}
   },
+  "Tier 3 Ammo S Schematic Copy": {
+    "tier": 3,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 25,
+    "time": 15000,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
   "Bauxite": {
     "tier": 1,
     "type": "Ore",
@@ -18653,7 +18663,8 @@
       "Advanced Solid Warhead": 2,
       "Uncommon Explosive Module": 2,
       "Al-Li Alloy": 2,
-      "Uncommon Reinforced Frame XS": 2
+      "Uncommon Reinforced Frame XS": 2,
+      "Tier 3 Ammo S Schematic Copy": 1
     }
   },
   "Cannon Defense Kinetic Ammo S": {
@@ -18669,7 +18680,8 @@
       "Advanced Solid Warhead": 2,
       "Uncommon Explosive Module": 2,
       "Polysulfide Plastic": 2,
-      "Uncommon Reinforced Frame XS": 2
+      "Uncommon Reinforced Frame XS": 2,
+      "Tier 3 Ammo S Schematic Copy": 1
     }
   },
   "Cannon Heavy Kinetic Ammo S": {
@@ -18685,7 +18697,8 @@
       "Advanced Solid Warhead": 2,
       "Uncommon Explosive Module": 2,
       "Inconel": 2,
-      "Uncommon Reinforced Frame XS": 2
+      "Uncommon Reinforced Frame XS": 2,
+      "Tier 3 Ammo S Schematic Copy": 1
     }
   },
   "Cannon Kinetic Ammo S": {
@@ -18716,7 +18729,8 @@
       "Advanced Solid Warhead": 2,
       "Uncommon Explosive Module": 2,
       "Ag-Li Reinforced Glass": 2,
-      "Uncommon Reinforced Frame XS": 2
+      "Uncommon Reinforced Frame XS": 2,
+      "Tier 3 Ammo S Schematic Copy": 1
     }
   },
   "Cannon Agile Thermic Ammo S": {
@@ -18732,7 +18746,8 @@
       "Advanced Explosive Module": 2,
       "Uncommon Explosive Module": 2,
       "Al-Li Alloy": 2,
-      "Uncommon Reinforced Frame XS": 2
+      "Uncommon Reinforced Frame XS": 2,
+      "Tier 3 Ammo S Schematic Copy": 1
     }
   },
   "Cannon Defense Thermic Ammo S": {
@@ -18748,7 +18763,8 @@
       "Advanced Explosive Module": 2,
       "Uncommon Explosive Module": 2,
       "Polysulfide Plastic": 2,
-      "Uncommon Reinforced Frame XS": 2
+      "Uncommon Reinforced Frame XS": 2,
+      "Tier 3 Ammo S Schematic Copy": 1
     }
   },
   "Cannon Heavy Thermic Ammo S": {
@@ -18764,7 +18780,8 @@
       "Advanced Explosive Module": 2,
       "Uncommon Explosive Module": 2,
       "Inconel": 2,
-      "Uncommon Reinforced Frame XS": 2
+      "Uncommon Reinforced Frame XS": 2,
+      "Tier 3 Ammo S Schematic Copy": 1
     }
   },
   "Cannon Precision Thermic Ammo S": {
@@ -18780,7 +18797,8 @@
       "Advanced Explosive Module": 2,
       "Uncommon Explosive Module": 2,
       "Ag-Li Reinforced Glass": 2,
-      "Uncommon Reinforced Frame XS": 2
+      "Uncommon Reinforced Frame XS": 2,
+      "Tier 3 Ammo S Schematic Copy": 1
     }
   },
   "Cannon Thermic Ammo S": {
