@@ -1640,10 +1640,37 @@
                   {
                     "name": "Hovercraft Engines",
                     "data": [
-                      "Flat Hover Engine L",
-                      "Hover Engine S",
-                      "Hover Engine M",
-                      "Hover Engine L"
+                      {
+                        "name": "Small Hovercraft Engines",
+                        "data":[
+                          "Basic Hover Engine S"
+                        ]
+                      },
+                      {
+                        "name": "Medium Hovercraft Engines",
+                        "data":[
+                          "Basic Hover Engine M"
+                        ]
+                      },
+                      {
+                        "name": "Large Hovercraft Engines",
+                        "data":[
+                          "Basic Hover Engine L",
+                          "Basic Flat Hover Engine L",
+                          "Uncommon Freight Flat Hover Engine L",
+                          "Uncommon Maneuver Flat Hover Engine L",
+                          "Uncommon Military Flat Hover Engine L",
+                          "Uncommon Freight Hover Engine L",
+                          "Uncommon Maneuver Hover Engine L",
+                          "Uncommon Military Hover Engine L",
+                          "Advanced Freight Flat Hover Engine L",
+                          "Advanced Maneuver Flat Hover Engine L",
+                          "Advanced Military Flat Hover Engine L",
+                          "Advanced Freight Hover Engine L",
+                          "Advanced Maneuver Hover Engine L",
+                          "Advanced Military Hover Engine L"
+                        ]
+                      }
                     ]
                   },
                   {

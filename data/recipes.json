@@ -3895,6 +3895,44 @@
       "Basic Screw": 25
     }
   },
+  "Uncommon Gas Cylinder L":
+  {
+    "tier": 2,
+    "type": "Functional Part",
+    "volume": 1383.2,
+    "outputQuantity": 1,
+    "time": 4536,
+    "byproducts": {},
+    "nanopack": true,
+    "industry": "Metalwork Industry M",
+    "input": {
+      "Basic Screw": 38,
+      "Basic Injector": 38,
+      "Duralumin": 343,
+      "Uncommon Screw": 88,
+      "Uncommon Injector": 88
+    }
+  },
+  "Advanced Gas Cylinder L":
+  {
+    "tier": 3,
+    "type": "Functional Part",
+    "volume": 1383.2,
+    "outputQuantity": 1,
+    "time": 18144,
+    "byproducts": {},
+    "nanopack": true,
+    "industry": "Metalwork Industry M",
+    "input": {
+      "Basic Screw": 38,
+      "Basic Injector": 38,
+      "Uncommon Screw": 38,
+      "Uncommon Injector": 38,
+      "Al-Li Alloy": 343,
+      "Advanced Screw": 50,
+      "Advanced Injector": 50
+    }
+  },
   "Basic Ionic Chamber XS": {
     "tier": 1,
     "type": "Functional Part",
@@ -10213,7 +10251,7 @@
       "Tier 4 XL Element Schematic Copy": 1
     }
   },
-  "Hover Engine S": {
+  "Basic Hover Engine S": {
     "tier": 1,
     "type": "Piloting Element",
     "volume": 22.6,
@@ -10229,7 +10267,7 @@
       "Basic Reinforced Frame XS": 1
     }
   },
-  "Hover Engine M": {
+  "Basic Hover Engine M": {
     "tier": 2,
     "type": "Piloting Element",
     "volume": 116.6,
@@ -10245,7 +10283,7 @@
       "Basic Reinforced Frame S": 1
     }
   },
-  "Hover Engine L": {
+  "Basic Hover Engine L": {
     "tier": 2,
     "type": "Piloting Element",
     "volume": 619.2,
@@ -10257,10 +10295,110 @@
       "Basic Screw": 36,
       "Basic Injector": 25,
       "Basic Gas Cylinder M": 1,
-      "Basic Reinforced Frame M": 1
+      "Basic Reinforced Frame M": 1,
+      "Tier 1 L Element Schematic Copy": 1
     }
   },
-  "Flat Hover Engine L": {
+  "Uncommon Freight Hover Engine L": {
+    "tier": 2,
+    "type": "Piloting Element",
+    "volume": 619.2,
+    "outputQuantity": 1,
+    "time": 21658,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Basic Screw": 108,
+      "Uncommon Screw": 108,
+      "Uncommon Injector": 125,
+      "Uncommon Gas Cylinder L": 1,
+      "Uncommon Reinforced Frame L": 1,
+      "Tier 2 L Element Schematic Copy": 1
+    }
+  },
+  "Uncommon Maneuver Hover Engine L": {
+    "tier": 2,
+    "type": "Piloting Element",
+    "volume": 619.2,
+    "outputQuantity": 1,
+    "time": 21658,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Basic Screw": 108,
+      "Uncommon Screw": 108,
+      "Uncommon Injector": 125,
+      "Uncommon Gas Cylinder L": 1,
+      "Uncommon Reinforced Frame L": 1,
+      "Tier 2 L Element Schematic Copy": 1
+    }
+  },
+  "Uncommon Military Hover Engine L": {
+    "tier": 2,
+    "type": "Piloting Element",
+    "volume": 619.2,
+    "outputQuantity": 1,
+    "time": 21658,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Basic Screw": 108,
+      "Uncommon Screw": 108,
+      "Uncommon Injector": 125,
+      "Uncommon Gas Cylinder L": 1,
+      "Uncommon Reinforced Frame L": 1,
+      "Tier 2 L Element Schematic Copy": 1
+    }
+  },
+  "Advanced Freight Hover Engine L": {
+    "tier": 3,
+    "type": "Piloting Element",
+    "volume": 619.2,
+    "outputQuantity": 1,
+    "time": 64973,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Uncommon Screw": 216,
+      "Advanced Injector": 125,
+      "Advanced Gas Cylinder L": 1,
+      "Advanced Reinforced Frame L": 1,
+      "Tier 3 L Element Schematic Copy": 1
+    }
+  },
+  "Advanced Maneuver Hover Engine L": {
+    "tier": 3,
+    "type": "Piloting Element",
+    "volume": 619.2,
+    "outputQuantity": 1,
+    "time": 64973,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Uncommon Screw": 216,
+      "Advanced Injector": 125,
+      "Advanced Gas Cylinder L": 1,
+      "Advanced Reinforced Frame L": 1,
+      "Tier 3 L Element Schematic Copy": 1
+    }
+  },
+  "Advanced Military Hover Engine L": {
+    "tier": 3,
+    "type": "Piloting Element",
+    "volume": 619.2,
+    "outputQuantity": 1,
+    "time": 64973,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Uncommon Screw": 216,
+      "Advanced Injector": 125,
+      "Advanced Gas Cylinder L": 1,
+      "Advanced Reinforced Frame L": 1,
+      "Tier 3 L Element Schematic Copy": 1
+    }
+  },
+  "Basic Flat Hover Engine L": {
     "tier": 2,
     "type": "Piloting Element",
     "volume": 619.2,
@@ -10272,7 +10410,107 @@
       "Basic Screw": 36,
       "Basic Injector": 25,
       "Basic Gas Cylinder M": 1,
-      "Basic Reinforced Frame M": 1
+      "Basic Reinforced Frame M": 1,
+      "Tier 1 L Element Schematic Copy": 1
+    }
+  },
+  "Uncommon Freight Flat Hover Engine L": {
+    "tier": 2,
+    "type": "Piloting Element",
+    "volume": 619.2,
+    "outputQuantity": 1,
+    "time": 21658,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Basic Screw": 108,
+      "Uncommon Screw": 108,
+      "Uncommon Injector": 125,
+      "Uncommon Gas Cylinder L": 1,
+      "Uncommon Reinforced Frame L": 1,
+      "Tier 2 L Element Schematic Copy": 1
+    }
+  },
+  "Uncommon Maneuver Flat Hover Engine L": {
+    "tier": 2,
+    "type": "Piloting Element",
+    "volume": 619.2,
+    "outputQuantity": 1,
+    "time": 21658,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Basic Screw": 108,
+      "Uncommon Screw": 108,
+      "Uncommon Injector": 125,
+      "Uncommon Gas Cylinder L": 1,
+      "Uncommon Reinforced Frame L": 1,
+      "Tier 2 L Element Schematic Copy": 1
+    }
+  },
+  "Uncommon Military Flat Hover Engine L": {
+    "tier": 2,
+    "type": "Piloting Element",
+    "volume": 619.2,
+    "outputQuantity": 1,
+    "time": 21658,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Basic Screw": 108,
+      "Uncommon Screw": 108,
+      "Uncommon Injector": 125,
+      "Uncommon Gas Cylinder L": 1,
+      "Uncommon Reinforced Frame L": 1,
+      "Tier 2 L Element Schematic Copy": 1
+    }
+  },
+  "Advanced Freight Flat Hover Engine L": {
+    "tier": 3,
+    "type": "Piloting Element",
+    "volume": 619.2,
+    "outputQuantity": 1,
+    "time": 64973,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Uncommon Screw": 216,
+      "Advanced Injector": 125,
+      "Advanced Gas Cylinder L": 1,
+      "Advanced Reinforced Frame L": 1,
+      "Tier 3 L Element Schematic Copy": 1
+    }
+  },
+  "Advanced Maneuver Flat Hover Engine L": {
+    "tier": 3,
+    "type": "Piloting Element",
+    "volume": 619.2,
+    "outputQuantity": 1,
+    "time": 64973,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Uncommon Screw": 216,
+      "Advanced Injector": 125,
+      "Advanced Gas Cylinder L": 1,
+      "Advanced Reinforced Frame L": 1,
+      "Tier 3 L Element Schematic Copy": 1
+    }
+  },
+  "Advanced Military Flat Hover Engine L": {
+    "tier": 3,
+    "type": "Piloting Element",
+    "volume": 619.2,
+    "outputQuantity": 1,
+    "time": 64973,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Uncommon Screw": 216,
+      "Advanced Injector": 125,
+      "Advanced Gas Cylinder L": 1,
+      "Advanced Reinforced Frame L": 1,
+      "Tier 3 L Element Schematic Copy": 1
     }
   },
   "Adjustor XS": {
