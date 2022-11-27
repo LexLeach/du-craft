@@ -7304,7 +7304,7 @@
       "Tier 1 M Element Schematic Copy": 1
     }
   },
-  "Container L": {
+  "Basic Container L": {
     "tier": 1,
     "type": "Industry & Infrastructure Element",
     "volume": 3746,
@@ -7315,7 +7315,8 @@
     "input": {
       "Basic Component": 432,
       "Basic Hydraulics": 250,
-      "Basic Reinforced Frame L": 2
+      "Basic Reinforced Frame L": 2,
+      "Tier 1 L Element Schematic Copy": 1
     }
   },
   "Container XL": {
@@ -7530,7 +7531,8 @@
       "Basic Pipe": 216,
       "Basic Injector": 125,
       "Basic Chemical Container L": 1,
-      "Basic Standard Frame L": 1
+      "Basic Standard Frame L": 1,
+      "Tier 1 L Element Schematic Copy": 1
     }
   },
   "Space Fuel Tank XS": {
@@ -7713,7 +7715,8 @@
     "input": {
       "Basic Screw": 432,
       "Basic Hydraulics": 250,
-      "Basic Standard Frame L": 2
+      "Basic Standard Frame L": 2,
+      "Tier 1 L Element Schematic Copy": 1
     }
   },
   "Basic Assembly Line XS": {
@@ -7919,7 +7922,8 @@
       "Basic Screw": 216,
       "Basic Power System": 125,
       "Basic Mobile Panel L": 1,
-      "Basic Reinforced Frame L": 1
+      "Basic Reinforced Frame L": 1,
+      "Tier 1 L Element Schematic Copy": 1
     }
   },
   "Uncommon Assembly Line L": {
@@ -8610,7 +8614,8 @@
       "Basic Pipe": 216,
       "Basic Hydraulics": 125,
       "Basic Robotic Arm L": 1,
-      "Basic Standard Frame L": 1
+      "Basic Standard Frame L": 1,
+      "Tier 1 L Element Schematic Copy": 1
     }
   },
   "Retro-Rocket Brake S": {
@@ -22008,7 +22013,8 @@
       "Basic Fixation": 216,
       "Basic Hydraulics": 125,
       "Basic Ore Scanner L": 1,
-      "Basic Standard Frame L": 1
+      "Basic Standard Frame L": 1,
+      "Tier 1 L Element Schematic Copy": 1
     }
   },
   "Uncommon Mining Unit L": {
