@@ -7319,7 +7319,7 @@
       "Tier 1 L Element Schematic Copy": 1
     }
   },
-  "Container XL": {
+  "Basic Container XL": {
     "tier": 1,
     "type": "Industry & Infrastructure Element",
     "volume": 10500,
@@ -7330,10 +7330,11 @@
     "input": {
       "Basic Component": 1296,
       "Basic Hydraulics": 625,
-      "Basic Reinforced Frame XL": 1
+      "Basic Reinforced Frame XL": 1,
+      "Tier 1 XL Element Schematic Copy": 1
     }
   },
-  "Expanded Container XL": {
+  "Expanded Basic Container XXL": {
     "tier": 1,
     "type": "Industry & Infrastructure Element",
     "volume": 21000,
@@ -7344,7 +7345,8 @@
     "input": {
       "Basic Component": 2592,
       "Basic Hydraulics": 1250,
-      "Basic Reinforced Frame XL": 2
+      "Basic Reinforced Frame XL": 2,
+      "Tier 1 XL Element Schematic Copy": 1
     }
   },
   "Parcel Container XS": {
@@ -7985,7 +7987,8 @@
       "Basic Screw": 1296,
       "Basic Power System": 625,
       "Basic Mobile Panel XL": 1,
-      "Basic Reinforced Frame XL": 1
+      "Basic Reinforced Frame XL": 1,
+      "Tier 1 XL Element Schematic Copy": 1
     }
   },
   "Uncommon Assembly Line XL": {
@@ -16090,7 +16093,8 @@
       "Basic LED": 1296,
       "Basic Processor": 625,
       "Basic Antenna XL": 1,
-      "Basic Reinforced Frame XL": 1
+      "Basic Reinforced Frame XL": 1,
+      "Tier 1 XL Element Schematic Copy": 1
     }
   },
   "Resurrection Node": {
