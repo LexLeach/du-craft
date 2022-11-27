@@ -1065,7 +1065,7 @@
               {
                 "name": "Displays",
                 "data": [
-                  "Info Button S",
+                  "Info Button XS",
                   {
                     "name": "Screens",
                     "data": [
@@ -1294,7 +1294,7 @@
                 "name": "Item Containers",
                 "data": [
                   "Container Hub",
-                  "Container XS",
+                  "Basic Container XS",
                   "Container S",
                   "Container M",
                   "Container L",

@@ -7258,7 +7258,7 @@
       "Advanced Casing XS": 1
     }
   },
-  "Container XS": {
+  "Basic Container XS": {
     "tier": 1,
     "type": "Industry & Infrastructure Element",
     "volume": 64,
@@ -7270,7 +7270,8 @@
     "input": {
       "Basic Component": 6,
       "Basic Hydraulics": 5,
-      "Basic Reinforced Frame S": 1
+      "Basic Reinforced Frame S": 1,
+      "Tier 1 XS Element Schematic Copy": 1
     }
   },
   "Container S": {
@@ -7476,7 +7477,8 @@
       "Basic Pipe": 1,
       "Basic Injector": 1,
       "Basic Chemical Container XS": 1,
-      "Basic Standard Frame XS": 1
+      "Basic Standard Frame XS": 1,
+      "Tier 1 XS Element Schematic Copy": 1
     }
   },
   "Atmospheric Fuel Tank S": {
@@ -7538,7 +7540,8 @@
       "Basic Pipe": 6,
       "Basic Injector": 5,
       "Basic Chemical Container S": 1,
-      "Basic Standard Frame S": 1
+      "Basic Standard Frame S": 1,
+      "Tier 1 XS Element Schematic Copy": 1
     }
   },
   "Space Fuel Tank S": {
@@ -7659,7 +7662,8 @@
     "input": {
       "Basic Screw": 6,
       "Basic Hydraulics": 5,
-      "Basic Standard Frame S": 1
+      "Basic Standard Frame S": 1,
+      "Tier 1 XS Element Schematic Copy": 1
     }
   },
   "Ammo Container S": {
@@ -7717,7 +7721,8 @@
       "Basic Screw": 1,
       "Basic Power System": 1,
       "Basic Mobile Panel XS": 1,
-      "Basic Reinforced Frame XS": 1
+      "Basic Reinforced Frame XS": 1,
+      "Tier 1 XS Element Schematic Copy": 1
     }
   },
   "Uncommon Assembly Line XS": {
@@ -8914,7 +8919,8 @@
       "Basic Screw": 1,
       "Basic Injector": 1,
       "Basic Combustion Chamber XS": 1,
-      "Basic Reinforced Frame XS": 1
+      "Basic Reinforced Frame XS": 1,
+      "Tier 1 XS Element Schematic Copy": 1
     }
   },
   "Uncommon Freight Atmospheric Engine XS": {
@@ -9741,7 +9747,8 @@
       "Basic Screw": 1,
       "Basic Burner": 1,
       "Basic Ionic Chamber XS": 1,
-      "Basic Reinforced Frame XS": 1
+      "Basic Reinforced Frame XS": 1,
+      "Tier 1 XS Element Schematic Copy": 1
     }
   },
   "Uncommon Freight Space Engine XS": {
@@ -11148,7 +11155,8 @@
     "industry": "Assembly Line XS",
     "input": {
       "Basic Pipe": 1,
-      "Basic Injector": 1
+      "Basic Injector": 1,
+      "Tier 1 XS Element Schematic Copy": 1
     }
   },
   "Basic Vertical Booster S": {
@@ -11310,7 +11318,8 @@
     "input": {
       "Basic Screw": 1,
       "Basic Hydraulics": 1,
-      "Basic Reinforced Frame XS": 1
+      "Basic Reinforced Frame XS": 1,
+      "Tier 1 XS Element Schematic Copy": 1
     }
   },
   "Landing Gear S": {
@@ -11459,7 +11468,8 @@
       "Basic Connector": 1,
       "Basic Magnet": 1,
       "Basic Mechanical Sensor XS": 1,
-      "Basic Casing XS": 1
+      "Basic Casing XS": 1,
+      "Tier 1 XS Element Schematic Copy": 1
     }
   },
   "Telemeter": {
@@ -11564,7 +11574,8 @@
       "Basic Component": 1,
       "Basic Processor": 1,
       "Basic Control System XS": 1,
-      "Basic Casing XS": 1
+      "Basic Casing XS": 1,
+      "Tier 1 XS Element Schematic Copy": 1
     }
   },
   "Gunner Module S": {
@@ -11931,7 +11942,8 @@
     "input": {
       "Basic Component": 1,
       "Basic Electronics": 1,
-      "Basic Casing XS": 1
+      "Basic Casing XS": 1,
+      "Tier 1 XS Element Schematic Copy": 1
     }
   },
   "Databank": {
@@ -11944,7 +11956,8 @@
     "industry": "Assembly Line XS",
     "input": {
       "Basic Component": 1,
-      "Basic Processor": 1
+      "Basic Processor": 1,
+      "Tier 1 XS Element Schematic Copy": 1
     }
   },
   "2 Counter": {
@@ -12041,7 +12054,8 @@
     "industry": "Assembly Line XS",
     "input": {
       "Basic Component": 1,
-      "Basic Electronics": 1
+      "Basic Electronics": 1,
+      "Tier 1 XS Element Schematic Copy": 1
     }
   },
   "Delay Line": {
@@ -12067,7 +12081,8 @@
     "industry": "Assembly Line XS",
     "input": {
       "Basic Screw": 1,
-      "Basic Electronics": 1
+      "Basic Electronics": 1,
+      "Tier 1 XS Element Schematic Copy": 1
     }
   },
   "Receiver S": {
@@ -12115,7 +12130,8 @@
       "Basic Component": 1,
       "Basic Electronics": 1,
       "Basic Antenna XS": 1,
-      "Basic Casing XS": 1
+      "Basic Casing XS": 1,
+      "Tier 1 XS Element Schematic Copy": 1
     }
   },
   "Emitter S": {
@@ -12926,7 +12942,7 @@
       "Advanced Reinforced Frame XL": 1
     }
   },
-  "Info Button S": {
+  "Info Button XS": {
     "tier": 1,
     "type": "Furniture & Appliances Element",
     "volume": 27,
@@ -12940,7 +12956,8 @@
       "Uncommon LED": 1,
       "Uncommon Electronics": 1,
       "Uncommon Antenna XS": 1,
-      "Uncommon Casing XS": 1
+      "Uncommon Casing XS": 1,
+      "Tier 1 XS Element Schematic Copy": 1
     }
   },
   "Screen XS": {
@@ -13256,7 +13273,8 @@
       "Basic Screw": 1,
       "Basic Electronics": 1,
       "Basic Mechanical Sensor XS": 1,
-      "Basic Casing XS": 1
+      "Basic Casing XS": 1,
+      "Tier 1 XS Element Schematic Copy": 1
     }
   },
   "Manual Button XS": {
@@ -16063,7 +16081,8 @@
       "Basic Component": 6,
       "Basic Optics": 5,
       "Basic Laser Chamber S": 1,
-      "Basic Casing S": 1
+      "Basic Casing S": 1,
+      "Tier 1 XS Element Schematic Copy": 1
     }
   },
   "Cannon XS": {
@@ -21857,7 +21876,8 @@
     "industry": "Assembly Line XS",
     "input": {
       "Silumin": 1,
-      "Basic Fixation": 1
+      "Basic Fixation": 1,
+      "Tier 1 XS Element Schematic Copy": 1
     }
   },
   "Repair Unit": {
