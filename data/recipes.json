@@ -7289,7 +7289,7 @@
       "Tier 1 S Element Schematic Copy": 1
     }
   },
-  "Container M": {
+  "Basic Container M": {
     "tier": 1,
     "type": "Industry & Infrastructure Element",
     "volume": 1873,
@@ -7300,7 +7300,8 @@
     "input": {
       "Basic Component": 216,
       "Basic Hydraulics": 125,
-      "Basic Reinforced Frame L": 1
+      "Basic Reinforced Frame L": 1,
+      "Tier 1 M Element Schematic Copy": 1
     }
   },
   "Container L": {
@@ -7447,7 +7448,8 @@
       "Basic Screw": 36,
       "Basic Power System": 25,
       "Basic Screen M": 1,
-      "Basic Standard Frame M": 1
+      "Basic Standard Frame M": 1,
+      "Tier 1 M Element Schematic Copy": 1
     }
   },
   "Deprecated Dispenser": {
@@ -7462,7 +7464,8 @@
       "Basic Screw": 36,
       "Basic Power System": 25,
       "Basic Screen M": 1,
-      "Basic Standard Frame M": 1
+      "Basic Standard Frame M": 1,
+      "Tier 1 M Element Schematic Copy": 1
     }
   },
   "Atmospheric Fuel Tank XS": {
@@ -7511,7 +7514,8 @@
       "Basic Pipe": 36,
       "Basic Injector": 25,
       "Basic Chemical Container M": 1,
-      "Basic Standard Frame M": 1
+      "Basic Standard Frame M": 1,
+      "Tier 1 M Element Schematic Copy": 1
     }
   },
   "Atmospheric Fuel Tank L": {
@@ -7694,7 +7698,8 @@
     "input": {
       "Basic Screw": 216,
       "Basic Hydraulics": 125,
-      "Basic Standard Frame L": 1
+      "Basic Standard Frame L": 1,
+      "Tier 1 M Element Schematic Copy": 1
     }
   },
   "Ammo Container L": {
@@ -7851,7 +7856,8 @@
       "Basic Screw": 36,
       "Basic Power System": 25,
       "Basic Mobile Panel M": 1,
-      "Basic Reinforced Frame M": 1
+      "Basic Reinforced Frame M": 1,
+      "Tier 1 M Element Schematic Copy": 1
     }
   },
   "Uncommon Assembly Line M": {
@@ -8037,7 +8043,8 @@
       "Basic Pipe": 36,
       "Basic Injector": 25,
       "Basic Robotic Arm M": 1,
-      "Basic Reinforced Frame M": 1
+      "Basic Reinforced Frame M": 1,
+      "Tier 1 M Element Schematic Copy": 1
     }
   },
   "Uncommon 3D Printer M": {
@@ -8099,7 +8106,8 @@
       "Basic Pipe": 36,
       "Basic Power System": 25,
       "Basic Chemical Container M": 1,
-      "Basic Reinforced Frame M": 1
+      "Basic Reinforced Frame M": 1,
+      "Tier 1 M Element Schematic Copy": 1
     }
   },
   "Uncommon Chemical Industry M": {
@@ -8161,7 +8169,8 @@
       "Basic Pipe": 36,
       "Basic Electronics": 25,
       "Basic Robotic Arm M": 1,
-      "Basic Reinforced Frame M": 1
+      "Basic Reinforced Frame M": 1,
+      "Tier 1 M Element Schematic Copy": 1
     }
   },
   "Uncommon Electronics Industry M": {
@@ -8223,7 +8232,8 @@
       "Basic Pipe": 36,
       "Basic Burner": 25,
       "Basic Power Transformer M": 1,
-      "Basic Reinforced Frame M": 1
+      "Basic Reinforced Frame M": 1,
+      "Tier 1 M Element Schematic Copy": 1
     }
   },
   "Uncommon Glass Furnace M": {
@@ -8285,7 +8295,8 @@
       "Basic Pipe": 36,
       "Basic Power System": 25,
       "Basic Robotic Arm M": 1,
-      "Basic Reinforced Frame M": 1
+      "Basic Reinforced Frame M": 1,
+      "Tier 1 M Element Schematic Copy": 1
     }
   },
   "Uncommon Honeycomb Refinery M": {
@@ -8347,7 +8358,8 @@
       "Basic Pipe": 36,
       "Basic Power System": 25,
       "Basic Mobile Panel M": 1,
-      "Basic Reinforced Frame M": 1
+      "Basic Reinforced Frame M": 1,
+      "Tier 1 M Element Schematic Copy": 1
     }
   },
   "Uncommon Metalwork Industry M": {
@@ -8409,7 +8421,8 @@
       "Basic Pipe": 36,
       "Basic Burner": 25,
       "Basic Mobile Panel M": 1,
-      "Basic Reinforced Frame M": 1
+      "Basic Reinforced Frame M": 1,
+      "Tier 1 M Element Schematic Copy": 1
     }
   },
   "Uncommon Recycler M": {
@@ -8471,7 +8484,8 @@
       "Basic Pipe": 36,
       "Basic Power System": 25,
       "Basic Chemical Container M": 1,
-      "Basic Reinforced Frame M": 1
+      "Basic Reinforced Frame M": 1,
+      "Tier 1 M Element Schematic Copy": 1
     }
   },
   "Uncommon Refiner M": {
@@ -8533,7 +8547,8 @@
       "Basic Pipe": 36,
       "Basic Burner": 25,
       "Basic Chemical Container M": 1,
-      "Basic Reinforced Frame M": 1
+      "Basic Reinforced Frame M": 1,
+      "Tier 1 M Element Schematic Copy": 1
     }
   },
   "Uncommon Smelter M": {
@@ -9332,7 +9347,8 @@
       "Basic Screw": 36,
       "Basic Injector": 25,
       "Basic Combustion Chamber M": 1,
-      "Basic Reinforced Frame M": 1
+      "Basic Reinforced Frame M": 1,
+      "Tier 1 M Element Schematic Copy": 1
     }
   },
   "Uncommon Freight Atmospheric Engine M": {
@@ -10161,7 +10177,8 @@
       "Basic Screw": 36,
       "Basic Burner": 25,
       "Basic Ionic Chamber M": 1,
-      "Basic Reinforced Frame M": 1
+      "Basic Reinforced Frame M": 1,
+      "Tier 1 M Element Schematic Copy": 1
     }
   },
   "Uncommon Freight Space Engine M": {
@@ -10814,7 +10831,8 @@
       "Basic Screw": 6,
       "Basic Injector": 5,
       "Basic Gas Cylinder S": 1,
-      "Basic Reinforced Frame S": 1
+      "Basic Reinforced Frame S": 1,
+      "Tier 1 M Element Schematic Copy": 1
     }
   },
   "Basic Hover Engine L": {
@@ -11196,7 +11214,8 @@
       "Basic Pipe": 6,
       "Basic Injector": 5,
       "Basic Ionic Chamber S": 1,
-      "Basic Standard Frame S": 1
+      "Basic Standard Frame S": 1,
+      "Tier 1 M Element Schematic Copy": 1
     }
   },
   "Basic Vertical Booster L": {
@@ -11556,7 +11575,7 @@
       "Tier 1 S Element Schematic Copy": 1
     }
   },
-  "Cockpit Controller": {
+  "Cockpit M": {
     "tier": 1,
     "type": "Systems Element",
     "volume": 491.2,
@@ -11568,7 +11587,8 @@
       "Basic Component": 36,
       "Basic Hydraulics": 25,
       "Basic Control System M": 1,
-      "Basic Standard Frame M": 1
+      "Basic Standard Frame M": 1,
+      "Tier 1 M Element Schematic Copy": 1
     }
   },
   "Programming Board": {
@@ -11729,7 +11749,8 @@
     "input": {
       "Steel": 49,
       "Basic Connector": 36,
-      "Basic Reinforced Frame M": 1
+      "Basic Reinforced Frame M": 1,
+      "Tier 1 M Element Schematic Copy": 1
     }
   },
   "Reinforced Sliding Door": {
@@ -21940,7 +21961,8 @@
       "Basic Component": 6,
       "Basic Processor": 5,
       "Basic Screen S": 1,
-      "Basic Standard Frame S": 1
+      "Basic Standard Frame S": 1,
+      "Tier 1 M Element Schematic Copy": 1
     }
   },
   "Transponder": {
