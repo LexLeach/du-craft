@@ -1302,7 +1302,7 @@
                   "Container Hub",
                   "Basic Container XS",
                   "Basic Container S",
-                  "Container M",
+                  "Basic Container M",
                   "Container L",
                   "Container XL",
                   "Expanded Container XL"
@@ -1473,7 +1473,7 @@
               {
                 "name": "Piloting Control Units",
                 "data": [
-                  "Cockpit Controller",
+                  "Cockpit M",
                   "Command Seat Controller",
                   "Hovercraft Seat Controller",
                   "Remote Controller"
