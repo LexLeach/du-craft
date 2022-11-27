@@ -2708,9 +2708,33 @@
         "name": "Elements",
         "data": [
           {
+            "name": "XS",
+            "data": [
+              "Tier 1 XS Element Schematic Copy",
+              "Tier 2 XS Element Schematic Copy",
+              "Tier 3 XS Element Schematic Copy",
+              "Tier 4 XS Element Schematic Copy",
+              "Tier 5 XS Element Schematic Copy"
+            ]
+          },
+          {
+            "name": "S",
+            "data": [
+              "Tier 1 S Element Schematic Copy",
+              "Tier 2 S Element Schematic Copy",
+              "Tier 3 S Element Schematic Copy",
+              "Tier 4 S Element Schematic Copy",
+              "Tier 5 S Element Schematic Copy"
+            ]
+          },
+          {
             "name": "M",
             "data": [
-              "Tier 3 M Element Schematic Copy"
+              "Tier 1 M Element Schematic Copy",
+              "Tier 2 M Element Schematic Copy",
+              "Tier 3 M Element Schematic Copy",
+              "Tier 4 M Element Schematic Copy",
+              "Tier 5 M Element Schematic Copy"
             ]
           },
           {
@@ -2736,20 +2760,108 @@
         ]
       },
       {
-        "name": "Consumables",
+        "name": "Core Units",
         "data": [
-          "Warp Cell Schematic Copy"
+          "Core Unit XS Schematic Copy",
+          "Core Unit S Schematic Copy",
+          "Core Unit M Schematic Copy",
+          "Core Unit L Schematic Copy"
+        ]
+      },
+      {
+        "name": "Construct Supports",
+        "data": [
+          "Construct Support XS Schematic Copy",
+          "Construct Support S Schematic Copy",
+          "Construct Support M Schematic Copy",
+          "Construct Support L Schematic Copy"
+        ]
+      },
+      {
+        "name": "Large Stationary Objects",
+        "data": [
+          "Territory Unit Schematic Copy",
+          "Warp Beacon Schematic Copy"
+        ]
+      },
+      {
+        "name": "Pure Honeycomb Materials",
+        "data": [
+          "Tier 2 Pure Honeycomb Material Schematic Copy",
+          "Tier 3 Pure Honeycomb Material Schematic Copy",
+          "Tier 4 Pure Honeycomb Material Schematic Copy",
+          "Tier 5 Pure Honeycomb Material Schematic Copy"
+        ]
+      },
+      {
+        "name": "Product Honeycomb Materials",
+        "data": [
+          "Tier 1 Product Honeycomb Material Schematic Copy",
+          "Tier 2 Product Honeycomb Material Schematic Copy",
+          "Tier 3 Product Honeycomb Material Schematic Copy",
+          "Tier 4 Product Honeycomb Material Schematic Copy",
+          "Tier 5 Product Honeycomb Material Schematic Copy"
+        ]
+      },
+      {
+        "name": "Scraps",
+        "data": [
+          "Tier 2 Scrap Schematic Copy",
+          "Tier 3 Scrap Schematic Copy",
+          "Tier 4 Scrap Schematic Copy",
+          "Tier 5 Scrap Schematic Copy"
         ]
       },
       {
         "name": "Ammo",
         "data": [
           {
+            "name": "XS",
+            "data" : [
+              "Tier 2 Ammo XS Schematic Copy",
+              "Tier 3 Ammo XS Schematic Copy",
+              "Tier 4 Ammo XS Schematic Copy"
+            ]
+          },
+          {
             "name": "S",
             "data" : [
-              "Tier 3 Ammo S Schematic Copy"
+              "Tier 2 Ammo S Schematic Copy",
+              "Tier 3 Ammo S Schematic Copy",
+              "Tier 4 Ammo S Schematic Copy"
+            ]
+          },
+          {
+            "name": "M",
+            "data" : [
+              "Tier 2 Ammo M Schematic Copy",
+              "Tier 3 Ammo M Schematic Copy",
+              "Tier 4 Ammo M Schematic Copy"
+            ]
+          },
+          {
+            "name": "L",
+            "data" : [
+              "Tier 2 Ammo L Schematic Copy",
+              "Tier 3 Ammo L Schematic Copy",
+              "Tier 4 Ammo L Schematic Copy"
             ]
           }
+        ]
+      },
+      {
+        "name": "Fuels",
+        "data": [
+          "Atmospheric Fuel Schematic Copy",
+          "Space Fuels Schematic Copy",
+          "Rocket Fuels Schematic Copy",
+          "Warp Cell Schematic Copy"
+        ]
+      },
+      {
+        "name": "Cosmetics",
+        "data": [
+          "Bonsai Schematic Copy"
         ]
       }
     ]

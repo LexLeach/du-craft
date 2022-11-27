@@ -1,4 +1,354 @@
 {
+  "Tier 1 XS Element Schematic Copy": {
+    "tier": 1,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 10,
+    "time": 750,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 1 S Element Schematic Copy": {
+    "tier": 1,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 5,
+    "time": 1500,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 1 M Element Schematic Copy": {
+    "tier": 1,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 3,
+    "time": 3000,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 1 L Element Schematic Copy": {
+    "tier": 1,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 2,
+    "time": 6000,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 1 XL Element Schematic Copy": {
+    "tier": 1,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 1,
+    "time": 12000,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 2 XS Element Schematic Copy": {
+    "tier": 2,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 10,
+    "time": 1875,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 2 S Element Schematic Copy": {
+    "tier": 2,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 5,
+    "time": 3750,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 2 M Element Schematic Copy": {
+    "tier": 2,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 3,
+    "time": 7500,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 2 L Element Schematic Copy": {
+    "tier": 2,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 2,
+    "time": 15000,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 2 XL Element Schematic Copy": {
+    "tier": 2,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 1,
+    "time": 30000,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 3 XS Element Schematic Copy": {
+    "tier": 3,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 10,
+    "time": 4687,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 3 S Element Schematic Copy": {
+    "tier": 3,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 5,
+    "time": 9374,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 3 M Element Schematic Copy": {
+    "tier": 3,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 3,
+    "time": 18780,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 3 L Element Schematic Copy": {
+    "tier": 3,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 2,
+    "time": 37500,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 3 XL Element Schematic Copy": {
+    "tier": 3,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 1,
+    "time": 75000,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 4 XS Element Schematic Copy": {
+    "tier": 4,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 10,
+    "time": 11700,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 4 S Element Schematic Copy": {
+    "tier": 4,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 5,
+    "time": 23460,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 4 M Element Schematic Copy": {
+    "tier": 4,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 3,
+    "time": 46860,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 4 L Element Schematic Copy": {
+    "tier": 4,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 2,
+    "time": 93780,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 4 XL Element Schematic Copy": {
+    "tier": 4,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 1,
+    "time": 187200,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 5 XS Element Schematic Copy": {
+    "tier": 5,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 10,
+    "time": 29280,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 5 S Element Schematic Copy": {
+    "tier": 5,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 5,
+    "time": 58620,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 5 M Element Schematic Copy": {
+    "tier": 5,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 3,
+    "time": 117180,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 5 L Element Schematic Copy": {
+    "tier": 5,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 2,
+    "time": 234000,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 5 XL Element Schematic Copy": {
+    "tier": 5,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 1,
+    "time": 468000,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Core Unit XS Schematic Copy": {
+    "tier": 1,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 10,
+    "time": 500,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Core Unit S Schematic Copy": {
+    "tier": 1,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 5,
+    "time": 5000,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Core Unit M Schematic Copy": {
+    "tier": 2,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 2,
+    "time": 25020,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Core Unit L Schematic Copy": {
+    "tier": 2,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 1,
+    "time": 145020,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Construct Support XS Schematic Copy": {
+    "tier": 1,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 25,
+    "time": 750,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Construct Support S Schematic Copy": {
+    "tier": 1,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 20,
+    "time": 1500,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Construct Support M Schematic Copy": {
+    "tier": 1,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 15,
+    "time": 3000,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Construct Support L Schematic Copy": {
+    "tier": 1,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 10,
+    "time": 6000,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Territory Unit Schematic Copy": {
+    "tier": 1,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 5,
+    "time": 19980,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Warp Beacon Schematic Copy": {
+    "tier": 1,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 5,
+    "time": 1000800,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
   "Tier 2 Pure Material Schematic Copy": {
     "tier": 2,
     "type": "Schematics",
@@ -89,112 +439,282 @@
     "industry": "",
     "input": {}
   },
-  "Tier 1 L Element Schematic Copy": {
+  "Tier 2 Pure Honeycomb Material Schematic Copy": {
+    "tier": 2,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 25,
+    "time": 625,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 3 Pure Honeycomb Material Schematic Copy": {
+    "tier": 3,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 25,
+    "time": 1562,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 4 Pure Honeycomb Material Schematic Copy": {
+    "tier": 4,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 25,
+    "time": 3906,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 5 Pure Honeycomb Material Schematic Copy": {
+    "tier": 5,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 25,
+    "time": 9780,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 1 Product Honeycomb Material Schematic Copy": {
     "tier": 1,
     "type": "Schematics",
     "volume": 0,
-    "outputQuantity": 2,
+    "outputQuantity": 25,
+    "time": 250,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 2 Product Honeycomb Material Schematic Copy": {
+    "tier": 2,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 25,
+    "time": 625,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 3 Product Honeycomb Material Schematic Copy": {
+    "tier": 3,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 25,
+    "time": 1562,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 4 Product Honeycomb Material Schematic Copy": {
+    "tier": 4,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 25,
+    "time": 3906,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 5 Product Honeycomb Material Schematic Copy": {
+    "tier": 5,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 25,
+    "time": 9780,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 2 Scrap Schematic Copy": {
+    "tier": 2,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 25,
+    "time": 150,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 3 Scrap Schematic Copy": {
+    "tier": 3,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 25,
+    "time": 375,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 4 Scrap Schematic Copy": {
+    "tier": 4,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 25,
+    "time": 937,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 5 Scrap Schematic Copy": {
+    "tier": 5,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 25,
+    "time": 2343,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 2 Ammo XS Schematic Copy": {
+    "tier": 2,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 25,
+    "time": 3000,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 2 Ammo S Schematic Copy": {
+    "tier": 2,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 25,
     "time": 6000,
     "byproducts": {},
     "industry": "",
     "input": {}
   },
-  "Tier 2 L Element Schematic Copy": {
+  "Tier 2 Ammo M Schematic Copy": {
     "tier": 2,
     "type": "Schematics",
     "volume": 0,
-    "outputQuantity": 2,
-    "time": 15000,
-    "byproducts": {},
-    "industry": "",
-    "input": {}
-  },
-  "Tier 3 L Element Schematic Copy": {
-    "tier": 3,
-    "type": "Schematics",
-    "volume": 0,
-    "outputQuantity": 2,
-    "time": 37500,
-    "byproducts": {},
-    "industry": "",
-    "input": {}
-  },
-  "Tier 4 L Element Schematic Copy": {
-    "tier": 4,
-    "type": "Schematics",
-    "volume": 0,
-    "outputQuantity": 2,
-    "time": 93780,
-    "byproducts": {},
-    "industry": "",
-    "input": {}
-  },
-  "Tier 5 L Element Schematic Copy": {
-    "tier": 5,
-    "type": "Schematics",
-    "volume": 0,
-    "outputQuantity": 2,
-    "time": 234000,
-    "byproducts": {},
-    "industry": "",
-    "input": {}
-  },
-  "Tier 3 M Element Schematic Copy": {
-    "tier": 3,
-    "type": "Schematics",
-    "volume": 0,
-    "outputQuantity": 3,
-    "time": 18780,
-    "byproducts": {},
-    "industry": "",
-    "input": {}
-  },
-  "Tier 1 XL Element Schematic Copy": {
-    "tier": 1,
-    "type": "Schematics",
-    "volume": 0,
-    "outputQuantity": 1,
+    "outputQuantity": 25,
     "time": 12000,
     "byproducts": {},
     "industry": "",
     "input": {}
   },
-  "Tier 2 XL Element Schematic Copy": {
+  "Tier 2 Ammo L Schematic Copy": {
     "tier": 2,
     "type": "Schematics",
     "volume": 0,
-    "outputQuantity": 1,
+    "outputQuantity": 25,
+    "time": 24000,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 3 Ammo XS Schematic Copy": {
+    "tier": 3,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 25,
+    "time": 7500,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 3 Ammo S Schematic Copy": {
+    "tier": 3,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 25,
+    "time": 15000,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 3 Ammo M Schematic Copy": {
+    "tier": 3,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 25,
     "time": 30000,
     "byproducts": {},
     "industry": "",
     "input": {}
   },
-  "Tier 3 XL Element Schematic Copy": {
+  "Tier 3 Ammo L Schematic Copy": {
     "tier": 3,
     "type": "Schematics",
     "volume": 0,
-    "outputQuantity": 1,
+    "outputQuantity": 25,
+    "time": 6000,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 4 Ammo XS Schematic Copy": {
+    "tier": 4,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 25,
+    "time": 18780,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 4 Ammo S Schematic Copy": {
+    "tier": 4,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 25,
+    "time": 37500,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Tier 4 Ammo M Schematic Copy": {
+    "tier": 4,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 25,
     "time": 75000,
     "byproducts": {},
     "industry": "",
     "input": {}
   },
-  "Tier 4 XL Element Schematic Copy": {
+  "Tier 4 Ammo L Schematic Copy": {
     "tier": 4,
     "type": "Schematics",
     "volume": 0,
-    "outputQuantity": 1,
-    "time": 187200,
+    "outputQuantity": 25,
+    "time": 150000,
     "byproducts": {},
     "industry": "",
     "input": {}
   },
-  "Tier 5 XL Element Schematic Copy": {
-    "tier": 5,
+  "Atmospheric Fuel Schematic Copy": {
+    "tier": 1,
     "type": "Schematics",
     "volume": 0,
-    "outputQuantity": 1,
-    "time": 468000,
+    "outputQuantity": 50,
+    "time": 600,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Space Fuels Schematic Copy": {
+    "tier": 2,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 50,
+    "time": 1500,
+    "byproducts": {},
+    "industry": "",
+    "input": {}
+  },
+  "Rocket Fuels Schematic Copy": {
+    "tier": 2,
+    "type": "Schematics",
+    "volume": 0,
+    "outputQuantity": 50,
+    "time": 3750,
     "byproducts": {},
     "industry": "",
     "input": {}
@@ -209,12 +729,12 @@
     "industry": "",
     "input": {}
   },
-  "Tier 3 Ammo S Schematic Copy": {
-    "tier": 3,
+  "Bonsai Schematic Copy": {
+    "tier": 5,
     "type": "Schematics",
     "volume": 0,
-    "outputQuantity": 25,
-    "time": 15000,
+    "outputQuantity": 1,
+    "time": 1,
     "byproducts": {},
     "industry": "",
     "input": {}
