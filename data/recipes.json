@@ -7274,7 +7274,7 @@
       "Tier 1 XS Element Schematic Copy": 1
     }
   },
-  "Container S": {
+  "Basic Container S": {
     "tier": 1,
     "type": "Industry & Infrastructure Element",
     "volume": 342,
@@ -7285,7 +7285,8 @@
     "input": {
       "Basic Component": 36,
       "Basic Hydraulics": 25,
-      "Basic Reinforced Frame M": 1
+      "Basic Reinforced Frame M": 1,
+      "Tier 1 S Element Schematic Copy": 1
     }
   },
   "Container M": {
@@ -7494,7 +7495,8 @@
       "Basic Pipe": 6,
       "Basic Injector": 5,
       "Basic Chemical Container S": 1,
-      "Basic Standard Frame S": 1
+      "Basic Standard Frame S": 1,
+      "Tier 1 S Element Schematic Copy": 1
     }
   },
   "Atmospheric Fuel Tank M": {
@@ -7677,7 +7679,8 @@
     "input": {
       "Basic Screw": 36,
       "Basic Hydraulics": 25,
-      "Basic Standard Frame M": 1
+      "Basic Standard Frame M": 1,
+      "Tier 1 S Element Schematic Copy": 1
     }
   },
   "Ammo Container M": {
@@ -7785,7 +7788,8 @@
       "Basic Screw": 6,
       "Basic Power System": 5,
       "Basic Mobile Panel S": 1,
-      "Basic Reinforced Frame S": 1
+      "Basic Reinforced Frame S": 1,
+      "Tier 1 S Element Schematic Copy": 1
     }
   },
   "Uncommon Assembly Line S": {
@@ -9124,7 +9128,8 @@
       "Basic Screw": 6,
       "Basic Injector": 5,
       "Basic Combustion Chamber S": 1,
-      "Basic Reinforced Frame S": 1
+      "Basic Reinforced Frame S": 1,
+      "Tier 1 S Element Schematic Copy": 1
     }
   },
   "Uncommon Freight Atmospheric Engine S": {
@@ -9952,7 +9957,8 @@
       "Basic Screw": 6,
       "Basic Burner": 5,
       "Basic Ionic Chamber S": 1,
-      "Basic Reinforced Frame S": 1
+      "Basic Reinforced Frame S": 1,
+      "Tier 1 S Element Schematic Copy": 1
     }
   },
   "Uncommon Freight Space Engine S": {
@@ -10791,7 +10797,8 @@
       "Basic Screw": 1,
       "Basic Injector": 1,
       "Basic Gas Cylinder XS": 1,
-      "Basic Reinforced Frame XS": 1
+      "Basic Reinforced Frame XS": 1,
+      "Tier 1 S Element Schematic Copy": 1
     }
   },
   "Basic Hover Engine M": {
@@ -11172,7 +11179,8 @@
       "Basic Pipe": 1,
       "Basic Injector": 1,
       "Basic Ionic Chamber XS": 1,
-      "Basic Standard Frame XS": 1
+      "Basic Standard Frame XS": 1,
+      "Tier 1 S Element Schematic Copy": 1
     }
   },
   "Basic Vertical Booster M": {
@@ -11514,7 +11522,8 @@
       "Basic Component": 6,
       "Basic Electronics": 5,
       "Basic Control System S": 1,
-      "Basic Standard Frame S": 1
+      "Basic Standard Frame S": 1,
+      "Tier 1 S Element Schematic Copy": 1
     }
   },
   "Emergency Controller": {
@@ -11543,7 +11552,8 @@
       "Basic Component": 6,
       "Basic Processor": 5,
       "Basic Control System S": 1,
-      "Basic Standard Frame S": 1
+      "Basic Standard Frame S": 1,
+      "Tier 1 S Element Schematic Copy": 1
     }
   },
   "Cockpit Controller": {
@@ -11704,7 +11714,8 @@
       "Basic Screw": 6,
       "Basic Power System": 5,
       "Basic Electric Engine S": 1,
-      "Basic Standard Frame S": 1
+      "Basic Standard Frame S": 1,
+      "Tier 1 S Element Schematic Copy": 1
     }
   },
   "Sliding Door M": {
@@ -11733,7 +11744,8 @@
       "Basic Screw": 36,
       "Basic Power System": 25,
       "Basic Electric Engine M": 1,
-      "Basic Reinforced Frame M": 1
+      "Basic Reinforced Frame M": 1,
+      "Tier 1 S Element Schematic Copy": 1
     }
   },
   "Interior Door": {
@@ -11748,7 +11760,8 @@
       "Basic Screw": 36,
       "Basic Power System": 25,
       "Basic Electric Engine M": 1,
-      "Basic Reinforced Frame M": 1
+      "Basic Reinforced Frame M": 1,
+      "Tier 1 S Element Schematic Copy": 1
     }
   },
   "Airlock": {
@@ -11763,7 +11776,8 @@
       "Basic Screw": 36,
       "Basic Power System": 25,
       "Basic Electric Engine M": 1,
-      "Basic Reinforced Frame M": 1
+      "Basic Reinforced Frame M": 1,
+      "Tier 1 S Element Schematic Copy": 1
     }
   },
   "Gate XS": {
@@ -13300,7 +13314,8 @@
     "industry": "Assembly Line XS",
     "input": {
       "Basic Screw": 1,
-      "Basic Electronics": 1
+      "Basic Electronics": 1,
+      "Tier 1 S Element Schematic Copy": 1
     }
   },
   "Laser Receiver": {
@@ -21862,7 +21877,8 @@
     "input": {
       "Silumin": 7,
       "Basic Fixation": 6,
-      "Basic Reinforced Frame S": 1
+      "Basic Reinforced Frame S": 1,
+      "Tier 1 S Element Schematic Copy": 1
     }
   },
   "Fuel Intake XS": {
@@ -21954,7 +21970,8 @@
       "Basic Fixation": 6,
       "Basic Hydraulics": 5,
       "Basic Ore Scanner S": 1,
-      "Basic Standard Frame S": 1
+      "Basic Standard Frame S": 1,
+      "Tier 1 S Element Schematic Copy": 1
     }
   },
   "Basic Mining Unit L": {
@@ -22035,6 +22052,23 @@
       "Exotic Ore Scanner L": 1,
       "Exotic Quantum Alignment Unit": 64,
       "Exotic Standard Frame L": 1
+    }
+  },
+  "Fireworks Launcher S": {
+    "tier": 1,
+    "type": "Furniture & Appliances Element",
+    "volume": 16.6,
+    "outputQuantity": 1,
+    "time": 90,
+    "byproducts": {},
+    "industry": "Assembly Line XS",
+    "nanopack": true,
+    "input": {
+      "Basic Screw": 1,
+      "Basic Electronics": 1,
+      "Basic Firing System XS": 1,
+      "Basic Standard Frame XS": 1,
+      "Tier 1 S Element Schematic Copy": 1
     }
   }
 }

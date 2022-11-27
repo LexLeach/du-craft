@@ -879,6 +879,12 @@
         "name": "Furniture & Appliances",
         "data": [
           {
+            "name": "Fireworks Launchers",
+            "data": [
+              "Fireworks Launcher S"
+            ]
+          },
+          {
             "name": "Chairs",
             "data": [
               "Bed",
@@ -1295,7 +1301,7 @@
                 "data": [
                   "Container Hub",
                   "Basic Container XS",
-                  "Container S",
+                  "Basic Container S",
                   "Container M",
                   "Container L",
                   "Container XL",
