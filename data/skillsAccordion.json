@@ -1858,5 +1858,58 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Schematics",
+    "data": [
+      {
+        "name": "Cost Optimization",
+        "type": "Schematics",
+        "subject": "Type",
+        "class": "Cost",
+        "skills": [
+          {
+            "name": "Basic",
+            "amount": 0.05
+          },
+          {
+            "name": "Advanced",
+            "amount": 0.03
+          }
+        ]
+      },
+      {
+        "name": "Research Time Efficiency",
+        "type": "Schematics",
+        "subject": "Type",
+        "class": "Time",
+        "skills": [
+          {
+            "name": "Basic",
+            "amount": 0.03
+          },
+          {
+            "name": "Advanced",
+            "amount": 0.02
+          }
+        ]
+      },
+      {
+        "name": "Output Productivity",
+        "type": "Schematics",
+        "subject": "Type",
+        "class": "Output",
+        "skills": [
+          {
+            "name": "Basic",
+            "amount": 0.03
+          },
+          {
+            "name": "Advanced",
+            "amount": 0.02
+          }
+        ]
+      }
+    ]
   }
 ]

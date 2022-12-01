@@ -363,6 +363,7 @@ function recipeCalc(recipes) {
             k.type = this.db[k.name].type;
             k.typeid = this.types.indexOf(k.type);
             k.industry = this.db[k.name].industry;
+            k.actualOQ = Math.round(this.db[k.name].actualOQ);
         }
 
         compressedList.forEach(populate, this);
