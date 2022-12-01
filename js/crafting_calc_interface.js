@@ -265,7 +265,6 @@ function calculate() {
     }
 
     itemLists = cc.calcList(craft, inv);
-    console.debug(JSON.stringify(itemLists));
     var list = itemLists.normal;
 
     var totOre = 0;
@@ -379,8 +378,6 @@ function calculate() {
                 var price = document.createElement("div");
                 price.classList.add("ore-quantity");
 
-                console.debug(JSON.stringify(list[i]));
-                console.debug(JSON.stringify(recipes[list[i].name]));
                 price.innerHTML = formatNum(Math.ceil(list[i].quantity/list[i].actualOQ) * schematicsPrices[list[i].name] * (1-costReduction), 0);
                 orePrice += Math.ceil(list[i].quantity/list[i].actualOQ) * schematicsPrices[list[i].name] * (1-costReduction);
     
