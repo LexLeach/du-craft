@@ -75,6 +75,20 @@ function getAllSkills() {
     return skills;
 }
 
+function getSkills(skillType, skillClass)
+{
+    const skills = [];
+    skillTree.forEach(c => {
+        c.groups.forEach(g => {
+            g.skills.forEach(s => {
+                if (s.type === skillType && s.class === skillClass) {
+                    skills.push(s);
+                };
+            })
+        })
+    })
+    return skills;
+}
 
 function loadJSON(path, callback) {
     let xobj = new XMLHttpRequest();
@@ -109,7 +123,7 @@ function copyStringToClipboard(str) {
 var itemsAccordion, prices, recipes, german, schematicsPrices;
 
 const version = "1";
-const lastUpdateTime = "2022-11-27";
+const lastUpdateTime = "2022-12-01";
 document.getElementById("lastUpdateTime").innerHTML = lastUpdateTime;
 console.log("Crafting Calculator Updated On: " + lastUpdateTime)
 console.log("Crafting Calculator Profile Version: " + version)
@@ -217,7 +231,7 @@ function validateSkill(skill) {
     if (skill.subject === "Industry") {
         console.assert(!skill.type, JSON.stringify(skill));
         console.assert(!skill.tier, JSON.stringify(skill));
-    } else {
+    } else if (!skill.subject === "Schematics") {
         console.assert(skill.type, JSON.stringify(skill));
         console.assert(skill.tier, JSON.stringify(skill));
     }
@@ -251,6 +265,7 @@ function calculate() {
     }
 
     itemLists = cc.calcList(craft, inv);
+    console.debug(JSON.stringify(itemLists));
     var list = itemLists.normal;
 
     var totOre = 0;
@@ -258,6 +273,14 @@ function calculate() {
     var orePrice = 0;
 
     var striped = false;
+
+    
+    var costSkills = getSkills("Schematics", "Cost");
+    var costReduction = 0;
+    costSkills.forEach(s => {
+        skillLevel = skillValues.getValue(s.id);
+        costReduction = costReduction + s.amount * skillLevel;
+    });
 
     for (var i = 0; i < list.length; i++) {
         var typeIndex = cc.types.indexOf(cc.db[list[i].name].type);
@@ -355,8 +378,11 @@ function calculate() {
     
                 var price = document.createElement("div");
                 price.classList.add("ore-quantity");
-                price.innerHTML = formatNum(Math.ceil(list[i].quantity/recipes[list[i].name].outputQuantity) * schematicsPrices[list[i].name], 0);
-                orePrice += Math.ceil(list[i].quantity/recipes[list[i].name].outputQuantity) * schematicsPrices[list[i].name];
+
+                console.debug(JSON.stringify(list[i]));
+                console.debug(JSON.stringify(recipes[list[i].name]));
+                price.innerHTML = formatNum(Math.ceil(list[i].quantity/list[i].actualOQ) * schematicsPrices[list[i].name] * (1-costReduction), 0);
+                orePrice += Math.ceil(list[i].quantity/list[i].actualOQ) * schematicsPrices[list[i].name] * (1-costReduction);
     
                 var check = document.createElement("button");
                 check.classList.add("ore-done");
