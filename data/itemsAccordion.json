@@ -1080,6 +1080,7 @@
                       "Screen M",
                       "Screen XL",
                       "Modern Screen XS",
+                      "Modern Screen S",
                       {
                         "name": "Signs",
                         "data": [
@@ -1096,7 +1097,8 @@
                       "Transparent Screen S",
                       "Transparent Screen M",
                       "Transparent Screen L",
-                      "Modern Transparent Screen XS"
+                      "Transparent Modern Screen XS",
+                      "Transparent Modern Screen S"
                     ]
                   }
                 ]
@@ -1310,6 +1312,8 @@
                   "Expanded Basic Container XXL",
                   "Uncommon Gravity-Inverted Container XS",
                   "Uncommon Optimised Container XS",
+                  "Uncommon Gravity-Inverted Container S",
+                  "Uncommon Optimised Container S",
                   "Uncommon Optimised Container M"
                 ]
               },
@@ -1487,7 +1491,7 @@
             ]
           },
           "Deep Space Asteroid Tracker",
-          "Resurrection Node",
+          "Resurrection Node S",
           {
             "name": "Surrogate Station Equipment",
             "data": [
@@ -1654,7 +1658,10 @@
                       {
                         "name": "Small Hovercraft Engines",
                         "data":[
-                          "Basic Hover Engine S"
+                          "Basic Hover Engine S",
+                          "Uncommon Freight Hover Engine S",
+                          "Uncommon Maneuver Hover Engine S",
+                          "Uncommon Military Hover Engine S"
                         ]
                       },
                       {
@@ -1699,7 +1706,10 @@
                       {
                         "name": "Vertical Boosters S",
                         "data": [
-                          "Basic Vertical Booster S"
+                          "Basic Vertical Booster S",
+                          "Uncommon Freight Vertical Booster S",
+                          "Uncommon Maneuver Vertical Booster S",
+                          "Uncommon Military Vertical Booster S"
                         ]
                       },
                       { 
