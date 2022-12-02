@@ -1079,6 +1079,7 @@
                       "Screen S",
                       "Screen M",
                       "Screen XL",
+                      "Modern Screen XS",
                       {
                         "name": "Signs",
                         "data": [
@@ -1094,7 +1095,8 @@
                       "Transparent Screen XS",
                       "Transparent Screen S",
                       "Transparent Screen M",
-                      "Transparent Screen L"
+                      "Transparent Screen L",
+                      "Modern Transparent Screen XS"
                     ]
                   }
                 ]
@@ -1122,11 +1124,11 @@
                   {
                     "name": "Counters",
                     "data": [
-                      "2 Counter",
-                      "3 Counter",
-                      "5 Counter",
-                      "7 Counter",
-                      "10 Counter"
+                      "2 Counter XS",
+                      "3 Counter XS",
+                      "5 Counter XS",
+                      "7 Counter XS",
+                      "10 Counter XS"
                     ]
                   },
                   {
@@ -1142,19 +1144,19 @@
                   {
                     "name": "Laser Emitters",
                     "data": [
-                      "Infrared Laser Emitter",
+                      "Infrared Laser Emitter XS",
                       "Laser Emitter"
                     ]
                   },
                   {
                     "name": "Logic Operators",
                     "data": [
-                      "AND Operator",
-                      "NAND Operator",
-                      "NOR Operator",
-                      "NOT Operator",
-                      "OR Operator",
-                      "XOR Operator"
+                      "AND Operator XS",
+                      "NAND Operator XS",
+                      "NOR Operator XS",
+                      "NOT Operator XS",
+                      "OR Operator XS",
+                      "XOR Operator XS"
                     ]
                   },
                   {
@@ -1172,11 +1174,11 @@
                       {
                         "name": "Laser Detectors",
                         "data": [
-                          "Infrared Laser Receiver",
-                          "Laser Receiver"
+                          "Infrared Laser Receiver XS",
+                          "Laser Receiver XS"
                         ]
                       },
-                      "Telemeter",
+                      "Telemeter XS",
                       {
                         "name": "Zone Detectors",
                         "data": [
@@ -1305,7 +1307,12 @@
                   "Basic Container M",
                   "Basic Container L",
                   "Basic Container XL",
-                  "Expanded Basic Container XXL"
+                  "Expanded Basic Container XXL",
+                  "Uncommon Gravity-Inverted Container XS",
+                  "Uncommon Optimised Container XS",
+                  "Uncommon Optimised Container M",
+                  "Container XL",
+                  "Expanded Container XL"
                 ]
               },
               {
@@ -1685,7 +1692,10 @@
                       {
                         "name": "Vertical Boosters XS",
                         "data": [
-                          "Basic Vertical Booster XS"
+                          "Basic Vertical Booster XS",
+                          "Uncommon Freight Vertical Booster XS",
+                          "Uncommon Maneuver Vertical Booster XS",
+                          "Uncommon Military Vertical Booster XS"
                         ]
                       },
                       {
