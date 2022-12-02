@@ -7273,6 +7273,41 @@
       "Basic Reinforced Frame S": 1,
       "Tier 1 XS Element Schematic Copy": 1
     }
+  },  
+  "Uncommon Gravity-Inverted Container XS": {
+    "tier": 1,
+    "type": "Industry & Infrastructure Element",
+    "volume": 64,
+    "outputQuantity": 1,
+    "time": 1800,
+    "byproducts": {},
+    "nanopack": true,
+    "industry": "Assembly Line S",
+    "input": {
+      "Basic Screw": 3,
+      "Uncommon Screw": 3,
+      "Uncommon Hydraulics": 5,
+      "Uncommon Mobile Panel S": 1,
+      "Uncommon Standard Frame S": 1,
+      "Tier 2 XS Element Schematic Copy": 1
+    }
+  },
+  "Uncommon Optimised Container XS": {
+    "tier": 2,
+    "type": "Industry & Infrastructure Element",
+    "volume": 64,
+    "outputQuantity": 1,
+    "time": 1800,
+    "byproducts": {},
+    "industry": "Assembly Line S",
+    "input": {
+      "Basic Screw": 3,
+      "Uncommon Screw": 3,
+      "Uncommon Hydraulics": 5,
+      "Uncommon Mobile Panel S": 1,
+      "Uncommon Standard Frame S": 1,
+      "Tier 2 M Element Schematic Copy": 1
+    }
   },
   "Basic Container S": {
     "tier": 1,
@@ -7302,6 +7337,23 @@
       "Basic Hydraulics": 125,
       "Basic Reinforced Frame L": 1,
       "Tier 1 M Element Schematic Copy": 1
+    }
+  },  
+  "Uncommon Optimised Container M": {
+    "tier": 2,
+    "type": "Industry & Infrastructure Element",
+    "volume": 1873,
+    "outputQuantity": 1,
+    "time": 28800,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Basic Screw": 108,
+      "Uncommon Screw": 108,
+      "Uncommon Hydraulics": 125,
+      "Uncommon Mobile Panel L": 1,
+      "Uncommon Standard Frame L": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Basic Container L": {
@@ -7361,7 +7413,8 @@
       "Basic Component": 3,
       "Uncommon Component": 3,
       "Uncommon Hydraulics": 5,
-      "Uncommon Reinforced Frame S": 1
+      "Uncommon Reinforced Frame S": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
   "Parcel Container S": {
@@ -7751,7 +7804,8 @@
       "Uncommon Screw": 1,
       "Uncommon Power System": 1,
       "Uncommon Mobile Panel XS": 1,
-      "Uncommon Reinforced Frame XS": 1
+      "Uncommon Reinforced Frame XS": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
   "Advanced Assembly Line XS": {
@@ -8963,7 +9017,8 @@
       "Uncommon Screw": 1,
       "Uncommon Injector": 1,
       "Uncommon Combustion Chamber XS": 1,
-      "Uncommon Reinforced Frame XS": 1
+      "Uncommon Reinforced Frame XS": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
   "Uncommon Maneuver Atmospheric Engine XS": {
@@ -8979,7 +9034,8 @@
       "Uncommon Screw": 1,
       "Uncommon Injector": 1,
       "Uncommon Combustion Chamber XS": 1,
-      "Uncommon Reinforced Frame XS": 1
+      "Uncommon Reinforced Frame XS": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
   "Uncommon Military Atmospheric Engine XS": {
@@ -8995,7 +9051,8 @@
       "Uncommon Screw": 1,
       "Uncommon Injector": 1,
       "Uncommon Combustion Chamber XS": 1,
-      "Uncommon Reinforced Frame XS": 1
+      "Uncommon Reinforced Frame XS": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
   "Uncommon Safe Atmospheric Engine XS": {
@@ -9011,7 +9068,8 @@
       "Uncommon Screw": 1,
       "Uncommon Injector": 1,
       "Uncommon Combustion Chamber XS": 1,
-      "Uncommon Reinforced Frame XS": 1
+      "Uncommon Reinforced Frame XS": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
   "Advanced Freight Atmospheric Engine XS": {
@@ -9793,7 +9851,8 @@
       "Uncommon Screw": 1,
       "Uncommon Burner": 1,
       "Uncommon Ionic Chamber XS": 1,
-      "Uncommon Reinforced Frame XS": 1
+      "Uncommon Reinforced Frame XS": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
   "Uncommon Maneuver Space Engine XS": {
@@ -9809,7 +9868,8 @@
       "Uncommon Screw": 1,
       "Uncommon Burner": 1,
       "Uncommon Ionic Chamber XS": 1,
-      "Uncommon Reinforced Frame XS": 1
+      "Uncommon Reinforced Frame XS": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
   "Uncommon Military Space Engine XS": {
@@ -9825,7 +9885,8 @@
       "Uncommon Screw": 1,
       "Uncommon Burner": 1,
       "Uncommon Ionic Chamber XS": 1,
-      "Uncommon Reinforced Frame XS": 1
+      "Uncommon Reinforced Frame XS": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
   "Uncommon Safe Space Engine XS": {
@@ -9841,7 +9902,8 @@
       "Uncommon Screw": 1,
       "Uncommon Burner": 1,
       "Uncommon Ionic Chamber XS": 1,
-      "Uncommon Reinforced Frame XS": 1
+      "Uncommon Reinforced Frame XS": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
   "Advanced Freight Space Engine XS": {
@@ -11242,6 +11304,57 @@
       "Tier 1 L Element Schematic Copy": 1
     }
   },
+  "Uncommon Freight Vertical Booster XS": {
+    "tier": 2,
+    "type": "Piloting Element",
+    "volume": 11,
+    "outputQuantity": 1,
+    "time": 339,
+    "byproducts": {},
+    "industry": "Assembly Line XS",
+    "input": {
+      "Basic Pipe": 1,
+      "Uncommon Pipe": 1,
+      "Uncommon Injector": 1,
+      "Uncommon Ionic Chamber XS": 1,
+      "Uncommon Standard Frame XS": 1,
+      "Tier 2 XS Element Schematic Copy": 1
+    }
+  },
+  "Uncommon Maneuver Vertical Booster XS": {
+    "tier": 2,
+    "type": "Piloting Element",
+    "volume": 11,
+    "outputQuantity": 1,
+    "time": 339,
+    "byproducts": {},
+    "industry": "Assembly Line XS",
+    "input": {
+      "Basic Pipe": 1,
+      "Uncommon Pipe": 1,
+      "Uncommon Injector": 1,
+      "Uncommon Ionic Chamber XS": 1,
+      "Uncommon Standard Frame XS": 1,
+      "Tier 2 XS Element Schematic Copy": 1
+    }
+  },
+  "Uncommon Military Vertical Booster XS": {
+    "tier": 2,
+    "type": "Piloting Element",
+    "volume": 11,
+    "outputQuantity": 1,
+    "time": 339,
+    "byproducts": {},
+    "industry": "Assembly Line XS",
+    "input": {
+      "Basic Pipe": 1,
+      "Uncommon Pipe": 1,
+      "Uncommon Injector": 1,
+      "Uncommon Ionic Chamber XS": 1,
+      "Uncommon Standard Frame XS": 1,
+      "Tier 2 XS Element Schematic Copy": 1
+    }
+  },
   "Uncommon Freight Vertical Booster L": {
     "tier": 2,
     "type": "Piloting Element",
@@ -11403,7 +11516,7 @@
     }
   },
   "Elevator XS": {
-    "tier": 1,
+    "tier": 2,
     "type": "Furniture & Appliances Element",
     "volume": 57.56,
     "outputQuantity": 1,
@@ -11411,11 +11524,12 @@
     "byproducts": {},
     "industry": "Assembly Line XS",
     "input": {
+      "Basic Component": 1,
       "Uncommon Component": 1,
-      "Advanced Power System": 1,
-      "Advanced Mechanical Sensor XS": 1,
-      "Advanced Quantum Alignment Unit": 1,
-      "Advanced Standard Frame XS": 1
+      "Uncommon Power System": 1,
+      "Uncommon Mechanical Sensor XS": 1,
+      "Uncommon Standard Frame XS": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
   "Force Field XS": {
@@ -11429,7 +11543,8 @@
     "input": {
       "Uncommon Component": 1,
       "Advanced Power System": 1,
-      "Advanced Quantum Barrier": 1
+      "Advanced Quantum Barrier": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
   "Force Field S": {
@@ -11507,7 +11622,7 @@
       "Tier 1 XS Element Schematic Copy": 1
     }
   },
-  "Telemeter": {
+  "Telemeter XS": {
     "tier": 2,
     "type": "Furniture & Appliances Element",
     "volume": 31.4,
@@ -11520,7 +11635,8 @@
       "Uncommon Component": 1,
       "Uncommon Optics": 1,
       "Uncommon Laser Chamber XS": 1,
-      "Uncommon Casing XS": 1
+      "Uncommon Casing XS": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
   "Remote Controller": {
@@ -11822,7 +11938,8 @@
       "Uncommon Screw": 648,
       "Uncommon Power System": 625,
       "Uncommon Electric Engine XL": 1,
-      "Uncommon Reinforced Frame XL": 1
+      "Uncommon Reinforced Frame XL": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
   "Expanded Gate S": {
@@ -11889,7 +12006,7 @@
       "Uncommon Reinforced Frame XL": 8
     }
   },
-  "AND Operator": {
+  "AND Operator XS": {
     "tier": 2,
     "type": "Furniture & Appliances Element",
     "volume": 5,
@@ -11900,10 +12017,11 @@
     "input": {
       "Basic Screw": 1,
       "Uncommon Screw": 1,
-      "Uncommon Electronics": 1
+      "Uncommon Electronics": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
-  "NAND Operator": {
+  "NAND Operator XS": {
     "tier": 2,
     "type": "Furniture & Appliances Element",
     "volume": 5,
@@ -11914,10 +12032,11 @@
     "input": {
       "Basic Screw": 1,
       "Uncommon Screw": 1,
-      "Uncommon Electronics": 1
+      "Uncommon Electronics": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
-  "NOR Operator": {
+  "NOR Operator XS": {
     "tier": 2,
     "type": "Furniture & Appliances Element",
     "volume": 5,
@@ -11928,10 +12047,11 @@
     "input": {
       "Basic Screw": 1,
       "Uncommon Screw": 1,
-      "Uncommon Electronics": 1
+      "Uncommon Electronics": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
-  "NOT Operator": {
+  "NOT Operator XS": {
     "tier": 2,
     "type": "Furniture & Appliances Element",
     "volume": 4.5,
@@ -11942,10 +12062,11 @@
     "input": {
       "Basic Component": 1,
       "Uncommon Component": 1,
-      "Uncommon Electronics": 1
+      "Uncommon Electronics": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
-  "OR Operator": {
+  "OR Operator XS": {
     "tier": 2,
     "type": "Furniture & Appliances Element",
     "volume": 4.5,
@@ -11956,10 +12077,11 @@
     "input": {
       "Basic Component": 1,
       "Uncommon Component": 1,
-      "Uncommon Electronics": 1
+      "Uncommon Electronics": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
-  "XOR Operator": {
+  "XOR Operator XS": {
     "tier": 2,
     "type": "Furniture & Appliances Element",
     "volume": 4.5,
@@ -11970,7 +12092,8 @@
     "input": {
       "Basic Component": 1,
       "Uncommon Component": 1,
-      "Uncommon Electronics": 1
+      "Uncommon Electronics": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
   "Relay": {
@@ -12003,7 +12126,7 @@
       "Tier 1 XS Element Schematic Copy": 1
     }
   },
-  "2 Counter": {
+  "2 Counter XS": {
     "tier": 2,
     "type": "Furniture & Appliances Element",
     "volume": 5,
@@ -12014,10 +12137,11 @@
     "input": {
       "Basic Component": 1,
       "Uncommon Component": 1,
-      "Uncommon Electronics": 1
+      "Uncommon Electronics": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
-  "3 Counter": {
+  "3 Counter XS": {
     "tier": 2,
     "type": "Furniture & Appliances Element",
     "volume": 5,
@@ -12028,10 +12152,11 @@
     "input": {
       "Basic Component": 1,
       "Uncommon Component": 1,
-      "Uncommon Electronics": 1
+      "Uncommon Electronics": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
-  "5 Counter": {
+  "5 Counter XS": {
     "tier": 2,
     "type": "Furniture & Appliances Element",
     "volume": 5,
@@ -12042,10 +12167,11 @@
     "input": {
       "Basic Component": 1,
       "Uncommon Component": 1,
-      "Uncommon Electronics": 1
+      "Uncommon Electronics": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
-  "7 Counter": {
+  "7 Counter XS": {
     "tier": 2,
     "type": "Furniture & Appliances Element",
     "volume": 5,
@@ -12056,10 +12182,11 @@
     "input": {
       "Basic Component": 1,
       "Uncommon Component": 1,
-      "Uncommon Electronics": 1
+      "Uncommon Electronics": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
-  "10 Counter": {
+  "10 Counter XS": {
     "tier": 2,
     "type": "Furniture & Appliances Element",
     "volume": 5,
@@ -12070,10 +12197,11 @@
     "input": {
       "Basic Component": 1,
       "Uncommon Component": 1,
-      "Uncommon Electronics": 1
+      "Uncommon Electronics": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
-  "Infrared Laser Emitter": {
+  "Infrared Laser Emitter XS": {
     "tier": 2,
     "type": "Furniture & Appliances Element",
     "volume": 5,
@@ -12084,7 +12212,8 @@
     "input": {
       "Basic Component": 1,
       "Uncommon Component": 1,
-      "Uncommon Electronics": 1
+      "Uncommon Electronics": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
   "Laser Emitter": {
@@ -13016,7 +13145,8 @@
       "Uncommon Component": 1,
       "Uncommon Electronics": 1,
       "Uncommon Screen XS": 1,
-      "Uncommon Casing XS": 1
+      "Uncommon Casing XS": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
   "Screen S": {
@@ -13081,7 +13211,25 @@
       "Uncommon Component": 1,
       "Uncommon Electronics": 1,
       "Uncommon Screen XS": 1,
-      "Uncommon Casing XS": 1
+      "Uncommon Casing XS": 1,
+      "Tier 2 XS Element Schematic Copy": 1
+    }
+  },
+  "Transparent Modern Screen XS": {
+    "tier": 2,
+    "type": "Furniture & Appliances Element",
+    "volume": 9.75,
+    "outputQuantity": 1,
+    "time": 360,
+    "byproducts": {},
+    "industry": "Assembly Line XS",
+    "input": {
+      "Basic Component": 1,
+      "Uncommon Component": 1,
+      "Uncommon Electronics": 1,
+      "Uncommon Screen XS": 1,
+      "Uncommon Casing XS": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
   "Transparent Screen S": {
@@ -13132,6 +13280,23 @@
       "Uncommon Casing XS": 1
     }
   },
+  "Modern Screen XS": {
+    "tier": 2,
+    "type": "Furniture & Appliances Element",
+    "volume": 9.75,
+    "outputQuantity": 1,
+    "time": 360,
+    "byproducts": {},
+    "industry": "Assembly Line XS",
+    "input": {
+      "Basic Component": 1,
+      "Uncommon Component": 1,
+      "Uncommon Electronics": 1,
+      "Uncommon Screen XS": 1,
+      "Uncommon Casing XS": 1,
+      "Tier 2 XS Element Schematic Copy": 1
+    }
+  },
   "Sign XS": {
     "tier": 2,
     "type": "Furniture & Appliances Element",
@@ -13145,7 +13310,8 @@
       "Uncommon Component": 1,
       "Uncommon Electronics": 1,
       "Uncommon Screen XS": 1,
-      "Uncommon Casing XS": 1
+      "Uncommon Casing XS": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
   "Sign S": {
@@ -13209,7 +13375,8 @@
       "Uncommon Component": 1,
       "Uncommon Electronics": 1,
       "Uncommon Screen XS": 1,
-      "Uncommon Casing XS": 1
+      "Uncommon Casing XS": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
   "Vertical Sign M": {
@@ -13347,7 +13514,7 @@
       "Tier 1 S Element Schematic Copy": 1
     }
   },
-  "Laser Receiver": {
+  "Laser Receiver XS": {
     "tier": 2,
     "type": "Furniture & Appliances Element",
     "volume": 5,
@@ -13358,10 +13525,11 @@
     "input": {
       "Basic Component": 1,
       "Uncommon Component": 1,
-      "Uncommon Electronics": 1
+      "Uncommon Electronics": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
-  "Infrared Laser Receiver": {
+  "Infrared Laser Receiver XS": {
     "tier": 2,
     "type": "Furniture & Appliances Element",
     "volume": 5,
@@ -13372,7 +13540,8 @@
     "input": {
       "Basic Component": 1,
       "Uncommon Component": 1,
-      "Uncommon Electronics": 1
+      "Uncommon Electronics": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
   "Detection Zone XS": {
@@ -13385,7 +13554,8 @@
     "industry": "Assembly Line XS",
     "input": {
       "Uncommon Component": 1,
-      "Advanced Electronics": 1
+      "Advanced Electronics": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
   "Detection Zone S": {
@@ -16142,7 +16312,8 @@
       "Uncommon Screw": 1,
       "Advanced Electronics": 1,
       "Advanced Firing System XS": 1,
-      "Advanced Reinforced Frame XS": 1
+      "Advanced Reinforced Frame XS": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
   "Advanced Agile Cannon XS": {
@@ -16938,7 +17109,8 @@
       "Uncommon Connector": 1,
       "Advanced Power System": 1,
       "Advanced Laser Chamber XS": 1,
-      "Advanced Reinforced Frame XS": 1
+      "Advanced Reinforced Frame XS": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
   "Advanced Agile Laser XS": {
@@ -17734,7 +17906,8 @@
       "Uncommon Screw": 1,
       "Advanced Hydraulics": 1,
       "Advanced Missile Silo XS": 1,
-      "Advanced Reinforced Frame XS": 1
+      "Advanced Reinforced Frame XS": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
   "Advanced Agile Missile XS": {
@@ -18530,7 +18703,8 @@
       "Uncommon Connector": 1,
       "Advanced Optics": 1,
       "Advanced Magnetic Rail XS": 1,
-      "Advanced Reinforced Frame XS": 1
+      "Advanced Reinforced Frame XS": 1,
+      "Tier 2 XS Element Schematic Copy": 1
     }
   },
   "Advanced Agile Railgun XS": {
