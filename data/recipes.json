@@ -7353,7 +7353,7 @@
       "Uncommon Standard Frame M": 1
     }
   },
-  "Container Hub": {
+  "Container Hub XS": {
     "tier": 1,
     "type": "Industry & Infrastructure Element",
     "volume": 44.3,
@@ -7366,7 +7366,8 @@
       "Advanced Electronics": 1,
       "Advanced Screen XS": 1,
       "Advanced Quantum Alignment Unit": 1,
-      "Advanced Casing XS": 1
+      "Advanced Casing XS": 1,
+      "Tier 3 XS Element Schematic Copy": 1
     }
   },
   "Basic Container XS": {
@@ -7418,6 +7419,42 @@
       "Uncommon Mobile Panel S": 1,
       "Uncommon Standard Frame S": 1,
       "Tier 2 XS Element Schematic Copy": 1
+    }
+  },
+  "Advanced Gravity-Inverted Container XS": {
+    "tier": 3,
+    "type": "Industry & Infrastructure Element",
+    "volume": 64,
+    "outputQuantity": 1,
+    "time": 5400,
+    "byproducts": {},
+    "nanopack": true,
+    "industry": "Assembly Line S",
+    "input": {
+      "Uncommon Screw": 6,
+      "Advanced Hydraulics": 5,
+      "Advanced Mobile Panel S": 1,
+      "Advanced Anti-Gravity Core": 4,
+      "Advanced Standard Frame S": 1,
+      "Tier 3 XS Element Schematic Copy": 1
+    }
+  },
+  "Advanced Optimised Container XS": {
+    "tier": 3,
+    "type": "Industry & Infrastructure Element",
+    "volume": 64,
+    "outputQuantity": 1,
+    "time": 5400,
+    "byproducts": {},
+    "nanopack": true,
+    "industry": "Assembly Line S",
+    "input": {
+      "Uncommon Screw": 6,
+      "Advanced Hydraulics": 5,
+      "Advanced Mobile Panel S": 1,
+      "Advanced Quantum Alignment Unit": 4,
+      "Advanced Standard Frame S": 1,
+      "Tier 3 XS Element Schematic Copy": 1
     }
   },
   "Basic Container S": {
@@ -7921,7 +7958,8 @@
       "Uncommon Pipe": 6,
       "Advanced Injector": 5,
       "Advanced Chemical Container S": 1,
-      "Advanced Casing S": 1
+      "Advanced Casing S": 1,
+      "Tier 3 XS Element Schematic Copy": 1
     }
   },
   "Rocket Fuel Tank S": {
@@ -8076,7 +8114,8 @@
       "Uncommon Screw": 1,
       "Advanced Power System": 1,
       "Advanced Mobile Panel XS": 1,
-      "Advanced Reinforced Frame XS": 1
+      "Advanced Reinforced Frame XS": 1,
+      "Tier 3 XS Element Schematic Copy": 1
     }
   },
   "Rare Assembly Line XS": {
@@ -9353,7 +9392,8 @@
       "Uncommon Screw": 1,
       "Advanced Injector": 1,
       "Advanced Combustion Chamber XS": 1,
-      "Advanced Reinforced Frame XS": 1
+      "Advanced Reinforced Frame XS": 1,
+      "Tier 3 XS Element Schematic Copy": 1
     }
   },
   "Advanced Maneuver Atmospheric Engine XS": {
@@ -9368,7 +9408,8 @@
       "Uncommon Screw": 1,
       "Advanced Injector": 1,
       "Advanced Combustion Chamber XS": 1,
-      "Advanced Reinforced Frame XS": 1
+      "Advanced Reinforced Frame XS": 1,
+      "Tier 3 XS Element Schematic Copy": 1
     }
   },
   "Advanced Military Atmospheric Engine XS": {
@@ -9383,7 +9424,8 @@
       "Uncommon Screw": 1,
       "Advanced Injector": 1,
       "Advanced Combustion Chamber XS": 1,
-      "Advanced Reinforced Frame XS": 1
+      "Advanced Reinforced Frame XS": 1,
+      "Tier 3 XS Element Schematic Copy": 1
     }
   },
   "Advanced Safe Atmospheric Engine XS": {
@@ -9398,7 +9440,8 @@
       "Uncommon Screw": 1,
       "Advanced Injector": 1,
       "Advanced Combustion Chamber XS": 1,
-      "Advanced Reinforced Frame XS": 1
+      "Advanced Reinforced Frame XS": 1,
+      "Tier 3 XS Element Schematic Copy": 1
     }
   },
   "Rare Freight Atmospheric Engine XS": {
@@ -10195,7 +10238,8 @@
       "Uncommon Screw": 1,
       "Advanced Burner": 1,
       "Advanced Ionic Chamber XS": 1,
-      "Advanced Reinforced Frame XS": 1
+      "Advanced Reinforced Frame XS": 1,
+      "Tier 3 XS Element Schematic Copy": 1
     }
   },
   "Advanced Maneuver Space Engine XS": {
@@ -10210,7 +10254,8 @@
       "Uncommon Screw": 1,
       "Advanced Burner": 1,
       "Advanced Ionic Chamber XS": 1,
-      "Advanced Reinforced Frame XS": 1
+      "Advanced Reinforced Frame XS": 1,
+      "Tier 3 XS Element Schematic Copy": 1
     }
   },
   "Advanced Military Space Engine XS": {
@@ -10225,7 +10270,8 @@
       "Uncommon Screw": 1,
       "Advanced Burner": 1,
       "Advanced Ionic Chamber XS": 1,
-      "Advanced Reinforced Frame XS": 1
+      "Advanced Reinforced Frame XS": 1,
+      "Tier 3 XS Element Schematic Copy": 1
     }
   },
   "Advanced Safe Space Engine XS": {
@@ -10240,7 +10286,8 @@
       "Uncommon Screw": 1,
       "Advanced Burner": 1,
       "Advanced Ionic Chamber XS": 1,
-      "Advanced Reinforced Frame XS": 1
+      "Advanced Reinforced Frame XS": 1,
+      "Tier 3 XS Element Schematic Copy": 1
     }
   },
   "Rare Freight Space Engine XS": {
@@ -11793,6 +11840,54 @@
       "Tier 2 XS Element Schematic Copy": 1
     }
   },
+  "Advanced Freight Vertical Booster XS": {
+    "tier": 3,
+    "type": "Piloting Element",
+    "volume": 11,
+    "outputQuantity": 1,
+    "time": 1080,
+    "byproducts": {},
+    "industry": "Assembly Line XS",
+    "input": {
+      "Uncommon Pipe": 1,
+      "Advanced Injector": 1,
+      "Advanced Ionic Chamber XS": 1,
+      "Advanced Standard Frame XS": 1,
+      "Tier 3 XS Element Schematic Copy": 1
+    }
+  },
+  "Advanced Maneuver Vertical Booster XS": {
+    "tier": 3,
+    "type": "Piloting Element",
+    "volume": 11,
+    "outputQuantity": 1,
+    "time": 1080,
+    "byproducts": {},
+    "industry": "Assembly Line XS",
+    "input": {
+      "Uncommon Pipe": 1,
+      "Advanced Injector": 1,
+      "Advanced Ionic Chamber XS": 1,
+      "Advanced Standard Frame XS": 1,
+      "Tier 3 XS Element Schematic Copy": 1
+    }
+  },
+  "Advanced Military Vertical Booster XS": {
+    "tier": 3,
+    "type": "Piloting Element",
+    "volume": 11,
+    "outputQuantity": 1,
+    "time": 1080,
+    "byproducts": {},
+    "industry": "Assembly Line XS",
+    "input": {
+      "Uncommon Pipe": 1,
+      "Advanced Injector": 1,
+      "Advanced Ionic Chamber XS": 1,
+      "Advanced Standard Frame XS": 1,
+      "Tier 3 XS Element Schematic Copy": 1
+    }
+  },
   "Uncommon Freight Vertical Booster S": {
     "tier": 2,
     "type": "Piloting Element",
@@ -12163,7 +12258,7 @@
       "Tier 1 S Element Schematic Copy": 1
     }
   },
-  "Emergency Controller": {
+  "Emergency Controller XS": {
     "tier": 3,
     "type": "Systems Element",
     "volume": 4.8,
@@ -12173,7 +12268,8 @@
     "industry": "Assembly Line XS",
     "input": {
       "Uncommon Connector": 1,
-      "Advanced Electronics": 1
+      "Advanced Electronics": 1,
+      "Tier 3 XS Element Schematic Copy": 1
     }
   },
   "Command Seat Controller": {
@@ -13583,6 +13679,23 @@
       "Advanced Laser Chamber S": 1,
       "Advanced Quantum Barrier": 4,
       "Advanced Reinforced Frame S": 1
+    }
+  },
+  "Advanced Shield Generator XS": {
+    "tier": 3,
+    "type": "Combat Element",
+    "volume": 210,
+    "outputQuantity": 1,
+    "time": 1350,
+    "byproducts": {},
+    "industry": "Assembly Line S",
+    "input": {
+      "Uncommon Component": 1,
+      "Advanced Magnet": 1,
+      "Advanced Laser Chamber XS": 1,
+      "Advanced Quantum Barrier": 1,
+      "Advanced Reinforced Frame XS": 1,
+      "Tier 3 XS Element Schematic Copy": 1
     }
   },
   "Shield Generator S": {
@@ -17063,7 +17176,8 @@
       "Uncommon Screw": 1,
       "Advanced Electronics": 1,
       "Advanced Firing System XS": 1,
-      "Advanced Reinforced Frame XS": 1
+      "Advanced Reinforced Frame XS": 1,
+      "Tier 3 XS Element Schematic Copy": 1
     }
   },
   "Advanced Defense Cannon XS": {
@@ -17078,7 +17192,8 @@
       "Uncommon Screw": 1,
       "Advanced Electronics": 1,
       "Advanced Firing System XS": 1,
-      "Advanced Reinforced Frame XS": 1
+      "Advanced Reinforced Frame XS": 1,
+      "Tier 3 XS Element Schematic Copy": 1
     }
   },
   "Advanced Heavy Cannon XS": {
@@ -17093,7 +17208,8 @@
       "Uncommon Screw": 1,
       "Advanced Electronics": 1,
       "Advanced Firing System XS": 1,
-      "Advanced Reinforced Frame XS": 1
+      "Advanced Reinforced Frame XS": 1,
+      "Tier 3 XS Element Schematic Copy": 1
     }
   },
   "Advanced Precision Cannon XS": {
@@ -17108,7 +17224,8 @@
       "Uncommon Screw": 1,
       "Advanced Electronics": 1,
       "Advanced Firing System XS": 1,
-      "Advanced Reinforced Frame XS": 1
+      "Advanced Reinforced Frame XS": 1,
+      "Tier 3 XS Element Schematic Copy": 1
     }
   },
   "Rare Agile Cannon XS": {
@@ -17863,7 +17980,8 @@
       "Uncommon Connector": 1,
       "Advanced Power System": 1,
       "Advanced Laser Chamber XS": 1,
-      "Advanced Reinforced Frame XS": 1
+      "Advanced Reinforced Frame XS": 1,
+      "Tier 3 XS Element Schematic Copy": 1
     }
   },
   "Advanced Defense Laser XS": {
@@ -17878,7 +17996,8 @@
       "Uncommon Connector": 1,
       "Advanced Power System": 1,
       "Advanced Laser Chamber XS": 1,
-      "Advanced Reinforced Frame XS": 1
+      "Advanced Reinforced Frame XS": 1,
+      "Tier 3 XS Element Schematic Copy": 1
     }
   },
   "Advanced Heavy Laser XS": {
@@ -17893,7 +18012,8 @@
       "Uncommon Connector": 1,
       "Advanced Power System": 1,
       "Advanced Laser Chamber XS": 1,
-      "Advanced Reinforced Frame XS": 1
+      "Advanced Reinforced Frame XS": 1,
+      "Tier 3 XS Element Schematic Copy": 1
     }
   },
   "Advanced Precision Laser XS": {
@@ -17908,7 +18028,8 @@
       "Uncommon Connector": 1,
       "Advanced Power System": 1,
       "Advanced Laser Chamber XS": 1,
-      "Advanced Reinforced Frame XS": 1
+      "Advanced Reinforced Frame XS": 1,
+      "Tier 3 XS Element Schematic Copy": 1
     }
   },
   "Rare Agile Laser XS": {
@@ -18663,7 +18784,8 @@
       "Uncommon Screw": 1,
       "Advanced Hydraulics": 1,
       "Advanced Missile Silo XS": 1,
-      "Advanced Reinforced Frame XS": 1
+      "Advanced Reinforced Frame XS": 1,
+      "Tier 3 XS Element Schematic Copy": 1
     }
   },
   "Advanced Defense Missile XS": {
@@ -18678,7 +18800,8 @@
       "Uncommon Screw": 1,
       "Advanced Hydraulics": 1,
       "Advanced Missile Silo XS": 1,
-      "Advanced Reinforced Frame XS": 1
+      "Advanced Reinforced Frame XS": 1,
+      "Tier 3 XS Element Schematic Copy": 1
     }
   },
   "Advanced Heavy Missile XS": {
@@ -18693,7 +18816,8 @@
       "Uncommon Screw": 1,
       "Advanced Hydraulics": 1,
       "Advanced Missile Silo XS": 1,
-      "Advanced Reinforced Frame XS": 1
+      "Advanced Reinforced Frame XS": 1,
+      "Tier 3 XS Element Schematic Copy": 1
     }
   },
   "Advanced Precision Missile XS": {
@@ -18708,7 +18832,8 @@
       "Uncommon Screw": 1,
       "Advanced Hydraulics": 1,
       "Advanced Missile Silo XS": 1,
-      "Advanced Reinforced Frame XS": 1
+      "Advanced Reinforced Frame XS": 1,
+      "Tier 3 XS Element Schematic Copy": 1
     }
   },
   "Rare Agile Missile XS": {
@@ -19463,7 +19588,8 @@
       "Uncommon Connector": 1,
       "Advanced Optics": 1,
       "Advanced Magnetic Rail XS": 1,
-      "Advanced Reinforced Frame XS": 1
+      "Advanced Reinforced Frame XS": 1,
+      "Tier 3 XS Element Schematic Copy": 1
     }
   },
   "Advanced Defense Railgun XS": {
@@ -19478,7 +19604,8 @@
       "Uncommon Connector": 1,
       "Advanced Optics": 1,
       "Advanced Magnetic Rail XS": 1,
-      "Advanced Reinforced Frame XS": 1
+      "Advanced Reinforced Frame XS": 1,
+      "Tier 3 XS Element Schematic Copy": 1
     }
   },
   "Advanced Heavy Railgun XS": {
@@ -19493,7 +19620,8 @@
       "Uncommon Connector": 1,
       "Advanced Optics": 1,
       "Advanced Magnetic Rail XS": 1,
-      "Advanced Reinforced Frame XS": 1
+      "Advanced Reinforced Frame XS": 1,
+      "Tier 3 XS Element Schematic Copy": 1
     }
   },
   "Advanced Precision Railgun XS": {
@@ -19508,7 +19636,8 @@
       "Uncommon Connector": 1,
       "Advanced Optics": 1,
       "Advanced Magnetic Rail XS": 1,
-      "Advanced Reinforced Frame XS": 1
+      "Advanced Reinforced Frame XS": 1,
+      "Tier 3 XS Element Schematic Copy": 1
     }
   },
   "Rare Agile Railgun XS": {
@@ -22895,7 +23024,7 @@
       "Tier 1 M Element Schematic Copy": 1
     }
   },
-  "Transponder": {
+  "Transponder XS": {
     "tier": 3,
     "type": "Combat Element",
     "volume": 97,
@@ -22907,7 +23036,8 @@
       "Uncommon Screw": 6,
       "Advanced Processor": 5,
       "Advanced Antenna S": 1,
-      "Advanced Standard Frame S": 1
+      "Advanced Standard Frame S": 1,
+      "Tier 3 XS Element Schematic Copy": 1
     }
   },
   "Basic Mining Unit S": {
