@@ -1082,6 +1082,7 @@
                       "Modern Screen XS",
                       "Modern Screen S",
                       "Modern Screen M",
+                      "Modern Screen L",
                       {
                         "name": "Signs",
                         "data": [
@@ -1100,7 +1101,8 @@
                       "Transparent Screen L",
                       "Transparent Modern Screen XS",
                       "Transparent Modern Screen S",
-                      "Transparent Modern Screen M"
+                      "Transparent Modern Screen M",
+                      "Transparent Modern Screen L"
                     ]
                   }
                 ]
@@ -1317,7 +1319,9 @@
                   "Uncommon Gravity-Inverted Container S",
                   "Uncommon Optimised Container S",
                   "Uncommon Gravity-Inverted Container M",
-                  "Uncommon Optimised Container M"
+                  "Uncommon Optimised Container M",
+                  "Uncommon Gravity-Inverted Container L",
+                  "Uncommon Optimised Container L"
                 ]
               },
               {
