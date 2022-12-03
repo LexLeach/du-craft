@@ -556,10 +556,11 @@
               "Shield Generator XS",
               "Shield Generator S",
               "Shield Generator M",
-              "Shield Generator L"
+              "Shield Generator L",
+              "Advanced Shield Generator XS"
             ]
           },
-          "Transponder",
+          "Transponder XS",
           {
             "name": "Weapon Unit",
             "data": [
@@ -1313,7 +1314,7 @@
               {
                 "name": "Item Containers",
                 "data": [
-                  "Container Hub",
+                  "Container Hub XS",
                   "Basic Container XS",
                   "Basic Container S",
                   "Basic Container M",
@@ -1329,6 +1330,8 @@
                   "Uncommon Gravity-Inverted Container L",
                   "Uncommon Optimised Container L",
                   "Uncommon Optimised Container XL",
+                  "Advanced Gravity-Inverted Container XS",
+                  "Advanced Optimised Container XS",
                   "Expanded Uncommon Gravity-Inverted Container XXL",
                   "Expanded Uncommon Optimised Container XXL"
                 ]
@@ -1485,7 +1488,7 @@
           {
             "name": "Control Units",
             "data": [
-              "Emergency Controller",
+              "Emergency Controller XS",
               "Programming Board",
               {
                 "name": "Gunner Module",
@@ -1719,7 +1722,10 @@
                           "Basic Vertical Booster XS",
                           "Uncommon Freight Vertical Booster XS",
                           "Uncommon Maneuver Vertical Booster XS",
-                          "Uncommon Military Vertical Booster XS"
+                          "Uncommon Military Vertical Booster XS",
+                          "Advanced Freight Vertical Booster XS",
+                          "Advanced Maneuver Vertical Booster XS",
+                          "Advanced Military Vertical Booster XS"
                         ]
                       },
                       {
