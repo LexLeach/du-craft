@@ -1083,6 +1083,9 @@
                       "Modern Screen S",
                       "Modern Screen M",
                       "Modern Screen L",
+                      "Modern Screen XL",
+                      "Modern Screen XXL",
+                      "Modern Screen XXXL",
                       {
                         "name": "Signs",
                         "data": [
@@ -1102,7 +1105,10 @@
                       "Transparent Modern Screen XS",
                       "Transparent Modern Screen S",
                       "Transparent Modern Screen M",
-                      "Transparent Modern Screen L"
+                      "Transparent Modern Screen L",
+                      "Transparent Modern Screen XL",
+                      "Transparent Modern Screen XXL",
+                      "Transparent Modern Screen XXXL"
                     ]
                   }
                 ]
@@ -1321,7 +1327,10 @@
                   "Uncommon Gravity-Inverted Container M",
                   "Uncommon Optimised Container M",
                   "Uncommon Gravity-Inverted Container L",
-                  "Uncommon Optimised Container L"
+                  "Uncommon Optimised Container L",
+                  "Uncommon Optimised Container XL",
+                  "Expanded Uncommon Gravity-Inverted Container XXL",
+                  "Expanded Uncommon Optimised Container XXL"
                 ]
               },
               {
@@ -1506,7 +1515,7 @@
               "Surrogate VR Station"
             ]
           },
-          "Territory Scanner"
+          "Territory Scanner XL"
         ]
       },
       {

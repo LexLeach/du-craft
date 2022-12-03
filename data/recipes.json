@@ -6269,6 +6269,38 @@
       "Uncommon Electronics": 1
     }
   },
+  "Uncommon Screen S": {
+    "tier": 2,
+    "type": "Functional Part",
+    "volume": 29.60,
+    "outputQuantity": 1,
+    "time": 720,
+    "byproducts": {},
+    "industry": "3D Printer M",
+    "input": {
+      "Basic LED": 2,
+      "Basic Electronics": 2,
+      "Polycalcite Plastic": 7,
+      "Uncommon LED": 4,
+      "Uncommon Electronics": 4
+    }
+  },
+  "Uncommon Screen M": {
+    "tier": 2,
+    "type": "Functional Part",
+    "volume": 143.2,
+    "outputQuantity": 1,
+    "time": 2160,
+    "byproducts": {},
+    "industry": "3D Printer M",
+    "input": {
+      "Basic LED": 8,
+      "Basic Electronics": 8,
+      "Polycalcite Plastic": 49,
+      "Uncommon LED": 18,
+      "Uncommon Electronics": 18
+    }
+  },
   "Uncommon Screen L": {
     "tier": 2,
     "type": "Functional Part",
@@ -6399,6 +6431,19 @@
     "input": {
       "Polycarbonate Plastic": 25,
       "Polycalcite Plastic": 49
+    }
+  },
+  "Uncommon Casing L": {
+    "tier": 2,
+    "type": "Structural Part",
+    "volume": 515,
+    "outputQuantity": 1,
+    "time": 1440,
+    "byproducts": {},
+    "industry": "3D Printer M",
+    "input": {
+      "Polycarbonate Plastic": 172,
+      "Polycalcite Plastic": 343
     }
   },
   "Uncommon Casing XL": {
@@ -6929,6 +6974,19 @@
     "input": {
       "Silumin": 172,
       "Duralumin": 343
+    }
+  },
+  "Uncommon Standard Frame XL": {
+    "tier": 2,
+    "type": "Structural Part",
+    "volume": 3602,
+    "outputQuantity": 1,
+    "time": 12960,
+    "byproducts": {},
+    "industry": "Metalwork Industry M",
+    "input": {
+      "Silumin": 1201,
+      "Duralumin": 2401
     }
   },
   "Advanced Standard Frame XS": {
@@ -7498,7 +7556,7 @@
     "type": "Industry & Infrastructure Element",
     "volume": 1873,
     "outputQuantity": 1,
-    "time": 28800,
+    "time": 57600,
     "byproducts": {},
     "industry": "Assembly Line L",
     "input": {
@@ -7525,6 +7583,23 @@
       "Tier 1 XL Element Schematic Copy": 1
     }
   },
+  "Uncommon Optimised Container XL": {
+    "tier": 2,
+    "type": "Industry & Infrastructure Element",
+    "volume": 10500,
+    "outputQuantity": 1,
+    "time": 115200,
+    "byproducts": {},
+    "industry": "Assembly Line XL",
+    "input": {
+      "Basic Screw": 648,
+      "Uncommon Screw": 648,
+      "Uncommon Hydraulics": 625,
+      "Uncommon Mobile Panel XL": 1,
+      "Uncommon Standard Frame XL": 1,
+      "Tier 2 XL Element Schematic Copy": 1
+    }
+  },
   "Expanded Basic Container XXL": {
     "tier": 1,
     "type": "Industry & Infrastructure Element",
@@ -7538,6 +7613,40 @@
       "Basic Hydraulics": 1250,
       "Basic Reinforced Frame XL": 2,
       "Tier 1 XL Element Schematic Copy": 1
+    }
+  },
+  "Expanded Uncommon Gravity-Inverted Container XXL": {
+    "tier": 2,
+    "type": "Industry & Infrastructure Element",
+    "volume": 21000,
+    "outputQuantity": 1,
+    "time": 230400,
+    "byproducts": {},
+    "industry": "Assembly Line XL",
+    "input": {
+      "Basic Screw": 1296,
+      "Uncommon Screw": 1296,
+      "Uncommon Hydraulics": 1250,
+      "Uncommon Mobile Panel XL": 2,
+      "Uncommon Standard Frame XL": 2,
+      "Tier 2 XL Element Schematic Copy": 1
+    }
+  },
+  "Expanded Uncommon Optimised Container XXL": {
+    "tier": 2,
+    "type": "Industry & Infrastructure Element",
+    "volume": 21000,
+    "outputQuantity": 1,
+    "time": 230400,
+    "byproducts": {},
+    "industry": "Assembly Line XL",
+    "input": {
+      "Basic Screw": 1296,
+      "Uncommon Screw": 1296,
+      "Uncommon Hydraulics": 1250,
+      "Uncommon Mobile Panel XL": 2,
+      "Uncommon Standard Frame XL": 2,
+      "Tier 2 XL Element Schematic Copy": 1
     }
   },
   "Parcel Container XS": {
@@ -7616,7 +7725,8 @@
       "Basic Component": 648,
       "Uncommon Component": 648,
       "Uncommon Hydraulics": 625,
-      "Uncommon Reinforced Frame XL": 1
+      "Uncommon Reinforced Frame XL": 1,
+      "Tier 2 XL Element Schematic Copy": 1
     }
   },
   "Expanded Parcel Container XL": {
@@ -7631,7 +7741,8 @@
       "Basic Component": 1296,
       "Uncommon Component": 1296,
       "Uncommon Hydraulics": 1250,
-      "Uncommon Reinforced Frame XL": 2
+      "Uncommon Reinforced Frame XL": 2,
+      "Tier 2 XL Element Schematic Copy": 1
     }
   },
   "Dispenser": {
@@ -8206,7 +8317,8 @@
       "Uncommon Screw": 648,
       "Uncommon Power System": 625,
       "Uncommon Mobile Panel XL": 1,
-      "Uncommon Reinforced Frame XL": 1
+      "Uncommon Reinforced Frame XL": 1,
+      "Tier 2 XL Element Schematic Copy": 1
     }
   },
   "Advanced Assembly Line XL": {
@@ -11970,7 +12082,7 @@
       "Advanced Quantum Barrier": 1
     }
   },
-  "Territory Scanner": {
+  "Territory Scanner XL": {
     "tier": 2,
     "type": "Systems Element",
     "volume": 12700,
@@ -11983,7 +12095,8 @@
       "Uncommon Component": 648,
       "Uncommon Power System": 625,
       "Uncommon Ore Scanner XL": 1,
-      "Uncommon Reinforced Frame XL": 1
+      "Uncommon Reinforced Frame XL": 1,
+      "Tier 2 XL Element Schematic Copy": 1
     }
   },
   "Gyroscope": {
@@ -12388,7 +12501,8 @@
       "Uncommon Screw": 5184,
       "Uncommon Power System": 5000,
       "Uncommon Electric Engine XL": 8,
-      "Uncommon Reinforced Frame XL": 8
+      "Uncommon Reinforced Frame XL": 8,
+      "Tier 2 XL Element Schematic Copy": 1
     }
   },
   "AND Operator XS": {
@@ -13733,12 +13847,63 @@
     "byproducts": {},
     "industry": "Assembly Line S",
     "input": {
-      "Basic Component": 1,
-      "Uncommon Component": 1,
-      "Uncommon Electronics": 1,
-      "Uncommon Screen XS": 1,
-      "Uncommon Casing XS": 1,
+      "Basic Component": 3,
+      "Uncommon Component": 3,
+      "Uncommon Electronics": 5,
+      "Uncommon Screen S": 1,
+      "Uncommon Casing S": 1,
       "Tier 2 L Element Schematic Copy": 1
+    }
+  },
+  "Transparent Modern Screen XL": {
+    "tier": 2,
+    "type": "Furniture & Appliances Element",
+    "volume": 600.0,
+    "outputQuantity": 1,
+    "time": 5760,
+    "byproducts": {},
+    "industry": "Assembly Line M",
+    "input": {
+      "Basic Component": 18,
+      "Uncommon Component": 18,
+      "Uncommon Electronics": 25,
+      "Uncommon Screen M": 1,
+      "Uncommon Casing M": 1,
+      "Tier 2 XL Element Schematic Copy": 1
+    }
+  },
+  "Transparent Modern Screen XXL": {
+    "tier": 2,
+    "type": "Furniture & Appliances Element",
+    "volume": 2160.0,
+    "outputQuantity": 1,
+    "time": 23040,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Basic Component": 108,
+      "Uncommon Component": 108,
+      "Uncommon Electronics": 125,
+      "Uncommon Screen L": 1,
+      "Uncommon Casing L": 1,
+      "Tier 2 XL Element Schematic Copy": 1
+    }
+  },
+  "Transparent Modern Screen XXXL": {
+    "tier": 2,
+    "type": "Furniture & Appliances Element",
+    "volume": 3600.0,
+    "outputQuantity": 1,
+    "time": 92160,
+    "byproducts": {},
+    "industry": "Assembly Line XL",
+    "input": {
+      "Basic Component": 648,
+      "Uncommon Component": 648,
+      "Uncommon Electronics": 625,
+      "Uncommon Screen XL": 1,
+      "Uncommon Casing XL": 1,
+      "Tier 2 XL Element Schematic Copy": 1
     }
   },
   "Modern Screen XS": {
@@ -13807,6 +13972,57 @@
       "Uncommon Screen S": 1,
       "Uncommon Casing S": 1,
       "Tier 2 L Element Schematic Copy": 1
+    }
+  },
+  "Modern Screen XL": {
+    "tier": 2,
+    "type": "Furniture & Appliances Element",
+    "volume": 600,
+    "outputQuantity": 1,
+    "time": 5760,
+    "byproducts": {},
+    "industry": "Assembly Line M",
+    "input": {
+      "Basic Component": 18,
+      "Uncommon Component": 18,
+      "Uncommon Electronics": 25,
+      "Uncommon Screen M": 1,
+      "Uncommon Casing M": 1,
+      "Tier 2 XL Element Schematic Copy": 1
+    }
+  },
+  "Modern Screen XXL": {
+    "tier": 2,
+    "type": "Furniture & Appliances Element",
+    "volume": 2160,
+    "outputQuantity": 1,
+    "time": 23040,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Basic Component": 108,
+      "Uncommon Component": 108,
+      "Uncommon Electronics": 125,
+      "Uncommon Screen L": 1,
+      "Uncommon Casing L": 1,
+      "Tier 2 XL Element Schematic Copy": 1
+    }
+  },
+  "Modern Screen XXXL": {
+    "tier": 2,
+    "type": "Furniture & Appliances Element",
+    "volume": 3600,
+    "outputQuantity": 1,
+    "time": 92160,
+    "byproducts": {},
+    "industry": "Assembly Line XL",
+    "input": {
+      "Basic Component": 648,
+      "Uncommon Component": 648,
+      "Uncommon Electronics": 625,
+      "Uncommon Screen XL": 1,
+      "Uncommon Casing XL": 1,
+      "Tier 2 XL Element Schematic Copy": 1
     }
   },
   "Sign XS": {
