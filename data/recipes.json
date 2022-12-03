@@ -4433,6 +4433,24 @@
       "Basic Screw": 25
     }
   },
+  "Uncommon Gas Cylinder M":
+  {
+    "tier": 2,
+    "type": "Functional Part",
+    "volume": 268.0,
+    "outputQuantity": 1,
+    "time": 2160,
+    "byproducts": {},
+    "nanopack": true,
+    "industry": "Metalwork Industry M",
+    "input": {
+      "Basic Screw": 8,
+      "Basic Injector": 8,
+      "Duralumin": 49,
+      "Uncommon Screw": 18,
+      "Uncommon Injector": 18
+    }
+  },
   "Uncommon Gas Cylinder L":
   {
     "tier": 2,
@@ -7408,7 +7426,24 @@
       "Basic Reinforced Frame L": 1,
       "Tier 1 M Element Schematic Copy": 1
     }
-  },  
+  },
+  "Uncommon Gravity-Inverted Container M": {
+    "tier": 2,
+    "type": "Industry & Infrastructure Element",
+    "volume": 1873,
+    "outputQuantity": 1,
+    "time": 28800,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Basic Screw": 108,
+      "Uncommon Screw": 108,
+      "Uncommon Hydraulics": 125,
+      "Uncommon Mobile Panel L": 1,
+      "Uncommon Standard Frame L": 1,
+      "Tier 2 M Element Schematic Copy": 1
+    }
+  },
   "Uncommon Optimised Container M": {
     "tier": 2,
     "type": "Industry & Infrastructure Element",
@@ -7504,7 +7539,7 @@
     }
   },
   "Parcel Container M": {
-    "tier": 1,
+    "tier": 2,
     "type": "Industry & Infrastructure Element",
     "volume": 1873,
     "outputQuantity": 1,
@@ -7515,7 +7550,8 @@
       "Basic Component": 108,
       "Uncommon Component": 108,
       "Uncommon Hydraulics": 125,
-      "Uncommon Reinforced Frame L": 1
+      "Uncommon Reinforced Frame L": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Parcel Container L": {
@@ -7707,7 +7743,8 @@
       "Basic Pipe": 36,
       "Basic Injector": 25,
       "Basic Chemical Container M": 1,
-      "Basic Standard Frame M": 1
+      "Basic Standard Frame M": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Space Fuel Tank L": {
@@ -8005,7 +8042,8 @@
       "Uncommon Screw": 18,
       "Uncommon Power System": 25,
       "Uncommon Mobile Panel M": 1,
-      "Uncommon Reinforced Frame M": 1
+      "Uncommon Reinforced Frame M": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Advanced Assembly Line M": {
@@ -8194,7 +8232,8 @@
       "Uncommon Pipe": 18,
       "Uncommon Injector": 25,
       "Uncommon Robotic Arm M": 1,
-      "Uncommon Reinforced Frame M": 1
+      "Uncommon Reinforced Frame M": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Advanced 3D Printer M": {
@@ -8257,7 +8296,8 @@
       "Uncommon Pipe": 18,
       "Uncommon Power System": 25,
       "Uncommon Chemical Container M": 1,
-      "Uncommon Reinforced Frame M": 1
+      "Uncommon Reinforced Frame M": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Advanced Chemical Industry M": {
@@ -8320,7 +8360,8 @@
       "Uncommon Pipe": 18,
       "Uncommon Electronics": 25,
       "Uncommon Robotic Arm M": 1,
-      "Uncommon Reinforced Frame M": 1
+      "Uncommon Reinforced Frame M": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Advanced Electronics Industry M": {
@@ -8383,7 +8424,8 @@
       "Uncommon Pipe": 18,
       "Uncommon Burner": 25,
       "Uncommon Power Transformer M": 1,
-      "Uncommon Reinforced Frame M": 1
+      "Uncommon Reinforced Frame M": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Advanced Glass Furnace M": {
@@ -8446,7 +8488,8 @@
       "Uncommon Pipe": 18,
       "Uncommon Power System": 25,
       "Uncommon Robotic Arm M": 1,
-      "Uncommon Reinforced Frame M": 1
+      "Uncommon Reinforced Frame M": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Advanced Honeycomb Refinery M": {
@@ -8509,7 +8552,8 @@
       "Uncommon Pipe": 18,
       "Uncommon Power System": 25,
       "Uncommon Mobile Panel M": 1,
-      "Uncommon Reinforced Frame M": 1
+      "Uncommon Reinforced Frame M": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Advanced Metalwork Industry M": {
@@ -8572,7 +8616,8 @@
       "Uncommon Pipe": 18,
       "Uncommon Burner": 25,
       "Uncommon Mobile Panel M": 1,
-      "Uncommon Reinforced Frame M": 1
+      "Uncommon Reinforced Frame M": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Advanced Recycler M": {
@@ -8635,7 +8680,8 @@
       "Uncommon Pipe": 18,
       "Uncommon Power System": 25,
       "Uncommon Chemical Container M": 1,
-      "Uncommon Reinforced Frame M": 1
+      "Uncommon Reinforced Frame M": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Advanced Refiner M": {
@@ -8698,7 +8744,8 @@
       "Uncommon Pipe": 18,
       "Uncommon Burner": 25,
       "Uncommon Chemical Container M": 1,
-      "Uncommon Reinforced Frame M": 1
+      "Uncommon Reinforced Frame M": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Advanced Smelter M": {
@@ -9507,7 +9554,8 @@
       "Uncommon Screw": 18,
       "Uncommon Injector": 25,
       "Uncommon Combustion Chamber M": 1,
-      "Uncommon Reinforced Frame M": 1
+      "Uncommon Reinforced Frame M": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Uncommon Maneuver Atmospheric Engine M": {
@@ -9523,7 +9571,8 @@
       "Uncommon Screw": 18,
       "Uncommon Injector": 25,
       "Uncommon Combustion Chamber M": 1,
-      "Uncommon Reinforced Frame M": 1
+      "Uncommon Reinforced Frame M": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Uncommon Military Atmospheric Engine M": {
@@ -9539,7 +9588,8 @@
       "Uncommon Screw": 18,
       "Uncommon Injector": 25,
       "Uncommon Combustion Chamber M": 1,
-      "Uncommon Reinforced Frame M": 1
+      "Uncommon Reinforced Frame M": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Uncommon Safe Atmospheric Engine M": {
@@ -9555,7 +9605,8 @@
       "Uncommon Screw": 18,
       "Uncommon Injector": 25,
       "Uncommon Combustion Chamber M": 1,
-      "Uncommon Reinforced Frame M": 1
+      "Uncommon Reinforced Frame M": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Advanced Freight Atmospheric Engine M": {
@@ -10345,7 +10396,8 @@
       "Uncommon Screw": 18,
       "Uncommon Burner": 25,
       "Uncommon Ionic Chamber M": 1,
-      "Uncommon Reinforced Frame M": 1
+      "Uncommon Reinforced Frame M": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Uncommon Maneuver Space Engine M": {
@@ -10361,7 +10413,8 @@
       "Uncommon Screw": 18,
       "Uncommon Burner": 25,
       "Uncommon Ionic Chamber M": 1,
-      "Uncommon Reinforced Frame M": 1
+      "Uncommon Reinforced Frame M": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Uncommon Military Space Engine M": {
@@ -10377,7 +10430,8 @@
       "Uncommon Screw": 18,
       "Uncommon Burner": 25,
       "Uncommon Ionic Chamber M": 1,
-      "Uncommon Reinforced Frame M": 1
+      "Uncommon Reinforced Frame M": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Uncommon Safe Space Engine M": {
@@ -10393,7 +10447,8 @@
       "Uncommon Screw": 18,
       "Uncommon Burner": 25,
       "Uncommon Ionic Chamber M": 1,
-      "Uncommon Reinforced Frame M": 1
+      "Uncommon Reinforced Frame M": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Advanced Freight Space Engine M": {
@@ -11037,6 +11092,57 @@
       "Tier 1 M Element Schematic Copy": 1
     }
   },
+  "Uncommon Freight Hover Engine M": {
+    "tier": 2,
+    "type": "Piloting Element",
+    "volume": 116.6,
+    "outputQuantity": 1,
+    "time": 5760,
+    "byproducts": {},
+    "industry": "Assembly Line M",
+    "input": {
+      "Basic Screw": 18,
+      "Uncommon Screw": 18,
+      "Uncommon Injector": 25,
+      "Uncommon Gas Cylinder M": 1,
+      "Uncommon Reinforced Frame M": 1,
+      "Tier 2 M Element Schematic Copy": 1
+    }
+  },
+  "Uncommon Maneuver Hover Engine M": {
+    "tier": 2,
+    "type": "Piloting Element",
+    "volume": 116.6,
+    "outputQuantity": 1,
+    "time": 5760,
+    "byproducts": {},
+    "industry": "Assembly Line M",
+    "input": {
+      "Basic Screw": 18,
+      "Uncommon Screw": 18,
+      "Uncommon Injector": 25,
+      "Uncommon Gas Cylinder M": 1,
+      "Uncommon Reinforced Frame M": 1,
+      "Tier 2 M Element Schematic Copy": 1
+    }
+  },  
+  "Uncommon Military Hover Engine M": {
+    "tier": 2,
+    "type": "Piloting Element",
+    "volume": 116.6,
+    "outputQuantity": 1,
+    "time": 5760,
+    "byproducts": {},
+    "industry": "Assembly Line M",
+    "input": {
+      "Basic Screw": 18,
+      "Uncommon Screw": 18,
+      "Uncommon Injector": 25,
+      "Uncommon Gas Cylinder M": 1,
+      "Uncommon Reinforced Frame M": 1,
+      "Tier 2 M Element Schematic Copy": 1
+    }
+  },
   "Basic Hover Engine L": {
     "tier": 2,
     "type": "Piloting Element",
@@ -11420,6 +11526,57 @@
       "Tier 1 M Element Schematic Copy": 1
     }
   },
+  "Uncommon Freight Vertical Booster M": {
+    "tier": 2,
+    "type": "Piloting Element",
+    "volume": 105.20,
+    "outputQuantity": 1,
+    "time": 5760,
+    "byproducts": {},
+    "industry": "Assembly Line M",
+    "input": {
+      "Basic Pipe": 18,
+      "Uncommon Pipe": 18,
+      "Uncommon Injector": 25,
+      "Uncommon Ionic Chamber M": 1,
+      "Uncommon Standard Frame M": 1,
+      "Tier 2 M Element Schematic Copy": 1
+    }
+  },
+  "Uncommon Maneuver Vertical Booster M": {
+    "tier": 2,
+    "type": "Piloting Element",
+    "volume": 105.20,
+    "outputQuantity": 1,
+    "time": 5760,
+    "byproducts": {},
+    "industry": "Assembly Line M",
+    "input": {
+      "Basic Pipe": 18,
+      "Uncommon Pipe": 18,
+      "Uncommon Injector": 25,
+      "Uncommon Ionic Chamber M": 1,
+      "Uncommon Standard Frame M": 1,
+      "Tier 2 M Element Schematic Copy": 1
+    }
+  },
+  "Uncommon Military Vertical Booster M": {
+    "tier": 2,
+    "type": "Piloting Element",
+    "volume": 105.20,
+    "outputQuantity": 1,
+    "time": 5760,
+    "byproducts": {},
+    "industry": "Assembly Line M",
+    "input": {
+      "Basic Pipe": 18,
+      "Uncommon Pipe": 18,
+      "Uncommon Injector": 25,
+      "Uncommon Ionic Chamber M": 1,
+      "Uncommon Standard Frame M": 1,
+      "Tier 2 M Element Schematic Copy": 1
+    }
+  },
   "Basic Vertical Booster L": {
     "tier": 1,
     "type": "Piloting Element",
@@ -11681,7 +11838,8 @@
       "Basic Screw": 18,
       "Uncommon Screw": 18,
       "Uncommon Hydraulics": 25,
-      "Uncommon Reinforced Frame M": 1
+      "Uncommon Reinforced Frame M": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Landing Gear L": {
@@ -12158,7 +12316,8 @@
       "Uncommon Screw": 2592,
       "Uncommon Power System": 2500,
       "Uncommon Electric Engine XL": 4,
-      "Uncommon Reinforced Frame XL": 4
+      "Uncommon Reinforced Frame XL": 4,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Expanded Gate L": {
@@ -12474,7 +12633,8 @@
       "Uncommon Screw": 108,
       "Uncommon Electronics": 125,
       "Uncommon Antenna L": 1,
-      "Uncommon Standard Frame L": 1
+      "Uncommon Standard Frame L": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Emitter XS": {
@@ -12524,7 +12684,8 @@
       "Uncommon Component": 18,
       "Uncommon Electronics": 25,
       "Uncommon Antenna M": 1,
-      "Uncommon Casing M": 1
+      "Uncommon Casing M": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Long Light XS": {
@@ -12571,7 +12732,8 @@
       "Uncommon Connector": 1,
       "Uncommon Power System": 1,
       "Uncommon Light XS": 1,
-      "Uncommon Casing XS": 1
+      "Uncommon Casing XS": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Long Light L": {
@@ -12634,7 +12796,8 @@
       "Uncommon Connector": 1,
       "Uncommon Power System": 1,
       "Uncommon Light XS": 1,
-      "Uncommon Casing XS": 1
+      "Uncommon Casing XS": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Square Light L": {
@@ -12697,7 +12860,8 @@
       "Uncommon Connector": 1,
       "Uncommon Power System": 1,
       "Uncommon Light XS": 1,
-      "Uncommon Casing XS": 1
+      "Uncommon Casing XS": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Vertical Light L": {
@@ -12950,7 +13114,8 @@
       "Uncommon LED": 18,
       "Uncommon Processor": 25,
       "Uncommon Antenna M": 1,
-      "Uncommon Standard Frame M": 1
+      "Uncommon Standard Frame M": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Advanced Phased-Array Space Radar M": {
@@ -13374,7 +13539,8 @@
       "Uncommon Component": 1,
       "Uncommon Electronics": 1,
       "Uncommon Screen XS": 1,
-      "Uncommon Casing XS": 1
+      "Uncommon Casing XS": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Screen XL": {
@@ -13475,7 +13641,25 @@
       "Uncommon Component": 1,
       "Uncommon Electronics": 1,
       "Uncommon Screen XS": 1,
-      "Uncommon Casing XS": 1
+      "Uncommon Casing XS": 1,
+      "Tier 2 M Element Schematic Copy": 1
+    }
+  },
+  "Transparent Modern Screen M": {
+    "tier": 2,
+    "type": "Furniture & Appliances Element",
+    "volume": 90.0,
+    "outputQuantity": 1,
+    "time": 360,
+    "byproducts": {},
+    "industry": "Assembly Line XS",
+    "input": {
+      "Basic Component": 1,
+      "Uncommon Component": 1,
+      "Uncommon Electronics": 1,
+      "Uncommon Screen XS": 1,
+      "Uncommon Casing XS": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Transparent Screen L": {
@@ -13528,6 +13712,23 @@
       "Tier 2 S Element Schematic Copy": 1
     }
   },
+  "Modern Screen M": {
+    "tier": 2,
+    "type": "Furniture & Appliances Element",
+    "volume": 90,
+    "outputQuantity": 1,
+    "time": 360,
+    "byproducts": {},
+    "industry": "Assembly Line XS",
+    "input": {
+      "Basic Component": 1,
+      "Uncommon Component": 1,
+      "Uncommon Electronics": 1,
+      "Uncommon Screen XS": 1,
+      "Uncommon Casing XS": 1,
+      "Tier 2 M Element Schematic Copy": 1
+    }
+  },
   "Sign XS": {
     "tier": 2,
     "type": "Furniture & Appliances Element",
@@ -13575,7 +13776,8 @@
       "Uncommon Component": 1,
       "Uncommon Electronics": 1,
       "Uncommon Screen XS": 1,
-      "Uncommon Casing XS": 1
+      "Uncommon Casing XS": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Sign L": {
@@ -13624,7 +13826,8 @@
       "Uncommon Component": 1,
       "Uncommon Electronics": 1,
       "Uncommon Screen XS": 1,
-      "Uncommon Casing XS": 1
+      "Uncommon Casing XS": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Vertical Sign L": {
@@ -16946,7 +17149,8 @@
       "Uncommon Screw": 36,
       "Advanced Electronics": 25,
       "Advanced Firing System M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Advanced Agile Cannon M": {
@@ -17744,7 +17948,8 @@
       "Uncommon Connector": 36,
       "Advanced Power System": 25,
       "Advanced Laser Chamber M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Advanced Agile Laser M": {
@@ -18542,7 +18747,8 @@
       "Uncommon Screw": 36,
       "Advanced Hydraulics": 25,
       "Advanced Missile Silo M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Advanced Agile Missile M": {
@@ -19340,7 +19546,8 @@
       "Uncommon Connector": 36,
       "Advanced Optics": 25,
       "Advanced Magnetic Rail M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 2 M Element Schematic Copy": 1
     }
   },
   "Advanced Agile Railgun M": {
