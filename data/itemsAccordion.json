@@ -1081,6 +1081,7 @@
                       "Screen XL",
                       "Modern Screen XS",
                       "Modern Screen S",
+                      "Modern Screen M",
                       {
                         "name": "Signs",
                         "data": [
@@ -1098,7 +1099,8 @@
                       "Transparent Screen M",
                       "Transparent Screen L",
                       "Transparent Modern Screen XS",
-                      "Transparent Modern Screen S"
+                      "Transparent Modern Screen S",
+                      "Transparent Modern Screen M"
                     ]
                   }
                 ]
@@ -1314,6 +1316,7 @@
                   "Uncommon Optimised Container XS",
                   "Uncommon Gravity-Inverted Container S",
                   "Uncommon Optimised Container S",
+                  "Uncommon Gravity-Inverted Container M",
                   "Uncommon Optimised Container M"
                 ]
               },
@@ -1667,7 +1670,10 @@
                       {
                         "name": "Medium Hovercraft Engines",
                         "data":[
-                          "Basic Hover Engine M"
+                          "Basic Hover Engine M",
+                          "Uncommon Freight Hover Engine M",
+                          "Uncommon Maneuver Hover Engine M",
+                          "Uncommon Military Hover Engine M"
                         ]
                       },
                       {
@@ -1715,7 +1721,10 @@
                       { 
                         "name": "Vertical Boosters M",
                         "data": [
-                          "Basic Vertical Booster M"
+                          "Basic Vertical Booster M",
+                          "Uncommon Freight Vertical Booster M",
+                          "Uncommon Maneuver Vertical Booster M",
+                          "Uncommon Military Vertical Booster M"
                         ]
                       },
                       {
