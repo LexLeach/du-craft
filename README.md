@@ -1,6 +1,8 @@
 # du-craft
-Code for du-craft.online
+Code for du-craft.online provided by HollyDOL (in case you want to donate some h pls mention "du-craft" in transaction description, you'll be put in Thanks to section).
 Fork of no longer maintained du-craft.net
+
+Currently in progress of syncing to game version 1.1.2
 
 ## Added
 - [x] All schematics base data (cost, time, qty)
@@ -46,3 +48,6 @@ Fork of no longer maintained du-craft.net
 - [x] Tier 5 Product Material Schematic
 
 - [x] Bonsai Schematic
+
+## Thanks to
+Alvalor for asking me for price check so often I got fed off spreadsheet processor and started updating this.
