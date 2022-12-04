@@ -553,10 +553,10 @@
           {
             "name": "Shield Generators",
             "data": [
-              "Shield Generator L",
               "Advanced Shield Generator XS",
               "Advanced Shield Generator S",
-              "Advanced Shield Generator M"
+              "Advanced Shield Generator M",
+              "Advanced Shield Generator L"
             ]
           },
           "Transponder XS",
@@ -1335,6 +1335,8 @@
                   "Advanced Optimised Container S",
                   "Advanced Gravity-Inverted Container M",
                   "Advanced Optimised Container M",
+                  "Advanced Gravity-Inverted Container L",
+                  "Advanced Optimised Container L",
                   "Expanded Uncommon Gravity-Inverted Container XXL",
                   "Expanded Uncommon Optimised Container XXL"
                 ]
