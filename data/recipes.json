@@ -7424,7 +7424,6 @@
     "outputQuantity": 1,
     "time": 1800,
     "byproducts": {},
-    "nanopack": true,
     "industry": "Assembly Line S",
     "input": {
       "Basic Screw": 3,
@@ -7459,7 +7458,6 @@
     "outputQuantity": 1,
     "time": 5400,
     "byproducts": {},
-    "nanopack": true,
     "industry": "Assembly Line S",
     "input": {
       "Uncommon Screw": 6,
@@ -7477,7 +7475,6 @@
     "outputQuantity": 1,
     "time": 5400,
     "byproducts": {},
-    "nanopack": true,
     "industry": "Assembly Line S",
     "input": {
       "Uncommon Screw": 6,
@@ -7510,7 +7507,6 @@
     "outputQuantity": 1,
     "time": 7200,
     "byproducts": {},
-    "nanopack": true,
     "industry": "Assembly Line M",
     "input": {
       "Basic Screw": 18,
@@ -7545,7 +7541,6 @@
     "outputQuantity": 1,
     "time": 21600,
     "byproducts": {},
-    "nanopack": true,
     "industry": "Assembly Line M",
     "input": {
       "Uncommon Screw": 36,
@@ -7563,7 +7558,6 @@
     "outputQuantity": 1,
     "time": 21600,
     "byproducts": {},
-    "nanopack": true,
     "industry": "Assembly Line M",
     "input": {
       "Uncommon Screw": 36,
