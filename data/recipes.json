@@ -5101,6 +5101,20 @@
       "Exotic Optics": 50
     }
   },
+  "Basic Light XS": {
+    "tier": 1,
+    "type": "Functional Part",
+    "volume": 4.8,
+    "outputQuantity": 1,
+    "time": 42,
+    "byproducts": {},
+    "industry": "Electronics Industry M",
+    "nanopack": true,
+    "input": {
+      "Glass": 1,
+      "Basic LED": 1
+    }
+  },
   "Uncommon Light XS": {
     "tier": 2,
     "type": "Functional Part",
@@ -7800,6 +7814,40 @@
       "Tier 1 XL Element Schematic Copy": 1
     }
   },
+  "Advanced Gravity-Inverted Container XL": {
+    "tier": 3,
+    "type": "Industry & Infrastructure Element",
+    "volume": 10500,
+    "outputQuantity": 1,
+    "time": 345600,
+    "byproducts": {},
+    "industry": "Assembly Line XL",
+    "input": {
+      "Uncommon Screw": 1296,
+      "Advanced Hydraulics": 625,
+      "Advanced Mobile Panel XL": 1,
+      "Advanced Anti-Gravity Core": 256,
+      "Advanced Standard Frame XL": 1,
+      "Tier 3 XL Element Schematic Copy": 1
+    }
+  },
+  "Advanced Optimised Container XL": {
+    "tier": 3,
+    "type": "Industry & Infrastructure Element",
+    "volume": 10500,
+    "outputQuantity": 1,
+    "time": 345600,
+    "byproducts": {},
+    "industry": "Assembly Line XL",
+    "input": {
+      "Uncommon Screw": 1296,
+      "Advanced Hydraulics": 625,
+      "Advanced Mobile Panel XL": 1,
+      "Advanced Quantum Alignment Unit": 256,
+      "Advanced Standard Frame XL": 1,
+      "Tier 3 XL Element Schematic Copy": 1
+    }
+  },
   "Expanded Uncommon Gravity-Inverted Container XXL": {
     "tier": 2,
     "type": "Industry & Infrastructure Element",
@@ -7832,6 +7880,40 @@
       "Uncommon Mobile Panel XL": 2,
       "Uncommon Standard Frame XL": 2,
       "Tier 2 XL Element Schematic Copy": 1
+    }
+  },
+  "Expanded Advanced Gravity-Inverted Container XXL": {
+    "tier": 3,
+    "type": "Industry & Infrastructure Element",
+    "volume": 21000,
+    "outputQuantity": 1,
+    "time": 691200,
+    "byproducts": {},
+    "industry": "Assembly Line XL",
+    "input": {
+      "Uncommon Screw": 2592,
+      "Advanced Hydraulics": 1250,
+      "Advanced Mobile Panel XL": 2,
+      "Advanced Anti-Gravity Core": 512,
+      "Advanced Standard Frame XL": 2,
+      "Tier 3 XL Element Schematic Copy": 1
+    }
+  },
+  "Expanded Advanced Optimised Container XXL": {
+    "tier": 3,
+    "type": "Industry & Infrastructure Element",
+    "volume": 21000,
+    "outputQuantity": 1,
+    "time": 691200,
+    "byproducts": {},
+    "industry": "Assembly Line XL",
+    "input": {
+      "Uncommon Screw": 2592,
+      "Advanced Hydraulics": 1250,
+      "Advanced Mobile Panel XL": 2,
+      "Advanced Quantum Alignment Unit": 512,
+      "Advanced Standard Frame XL": 2,
+      "Tier 3 XL Element Schematic Copy": 1
     }
   },
   "Parcel Container XS": {
@@ -7930,7 +8012,7 @@
       "Tier 2 XL Element Schematic Copy": 1
     }
   },
-  "Dispenser": {
+  "Dispenser M": {
     "tier": 1,
     "type": "Industry & Infrastructure Element",
     "volume": 479.2,
@@ -7946,7 +8028,7 @@
       "Tier 1 M Element Schematic Copy": 1
     }
   },
-  "Deprecated Dispenser": {
+  "Deprecated Dispenser M": {
     "tier": 1,
     "type": "Industry & Infrastructure Element",
     "volume": 479.2,
@@ -8526,7 +8608,8 @@
       "Uncommon Screw": 1296,
       "Advanced Power System": 625,
       "Advanced Mobile Panel XL": 1,
-      "Advanced Reinforced Frame XL": 1
+      "Advanced Reinforced Frame XL": 1,
+      "Tier 3 XL Element Schematic Copy": 1
     }
   },
   "Rare Assembly Line XL": {
@@ -12593,7 +12676,7 @@
       "Tier 2 XL Element Schematic Copy": 1
     }
   },
-  "Gyroscope": {
+  "Gyroscope XS": {
     "tier": 1,
     "type": "Piloting Element",
     "volume": 17.65,
@@ -12640,7 +12723,7 @@
       "Advanced Electronics": 1
     }
   },
-  "Hovercraft Seat Controller": {
+  "Hovercraft Seat Controller S": {
     "tier": 1,
     "type": "Systems Element",
     "volume": 61.6,
@@ -12671,7 +12754,7 @@
       "Tier 3 XS Element Schematic Copy": 1
     }
   },
-  "Command Seat Controller": {
+  "Command Seat Controller S": {
     "tier": 1,
     "type": "Systems Element",
     "volume": 66.6,
@@ -12704,7 +12787,7 @@
       "Tier 1 M Element Schematic Copy": 1
     }
   },
-  "Programming Board": {
+  "Programming Board XS": {
     "tier": 1,
     "type": "Systems Element",
     "volume": 12.7,
@@ -12868,7 +12951,7 @@
       "Tier 1 M Element Schematic Copy": 1
     }
   },
-  "Reinforced Sliding Door": {
+  "Reinforced Sliding Door S": {
     "tier": 1,
     "type": "Furniture & Appliances Element",
     "volume": 546.4,
@@ -12884,7 +12967,7 @@
       "Tier 1 S Element Schematic Copy": 1
     }
   },
-  "Interior Door": {
+  "Interior Door S": {
     "tier": 1,
     "type": "Furniture & Appliances Element",
     "volume": 546.4,
@@ -12900,7 +12983,7 @@
       "Tier 1 S Element Schematic Copy": 1
     }
   },
-  "Airlock": {
+  "Airlock S": {
     "tier": 1,
     "type": "Furniture & Appliances Element",
     "volume": 546.4,
@@ -13091,7 +13174,7 @@
       "Tier 2 XS Element Schematic Copy": 1
     }
   },
-  "Relay": {
+  "Relay XS": {
     "tier": 1,
     "type": "Furniture & Appliances Element",
     "volume": 6.5,
@@ -13107,7 +13190,7 @@
       "Tier 1 XS Element Schematic Copy": 1
     }
   },
-  "Databank": {
+  "Databank XS": {
     "tier": 1,
     "type": "Furniture & Appliances Element",
     "volume": 5.5,
@@ -13211,7 +13294,7 @@
       "Tier 2 XS Element Schematic Copy": 1
     }
   },
-  "Laser Emitter": {
+  "Laser Emitter XS": {
     "tier": 1,
     "type": "Furniture & Appliances Element",
     "volume": 4.5,
@@ -13225,7 +13308,7 @@
       "Tier 1 XS Element Schematic Copy": 1
     }
   },
-  "Delay Line": {
+  "Delay Line XS": {
     "tier": 1,
     "type": "Furniture & Appliances Element",
     "volume": 4.5,
@@ -13235,7 +13318,8 @@
     "industry": "Assembly Line XS",
     "input": {
       "Basic Component": 1,
-      "Basic Electronics": 1
+      "Basic Electronics": 1,
+      "Tier 1 XS Element Schematic Copy": 1
     }
   },
   "Receiver XS": {
@@ -13338,17 +13422,18 @@
     }
   },
   "Long Light XS": {
-    "tier": 2,
+    "tier": 1,
     "type": "Furniture & Appliances Element",
     "volume": 10.8,
     "outputQuantity": 1,
-    "time": 90,
+    "time": 30,
     "byproducts": {},
     "industry": "Assembly Line XS",
+    "nanopack": true,
     "input": {
       "Basic Connector": 1,
-      "Uncommon Connector": 1,
-      "Uncommon Power System": 1
+      "Basic Power System": 1,
+      "Tier 1 XS Element Schematic Copy": 1
     }
   },
   "Long Light S": {
@@ -13403,17 +13488,18 @@
     }
   },
   "Square Light XS": {
-    "tier": 2,
+    "tier": 1,
     "type": "Furniture & Appliances Element",
     "volume": 10.8,
     "outputQuantity": 1,
-    "time": 90,
+    "time": 30,
     "byproducts": {},
     "industry": "Assembly Line XS",
+    "nanopack": true,
     "input": {
       "Basic Connector": 1,
-      "Uncommon Connector": 1,
-      "Uncommon Power System": 1
+      "Basic Power System": 1,
+      "Tier 1 XS Element Schematic Copy": 1
     }
   },
   "Square Light S": {
@@ -13468,17 +13554,18 @@
     }
   },
   "Vertical Light XS": {
-    "tier": 2,
+    "tier": 1,
     "type": "Furniture & Appliances Element",
     "volume": 10.8,
     "outputQuantity": 1,
-    "time": 90,
+    "time": 30,
     "byproducts": {},
     "industry": "Assembly Line XS",
+    "nanopack": true,
     "input": {
       "Basic Connector": 1,
-      "Uncommon Connector": 1,
-      "Uncommon Power System": 1
+      "Basic Power System": 1,
+      "Tier 1 XS Element Schematic Copy": 1
     }
   },
   "Vertical Light S": {
@@ -13532,20 +13619,21 @@
       "Tier 2 L Element Schematic Copy": 1
     }
   },
-  "Headlight": {
-    "tier": 2,
+  "Headlight XS": {
+    "tier": 1,
     "type": "Furniture & Appliances Element",
     "volume": 21.6,
     "outputQuantity": 1,
-    "time": 360,
+    "time": 120,
     "byproducts": {},
     "industry": "Assembly Line XS",
+    "nanopack": true,
     "input": {
       "Basic Connector": 1,
-      "Uncommon Connector": 1,
-      "Uncommon Power System": 1,
-      "Uncommon Light XS": 1,
-      "Uncommon Casing XS": 1
+      "Basic Power System": 1,
+      "Basic Light XS": 1,
+      "Basic Casing XS": 1,
+      "Tier 1 XS Element Schematic Copy": 1
     }
   },
   "Atmospheric Radar S": {
@@ -14698,7 +14786,7 @@
       "Basic Fixation": 1
     }
   },
-  "Manual Switch": {
+  "Manual Switch XS": {
     "tier": 1,
     "type": "Furniture & Appliances Element",
     "volume": 5,
@@ -14711,7 +14799,7 @@
       "Basic Electronics": 1
     }
   },
-  "Pressure Tile": {
+  "Pressure Tile XS": {
     "tier": 1,
     "type": "Furniture & Appliances Element",
     "volume": 14.49,
@@ -14738,7 +14826,8 @@
     "industry": "Assembly Line XS",
     "input": {
       "Basic Screw": 1,
-      "Basic Electronics": 1
+      "Basic Electronics": 1,
+      "Tier 1 XS Element Schematic Copy": 1
     }
   },
   "Manual Button S": {
@@ -17496,7 +17585,7 @@
       "Mangalloy": 100
     }
   },
-  "Deep Space Asteroid Tracker": {
+  "Deep Space Asteroid Tracker XL": {
     "tier": 1,
     "type": "Systems Element",
     "volume": 20500,
@@ -17529,7 +17618,7 @@
       "Tier 2 S Element Schematic Copy": 1
     }
   },
-  "Virtual Scaffolding Projector": {
+  "Virtual Scaffolding Projector XS": {
     "tier": 1,
     "type": "Furniture & Appliances Element",
     "volume": 122.4,
@@ -23424,10 +23513,10 @@
       "Tier 1 XS Element Schematic Copy": 1
     }
   },
-  "Repair Unit": {
-    "tier": 1,
+  "Repair Unit XL": {
+    "tier": 3,
     "type": "Combat Element",
-    "volume": 0,
+    "volume": 4366,
     "outputQuantity": 1,
     "time": 86400,
     "byproducts": {},
@@ -23437,7 +23526,8 @@
       "Advanced Hydraulics": 125,
       "Advanced Magnetic Rail L": 1,
       "Advanced Antimatter Core": 64,
-      "Advanced Reinforced Frame L": 1
+      "Advanced Reinforced Frame L": 1,
+      "Tier 3 XL Element Schematic Copy": 1
     }
   },
   "Surrogate Pod Station S": {
@@ -23456,7 +23546,7 @@
       "Tier 3 S Element Schematic Copy": 1
     }
   },
-  "Surrogate VR Station": {
+  "Surrogate VR Station M": {
     "tier": 1,
     "type": "Systems Element",
     "volume": 360.2,

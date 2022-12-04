@@ -549,7 +549,7 @@
               }
             ]
           },
-          "Repair Unit",
+          "Repair Unit XL",
           {
             "name": "Shield Generators",
             "data": [
@@ -1116,7 +1116,7 @@
               {
                 "name": "Doors",
                 "data": [
-                  "Airlock",
+                  "Airlock S",
                   "Expanded Gate S",
                   "Expanded Gate L",
                   "Fuel Intake XS",
@@ -1124,8 +1124,8 @@
                   "Gate M",
                   "Gate XL",
                   "Hatch S",
-                  "Interior Door",
-                  "Reinforced Sliding Door",
+                  "Interior Door S",
+                  "Reinforced Sliding Door S",
                   "Sliding Door S",
                   "Sliding Door M"
                 ]
@@ -1151,13 +1151,13 @@
                       "Emitter M"
                     ]
                   },
-                  "Databank",
-                  "Delay Line",
+                  "Databank XS",
+                  "Delay Line XS",
                   {
                     "name": "Laser Emitters",
                     "data": [
                       "Infrared Laser Emitter XS",
-                      "Laser Emitter"
+                      "Laser Emitter XS"
                     ]
                   },
                   {
@@ -1179,7 +1179,7 @@
                       "Receiver M"
                     ]
                   },
-                  "Relay",
+                  "Relay XS",
                   {
                     "name": "Sensors",
                     "data": [
@@ -1212,8 +1212,8 @@
                           "Manual Button S"
                         ]
                       },
-                      "Manual Switch",
-                      "Pressure Tile"
+                      "Manual Switch XS",
+                      "Pressure Tile XS"
                     ]
                   }
                 ]
@@ -1231,13 +1231,13 @@
                       "Force Field L"
                     ]
                   },
-                  "Virtual Scaffolding Projector"
+                  "Virtual Scaffolding Projector XS"
                 ]
               },
               {
                 "name": "Lights",
                 "data": [
-                  "Headlight",
+                  "Headlight XS",
                   "Long Light XS",
                   "Long Light S",
                   "Long Light M",
@@ -1274,8 +1274,8 @@
               {
                 "name": "Dispensers",
                 "data": [
-                  "Deprecated Dispenser",
-                  "Dispenser"
+                  "Deprecated Dispenser M",
+                  "Dispenser M"
                 ]
               },
               {
@@ -1337,8 +1337,12 @@
                   "Advanced Optimised Container M",
                   "Advanced Gravity-Inverted Container L",
                   "Advanced Optimised Container L",
+                  "Advanced Gravity-Inverted Container XL",
+                  "Advanced Optimised Container XL",
                   "Expanded Uncommon Gravity-Inverted Container XXL",
-                  "Expanded Uncommon Optimised Container XXL"
+                  "Expanded Uncommon Optimised Container XXL",
+                  "Expanded Advanced Gravity-Inverted Container XXL",
+                  "Expanded Advanced Optimised Container XXL"
                 ]
               },
               {
@@ -1494,7 +1498,7 @@
             "name": "Control Units",
             "data": [
               "Emergency Controller XS",
-              "Programming Board",
+              "Programming Board XS",
               {
                 "name": "Gunner Module",
                 "data": [
@@ -1507,20 +1511,20 @@
                 "name": "Piloting Control Units",
                 "data": [
                   "Cockpit M",
-                  "Command Seat Controller",
-                  "Hovercraft Seat Controller",
+                  "Command Seat Controller S",
+                  "Hovercraft Seat Controller S",
                   "Remote Controller"
                 ]
               }
             ]
           },
-          "Deep Space Asteroid Tracker",
+          "Deep Space Asteroid Tracker XL",
           "Resurrection Node S",
           {
             "name": "Surrogate Station Equipment",
             "data": [
               "Surrogate Pod Station S",
-              "Surrogate VR Station"
+              "Surrogate VR Station M"
             ]
           },
           "Territory Scanner XL"
@@ -1907,7 +1911,7 @@
           {
             "name": "Support Tech",
             "data": [
-              "Gyroscope",
+              "Gyroscope XS",
               {
                 "name": "Landing Gears",
                 "data": [
