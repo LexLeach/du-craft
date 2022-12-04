@@ -558,7 +558,8 @@
               "Shield Generator M",
               "Shield Generator L",
               "Advanced Shield Generator XS",
-              "Advanced Shield Generator S"
+              "Advanced Shield Generator S",
+              "Advanced Shield Generator M"
             ]
           },
           "Transponder XS",
@@ -1335,6 +1336,8 @@
                   "Advanced Optimised Container XS",
                   "Advanced Gravity-Inverted Container S",
                   "Advanced Optimised Container S",
+                  "Advanced Gravity-Inverted Container M",
+                  "Advanced Optimised Container M",
                   "Expanded Uncommon Gravity-Inverted Container XXL",
                   "Expanded Uncommon Optimised Container XXL"
                 ]
@@ -1695,7 +1698,10 @@
                           "Basic Hover Engine M",
                           "Uncommon Freight Hover Engine M",
                           "Uncommon Maneuver Hover Engine M",
-                          "Uncommon Military Hover Engine M"
+                          "Uncommon Military Hover Engine M",
+                          "Advanced Freight Hover Engine M",
+                          "Advanced Maneuver Hover Engine M",
+                          "Advanced Military Hover Engine M"
                         ]
                       },
                       {
@@ -1752,7 +1758,10 @@
                           "Basic Vertical Booster M",
                           "Uncommon Freight Vertical Booster M",
                           "Uncommon Maneuver Vertical Booster M",
-                          "Uncommon Military Vertical Booster M"
+                          "Uncommon Military Vertical Booster M",
+                          "Advanced Freight Vertical Booster M",
+                          "Advanced Maneuver Vertical Booster M",
+                          "Advanced Military Vertical Booster M"
                         ]
                       },
                       {
@@ -1891,7 +1900,7 @@
                   "Anti-Gravity Generator L"
                 ]
               },
-              "Anti-Gravity Pulsor",
+              "Anti-Gravity Pulsor M",
               "Warp Beacon XL",
               "Warp Drive L"
             ]
