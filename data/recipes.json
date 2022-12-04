@@ -4469,6 +4469,25 @@
       "Uncommon Injector": 18
     }
   },
+  "Advanced Gas Cylinder M":
+  {
+    "tier": 3,
+    "type": "Functional Part",
+    "volume": 268,
+    "outputQuantity": 1,
+    "time": 6048,
+    "byproducts": {},
+    "industry": "Metalwork Industry M",
+    "input": {
+      "Basic Screw": 8,
+      "Basic Injector": 8,
+      "Uncommon Screw": 8,
+      "Uncommon Injector": 8,
+      "Al-Li Alloy": 49,
+      "Advanced Screw": 10,
+      "Advanced Injector": 10
+    }
+  },
   "Uncommon Gas Cylinder L":
   {
     "tier": 2,
@@ -7617,6 +7636,40 @@
       "Tier 2 M Element Schematic Copy": 1
     }
   },
+  "Advanced Gravity-Inverted Container M": {
+    "tier": 3,
+    "type": "Industry & Infrastructure Element",
+    "volume": 1873,
+    "outputQuantity": 1,
+    "time": 86400,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Uncommon Screw": 216,
+      "Advanced Hydraulics": 125,
+      "Advanced Mobile Panel L": 1,
+      "Advanced Anti-Gravity Core": 64,
+      "Advanced Standard Frame L": 1,
+      "Tier 3 M Element Schematic Copy": 1
+    }
+  },
+  "Advanced Optimised Container M": {
+    "tier": 3,
+    "type": "Industry & Infrastructure Element",
+    "volume": 1873,
+    "outputQuantity": 1,
+    "time": 86400,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Uncommon Screw": 216,
+      "Advanced Hydraulics": 125,
+      "Advanced Mobile Panel L": 1,
+      "Advanced Quantum Alignment Unit": 64,
+      "Advanced Standard Frame L": 1,
+      "Tier 3 M Element Schematic Copy": 1
+    }
+  },
   "Basic Container L": {
     "tier": 1,
     "type": "Industry & Infrastructure Element",
@@ -8051,7 +8104,8 @@
       "Uncommon Pipe": 216,
       "Advanced Injector": 125,
       "Advanced Chemical Container L": 1,
-      "Advanced Casing L": 1
+      "Advanced Casing L": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Rocket Fuel Tank L": {
@@ -8307,7 +8361,8 @@
       "Uncommon Screw": 36,
       "Advanced Power System": 25,
       "Advanced Mobile Panel M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Rare Assembly Line M": {
@@ -8499,7 +8554,8 @@
       "Uncommon Pipe": 36,
       "Advanced Injector": 25,
       "Advanced Robotic Arm M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Rare 3D Printer M": {
@@ -8563,7 +8619,8 @@
       "Uncommon Pipe": 36,
       "Advanced Power System": 25,
       "Advanced Chemical Container M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Rare Chemical Industry M": {
@@ -8627,7 +8684,8 @@
       "Uncommon Pipe": 36,
       "Advanced Electronics": 25,
       "Advanced Robotic Arm M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Rare Electronics Industry M": {
@@ -8691,7 +8749,8 @@
       "Uncommon Pipe": 36,
       "Advanced Burner": 25,
       "Advanced Power Transformer M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Rare Glass Furnace M": {
@@ -8755,7 +8814,8 @@
       "Uncommon Pipe": 36,
       "Advanced Power System": 25,
       "Advanced Robotic Arm M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Rare Honeycomb Refinery M": {
@@ -8819,7 +8879,8 @@
       "Uncommon Pipe": 36,
       "Advanced Power System": 25,
       "Advanced Mobile Panel M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Rare Metalwork Industry M": {
@@ -8883,7 +8944,8 @@
       "Uncommon Pipe": 36,
       "Advanced Burner": 25,
       "Advanced Mobile Panel M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Rare Recycler M": {
@@ -8947,7 +9009,8 @@
       "Uncommon Pipe": 36,
       "Advanced Power System": 25,
       "Advanced Chemical Container M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Rare Refiner M": {
@@ -9011,7 +9074,8 @@
       "Uncommon Pipe": 36,
       "Advanced Burner": 25,
       "Advanced Chemical Container M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Rare Smelter M": {
@@ -9900,7 +9964,8 @@
       "Uncommon Screw": 36,
       "Advanced Injector": 25,
       "Advanced Combustion Chamber M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Advanced Maneuver Atmospheric Engine M": {
@@ -9915,7 +9980,8 @@
       "Uncommon Screw": 36,
       "Advanced Injector": 25,
       "Advanced Combustion Chamber M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Advanced Military Atmospheric Engine M": {
@@ -9930,7 +9996,8 @@
       "Uncommon Screw": 36,
       "Advanced Injector": 25,
       "Advanced Combustion Chamber M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Advanced Safe Atmospheric Engine M": {
@@ -9945,7 +10012,8 @@
       "Uncommon Screw": 36,
       "Advanced Injector": 25,
       "Advanced Combustion Chamber M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Rare Freight Atmospheric Engine M": {
@@ -10750,7 +10818,8 @@
       "Uncommon Screw": 36,
       "Advanced Burner": 25,
       "Advanced Ionic Chamber M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Advanced Maneuver Space Engine M": {
@@ -10765,7 +10834,8 @@
       "Uncommon Screw": 36,
       "Advanced Burner": 25,
       "Advanced Ionic Chamber M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Advanced Military Space Engine M": {
@@ -10780,7 +10850,8 @@
       "Uncommon Screw": 36,
       "Advanced Burner": 25,
       "Advanced Ionic Chamber M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Advanced Safe Space Engine M": {
@@ -10795,7 +10866,8 @@
       "Uncommon Screw": 36,
       "Advanced Burner": 25,
       "Advanced Ionic Chamber M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Rare Freight Space Engine M": {
@@ -11478,6 +11550,54 @@
       "Tier 2 M Element Schematic Copy": 1
     }
   },
+  "Advanced Freight Hover Engine M": {
+    "tier": 3,
+    "type": "Piloting Element",
+    "volume": 116.60,
+    "outputQuantity": 1,
+    "time": 16260,
+    "byproducts": {},
+    "industry": "Assembly Line M",
+    "input": {
+      "Uncommon Screw": 36,
+      "Advanced Injector": 25,
+      "Advanced Gas Cylinder M": 1,
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
+    }
+  },
+  "Advanced Maneuver Hover Engine M": {
+    "tier": 3,
+    "type": "Piloting Element",
+    "volume": 116.60,
+    "outputQuantity": 1,
+    "time": 16260,
+    "byproducts": {},
+    "industry": "Assembly Line M",
+    "input": {
+      "Uncommon Screw": 36,
+      "Advanced Injector": 25,
+      "Advanced Gas Cylinder M": 1,
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
+    }
+  },
+  "Advanced Military Hover Engine M": {
+    "tier": 3,
+    "type": "Piloting Element",
+    "volume": 116.60,
+    "outputQuantity": 1,
+    "time": 16260,
+    "byproducts": {},
+    "industry": "Assembly Line M",
+    "input": {
+      "Uncommon Screw": 36,
+      "Advanced Injector": 25,
+      "Advanced Gas Cylinder M": 1,
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
+    }
+  },
   "Basic Hover Engine L": {
     "tier": 2,
     "type": "Piloting Element",
@@ -11800,7 +11920,8 @@
       "Uncommon Screw": 6,
       "Advanced Burner": 5,
       "Advanced Combustion Chamber S": 1,
-      "Advanced Standard Frame S": 1
+      "Advanced Standard Frame S": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Rocket Engine L": {
@@ -12131,6 +12252,54 @@
       "Tier 3 S Element Schematic Copy": 1
     }
   },
+  "Advanced Freight Vertical Booster M": {
+    "tier": 3,
+    "type": "Piloting Element",
+    "volume": 105.20,
+    "outputQuantity": 1,
+    "time": 16260,
+    "byproducts": {},
+    "industry": "Assembly Line M",
+    "input": {
+      "Uncommon Pipe": 36,
+      "Advanced Injector": 25,
+      "Advanced Ionic Chamber M": 1,
+      "Advanced Standard Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
+    }
+  },
+  "Advanced Maneuver Vertical Booster M": {
+    "tier": 3,
+    "type": "Piloting Element",
+    "volume": 105.20,
+    "outputQuantity": 1,
+    "time": 16260,
+    "byproducts": {},
+    "industry": "Assembly Line M",
+    "input": {
+      "Uncommon Pipe": 36,
+      "Advanced Injector": 25,
+      "Advanced Ionic Chamber M": 1,
+      "Advanced Standard Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
+    }
+  },
+  "Advanced Military Vertical Booster M": {
+    "tier": 3,
+    "type": "Piloting Element",
+    "volume": 105.20,
+    "outputQuantity": 1,
+    "time": 16260,
+    "byproducts": {},
+    "industry": "Assembly Line M",
+    "input": {
+      "Uncommon Pipe": 36,
+      "Advanced Injector": 25,
+      "Advanced Ionic Chamber M": 1,
+      "Advanced Standard Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
+    }
+  },
   "Uncommon Freight Vertical Booster L": {
     "tier": 2,
     "type": "Piloting Element",
@@ -12352,7 +12521,8 @@
     "input": {
       "Uncommon Component": 1,
       "Advanced Power System": 1,
-      "Advanced Quantum Barrier": 1
+      "Advanced Quantum Barrier": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Force Field L": {
@@ -12542,7 +12712,8 @@
       "Uncommon Connector": 36,
       "Advanced Power System": 25,
       "Advanced Control System M": 1,
-      "Advanced Standard Frame M": 1
+      "Advanced Standard Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Gunner Module L": {
@@ -12611,7 +12782,7 @@
       "Rare Reinforced Frame XL": 4
     }
   },
-  "Anti-Gravity Pulsor": {
+  "Anti-Gravity Pulsor M": {
     "tier": 3,
     "type": "Piloting Element",
     "volume": 804.93,
@@ -13371,7 +13542,7 @@
       "Uncommon Magnet": 25,
       "Uncommon Antenna M": 1,
       "Uncommon Reinforced Frame M": 1,
-      "Tier 2 M Element Schematic Copy": 1
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Atmospheric Radar L": {
@@ -13578,7 +13749,8 @@
       "Uncommon LED": 36,
       "Advanced Magnet": 25,
       "Advanced Antenna M": 1,
-      "Advanced Standard Frame M": 1
+      "Advanced Standard Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Advanced Protected Space Radar M": {
@@ -13593,7 +13765,8 @@
       "Uncommon LED": 36,
       "Advanced Magnet": 25,
       "Advanced Antenna M": 1,
-      "Advanced Standard Frame M": 1
+      "Advanced Standard Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Advanced Quick-Wired Space Radar M": {
@@ -13608,7 +13781,8 @@
       "Uncommon LED": 36,
       "Advanced Magnet": 25,
       "Advanced Antenna M": 1,
-      "Advanced Standard Frame M": 1
+      "Advanced Standard Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Rare Phased-Array Space Radar M": {
@@ -13859,22 +14033,6 @@
       "Exotic Standard Frame L": 1
     }
   },
-  "Shield Generator XS": {
-    "tier": 3,
-    "type": "Combat Element",
-    "volume": 210,
-    "outputQuantity": 1,
-    "time": 5400,
-    "byproducts": {},
-    "industry": "Assembly Line S",
-    "input": {
-      "Uncommon Component": 6,
-      "Advanced Magnet": 5,
-      "Advanced Laser Chamber S": 1,
-      "Advanced Quantum Barrier": 4,
-      "Advanced Reinforced Frame S": 1
-    }
-  },
   "Advanced Shield Generator XS": {
     "tier": 3,
     "type": "Combat Element",
@@ -13890,22 +14048,6 @@
       "Advanced Quantum Barrier": 1,
       "Advanced Reinforced Frame XS": 1,
       "Tier 3 XS Element Schematic Copy": 1
-    }
-  },
-  "Shield Generator S": {
-    "tier": 3,
-    "type": "Combat Element",
-    "volume": 950,
-    "outputQuantity": 1,
-    "time": 21600,
-    "byproducts": {},
-    "industry": "Assembly Line M",
-    "input": {
-      "Uncommon Component": 36,
-      "Advanced Magnet": 25,
-      "Advanced Laser Chamber M": 1,
-      "Advanced Quantum Barrier": 16,
-      "Advanced Reinforced Frame M": 1
     }
   },
   "Advanced Shield Generator S": {
@@ -13925,20 +14067,21 @@
       "Tier 3 S Element Schematic Copy": 1
     }
   },
-  "Shield Generator M": {
+  "Advanced Shield Generator M": {
     "tier": 3,
     "type": "Combat Element",
     "volume": 4500,
     "outputQuantity": 1,
-    "time": 86400,
+    "time": 21600,
     "byproducts": {},
-    "industry": "Assembly Line L",
+    "industry": "Assembly Line M",
     "input": {
-      "Uncommon Component": 216,
-      "Advanced Magnet": 125,
-      "Advanced Laser Chamber L": 1,
-      "Advanced Quantum Barrier": 64,
-      "Advanced Reinforced Frame L": 1
+      "Uncommon Component": 36,
+      "Advanced Magnet": 25,
+      "Advanced Laser Chamber M": 1,
+      "Advanced Quantum Barrier": 16,
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Shield Generator L": {
@@ -14639,7 +14782,8 @@
     "industry": "Assembly Line XS",
     "input": {
       "Uncommon Component": 1,
-      "Advanced Electronics": 1
+      "Advanced Electronics": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Detection Zone L": {
@@ -17796,7 +17940,8 @@
       "Uncommon Screw": 36,
       "Advanced Electronics": 25,
       "Advanced Firing System M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Advanced Defense Cannon M": {
@@ -17811,7 +17956,8 @@
       "Uncommon Screw": 36,
       "Advanced Electronics": 25,
       "Advanced Firing System M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Advanced Heavy Cannon M": {
@@ -17826,7 +17972,8 @@
       "Uncommon Screw": 36,
       "Advanced Electronics": 25,
       "Advanced Firing System M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Advanced Precision Cannon M": {
@@ -17841,7 +17988,8 @@
       "Uncommon Screw": 36,
       "Advanced Electronics": 25,
       "Advanced Firing System M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Rare Agile Cannon M": {
@@ -18604,7 +18752,8 @@
       "Uncommon Connector": 36,
       "Advanced Power System": 25,
       "Advanced Laser Chamber M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Advanced Defense Laser M": {
@@ -18619,7 +18768,8 @@
       "Uncommon Connector": 36,
       "Advanced Power System": 25,
       "Advanced Laser Chamber M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Advanced Heavy Laser M": {
@@ -18634,7 +18784,8 @@
       "Uncommon Connector": 36,
       "Advanced Power System": 25,
       "Advanced Laser Chamber M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Advanced Precision Laser M": {
@@ -18649,7 +18800,8 @@
       "Uncommon Connector": 36,
       "Advanced Power System": 25,
       "Advanced Laser Chamber M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Rare Agile Laser M": {
@@ -19412,7 +19564,8 @@
       "Uncommon Screw": 36,
       "Advanced Hydraulics": 25,
       "Advanced Missile Silo M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Advanced Defense Missile M": {
@@ -19427,7 +19580,8 @@
       "Uncommon Screw": 36,
       "Advanced Hydraulics": 25,
       "Advanced Missile Silo M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Advanced Heavy Missile M": {
@@ -19442,7 +19596,8 @@
       "Uncommon Screw": 36,
       "Advanced Hydraulics": 25,
       "Advanced Missile Silo M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Advanced Precision Missile M": {
@@ -19457,7 +19612,8 @@
       "Uncommon Screw": 36,
       "Advanced Hydraulics": 25,
       "Advanced Missile Silo M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Rare Agile Missile M": {
@@ -20220,7 +20376,8 @@
       "Uncommon Connector": 36,
       "Advanced Optics": 25,
       "Advanced Magnetic Rail M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Advanced Defense Railgun M": {
@@ -20235,7 +20392,8 @@
       "Uncommon Connector": 36,
       "Advanced Optics": 25,
       "Advanced Magnetic Rail M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Advanced Heavy Railgun M": {
@@ -20250,7 +20408,8 @@
       "Uncommon Connector": 36,
       "Advanced Optics": 25,
       "Advanced Magnetic Rail M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Advanced Precision Railgun M": {
@@ -20265,7 +20424,8 @@
       "Uncommon Connector": 36,
       "Advanced Optics": 25,
       "Advanced Magnetic Rail M": 1,
-      "Advanced Reinforced Frame M": 1
+      "Advanced Reinforced Frame M": 1,
+      "Tier 3 M Element Schematic Copy": 1
     }
   },
   "Rare Agile Railgun M": {
@@ -23154,7 +23314,8 @@
       "Advanced Magnet": 125,
       "Advanced Ionic Chamber L": 1,
       "Advanced Antimatter Core": 64,
-      "Advanced Reinforced Frame L": 1
+      "Advanced Reinforced Frame L": 1,
+      "Tier 3 L Element Schematic Copy": 1
     }
   },
   "Warp Beacon XL": {
