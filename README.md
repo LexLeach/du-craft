@@ -26,6 +26,7 @@ Currently in progress of syncing to game version 1.1.2
 - [x] Tier 3 S Element Schematic
 - [x] Tier 3 M Element Schematic
 - [x] Tier 3 L Element Schematic
+- [x] Tier 3 XL Element Schematic
 
 - [x] Core Unit XS Schematic
 - [x] Core Unit S Schematic
