@@ -13561,6 +13561,7 @@
     "time": 30,
     "byproducts": {},
     "industry": "Assembly Line XS",
+    "nanopack": true,
     "input": {
       "Basic Connector": 1,
       "Basic Power System": 1,
