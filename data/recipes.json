@@ -7158,7 +7158,8 @@
       "Basic Component": 1,
       "Basic Power System": 1,
       "Basic Core System XS": 1,
-      "Basic Standard Frame XS": 1
+      "Basic Standard Frame XS": 1,
+      "Core Unit XS Schematic Copy": 1
     }
   },
   "Dynamic Core Unit S": {
@@ -7174,7 +7175,8 @@
       "Uncommon Component": 3,
       "Uncommon Power System": 5,
       "Uncommon Core System S": 1,
-      "Uncommon Standard Frame S": 1
+      "Uncommon Standard Frame S": 1,
+      "Core Unit S Schematic Copy": 1
     }
   },
   "Dynamic Core Unit M": {
@@ -7189,7 +7191,8 @@
       "Uncommon Component": 36,
       "Advanced Power System": 25,
       "Advanced Core System M": 1,
-      "Advanced Standard Frame M": 1
+      "Advanced Standard Frame M": 1,
+      "Core Unit M Schematic Copy": 1
     }
   },
   "Dynamic Core Unit L": {
@@ -7205,7 +7208,8 @@
       "Advanced Component": 108,
       "Rare Power System": 125,
       "Rare Core System L": 1,
-      "Rare Standard Frame L": 1
+      "Rare Standard Frame L": 1,
+      "Core Unit L Schematic Copy": 1
     }
   },
   "Static Core Unit XS": {
@@ -7221,7 +7225,8 @@
       "Basic Component": 1,
       "Basic Power System": 1,
       "Basic Core System XS": 1,
-      "Basic Standard Frame XS": 1
+      "Basic Standard Frame XS": 1,
+      "Core Unit XS Schematic Copy": 1
     }
   },
   "Static Core Unit S": {
@@ -7237,7 +7242,8 @@
       "Basic Component": 6,
       "Basic Power System": 5,
       "Basic Core System S": 1,
-      "Basic Standard Frame S": 1
+      "Basic Standard Frame S": 1,
+      "Core Unit S Schematic Copy": 1
     }
   },
   "Static Core Unit M": {
@@ -7253,7 +7259,8 @@
       "Uncommon Component": 18,
       "Uncommon Power System": 25,
       "Uncommon Core System M": 1,
-      "Uncommon Standard Frame M": 1
+      "Uncommon Standard Frame M": 1,
+      "Core Unit M Schematic Copy": 1
     }
   },
   "Static Core Unit L": {
@@ -7269,7 +7276,8 @@
       "Uncommon Component": 108,
       "Uncommon Power System": 125,
       "Uncommon Core System L": 1,
-      "Uncommon Standard Frame L": 1
+      "Uncommon Standard Frame L": 1,
+      "Core Unit L Schematic Copy": 1
     }
   },
   "Space Core Unit XS": {
@@ -7285,7 +7293,8 @@
       "Basic Component": 1,
       "Basic Power System": 1,
       "Basic Core System XS": 1,
-      "Basic Standard Frame XS": 1
+      "Basic Standard Frame XS": 1,
+      "Core Unit XS Schematic Copy": 1
     }
   },
   "Space Core Unit S": {
@@ -7301,7 +7310,8 @@
       "Uncommon Component": 3,
       "Uncommon Power System": 5,
       "Uncommon Core System S": 1,
-      "Uncommon Standard Frame S": 1
+      "Uncommon Standard Frame S": 1,
+      "Core Unit S Schematic Copy": 1
     }
   },
   "Space Core Unit M": {
@@ -7317,7 +7327,8 @@
       "Advanced Power System": 25,
       "Advanced Core System M": 1,
       "Advanced Anti-Gravity Core": 16,
-      "Advanced Standard Frame M": 1
+      "Advanced Standard Frame M": 1,
+      "Core Unit M Schematic Copy": 1
     }
   },
   "Space Core Unit L": {
@@ -7334,10 +7345,11 @@
       "Rare Power System": 125,
       "Rare Core System L": 1,
       "Rare Anti-Gravity Core": 64,
-      "Rare Standard Frame L": 1
+      "Rare Standard Frame L": 1,
+      "Core Unit L Schematic Copy": 1
     }
   },
-  "Territory Unit": {
+  "Territory Unit M": {
     "tier": 5,
     "type": "Planet Element",
     "volume": 4118.29,
@@ -7350,7 +7362,8 @@
       "Uncommon Fixation": 18,
       "Uncommon Processor": 25,
       "Uncommon Power Transformer M": 1,
-      "Uncommon Standard Frame M": 1
+      "Uncommon Standard Frame M": 1,
+      "Territory Unit Schematic Copy": 1
     }
   },
   "Container Hub XS": {
@@ -8996,7 +9009,8 @@
       "Basic Screw": 1,
       "Basic Burner": 1,
       "Basic Ionic Chamber XS": 1,
-      "Basic Standard Frame XS": 1
+      "Basic Standard Frame XS": 1,
+      "Construct Support S Schematic Copy": 1
     }
   },
   "Retro-Rocket Brake M": {
@@ -9012,7 +9026,8 @@
       "Basic Screw": 6,
       "Basic Burner": 5,
       "Basic Ionic Chamber S": 1,
-      "Basic Standard Frame S": 1
+      "Basic Standard Frame S": 1,
+      "Construct Support M Schematic Copy": 1
     }
   },
   "Retro-Rocket Brake L": {
@@ -9027,7 +9042,8 @@
       "Basic Screw": 36,
       "Basic Burner": 25,
       "Basic Ionic Chamber M": 1,
-      "Basic Standard Frame M": 1
+      "Basic Standard Frame M": 1,
+      "Construct Support L Schematic Copy": 1
     }
   },
   "Atmospheric Airbrake S": {
@@ -9043,7 +9059,8 @@
       "Basic Pipe": 1,
       "Basic Hydraulics": 1,
       "Basic Mobile Panel XS": 1,
-      "Basic Standard Frame XS": 1
+      "Basic Standard Frame XS": 1,
+      "Construct Support S Schematic Copy": 1
     }
   },
   "Atmospheric Airbrake M": {
@@ -9059,7 +9076,8 @@
       "Basic Pipe": 6,
       "Basic Hydraulics": 5,
       "Basic Mobile Panel S": 1,
-      "Basic Standard Frame S": 1
+      "Basic Standard Frame S": 1,
+      "Construct Support M Schematic Copy": 1
     }
   },
   "Atmospheric Airbrake L": {
@@ -9074,7 +9092,8 @@
       "Basic Pipe": 36,
       "Basic Hydraulics": 25,
       "Basic Mobile Panel M": 1,
-      "Basic Standard Frame M": 1
+      "Basic Standard Frame M": 1,
+      "Construct Support L Schematic Copy": 1
     }
   },
   "Compact Aileron XS": {
@@ -9090,7 +9109,8 @@
       "Basic Screw": 1,
       "Basic Hydraulics": 1,
       "Basic Mobile Panel XS": 1,
-      "Basic Standard Frame XS": 1
+      "Basic Standard Frame XS": 1,
+      "Construct Support XS Schematic Copy": 1
     }
   },
   "Compact Aileron S": {
@@ -9106,7 +9126,8 @@
       "Basic Screw": 6,
       "Basic Hydraulics": 5,
       "Basic Mobile Panel S": 1,
-      "Basic Standard Frame S": 1
+      "Basic Standard Frame S": 1,
+      "Construct Support S Schematic Copy": 1
     }
   },
   "Compact Aileron M": {
@@ -9121,7 +9142,8 @@
       "Basic Screw": 36,
       "Basic Hydraulics": 25,
       "Basic Mobile Panel M": 1,
-      "Basic Standard Frame M": 1
+      "Basic Standard Frame M": 1,
+      "Construct Support M Schematic Copy": 1
     }
   },
   "Aileron XS": {
@@ -9137,7 +9159,8 @@
       "Basic Screw": 2,
       "Basic Hydraulics": 2,
       "Basic Mobile Panel XS": 2,
-      "Basic Standard Frame XS": 2
+      "Basic Standard Frame XS": 2,
+      "Construct Support XS Schematic Copy": 1
     }
   },
   "Aileron S": {
@@ -9153,7 +9176,8 @@
       "Basic Screw": 12,
       "Basic Hydraulics": 10,
       "Basic Mobile Panel S": 2,
-      "Basic Standard Frame S": 2
+      "Basic Standard Frame S": 2,
+      "Construct Support S Schematic Copy": 1
     }
   },
   "Aileron M": {
@@ -9168,7 +9192,8 @@
       "Basic Screw": 72,
       "Basic Hydraulics": 50,
       "Basic Mobile Panel M": 2,
-      "Basic Standard Frame M": 2
+      "Basic Standard Frame M": 2,
+      "Construct Support M Schematic Copy": 1
     }
   },
   "Stabilizer XS": {
@@ -9184,7 +9209,8 @@
       "Basic Screw": 1,
       "Basic Hydraulics": 1,
       "Basic Mobile Panel XS": 1,
-      "Basic Reinforced Frame XS": 1
+      "Basic Reinforced Frame XS": 1,
+      "Construct Support XS Schematic Copy": 1
     }
   },
   "Stabilizer S": {
@@ -9200,7 +9226,8 @@
       "Basic Screw": 6,
       "Basic Hydraulics": 5,
       "Basic Mobile Panel S": 1,
-      "Basic Reinforced Frame S": 1
+      "Basic Reinforced Frame S": 1,
+      "Construct Support S Schematic Copy": 1
     }
   },
   "Stabilizer M": {
@@ -9215,7 +9242,8 @@
       "Basic Screw": 36,
       "Basic Hydraulics": 25,
       "Basic Mobile Panel M": 1,
-      "Basic Reinforced Frame M": 1
+      "Basic Reinforced Frame M": 1,
+      "Construct Support M Schematic Copy": 1
     }
   },
   "Stabilizer L": {
@@ -9230,7 +9258,8 @@
       "Basic Screw": 216,
       "Basic Hydraulics": 125,
       "Basic Mobile Panel L": 1,
-      "Basic Reinforced Frame L": 1
+      "Basic Reinforced Frame L": 1,
+      "Construct Support L Schematic Copy": 1
     }
   },
   "Wing XS": {
@@ -9246,7 +9275,8 @@
       "Basic Screw": 1,
       "Basic Hydraulics": 1,
       "Basic Mobile Panel XS": 1,
-      "Basic Standard Frame XS": 1
+      "Basic Standard Frame XS": 1,
+      "Construct Support XS Schematic Copy": 1
     }
   },
   "Wing S": {
@@ -9262,7 +9292,8 @@
       "Basic Screw": 6,
       "Basic Hydraulics": 5,
       "Basic Mobile Panel S": 1,
-      "Basic Standard Frame S": 1
+      "Basic Standard Frame S": 1,
+      "Construct Support S Schematic Copy": 1
     }
   },
   "Wing M": {
@@ -9277,7 +9308,8 @@
       "Basic Screw": 36,
       "Basic Hydraulics": 25,
       "Basic Mobile Panel M": 1,
-      "Basic Standard Frame M": 1
+      "Basic Standard Frame M": 1,
+      "Construct Support M Schematic Copy": 1
     }
   },
   "Wing Variant M": {
@@ -9292,7 +9324,8 @@
       "Basic Screw": 36,
       "Basic Hydraulics": 35,
       "Basic Mobile Panel M": 1,
-      "Basic Standard Frame M": 1
+      "Basic Standard Frame M": 1,
+      "Construct Support M Schematic Copy": 1
     }
   },
   "Basic Atmospheric Engine XS": {
@@ -11579,7 +11612,8 @@
     "industry": "Assembly Line XS",
     "input": {
       "Basic Pipe": 1,
-      "Basic Injector": 1
+      "Basic Injector": 1,
+      "Construct Support XS Schematic Copy": 1
     }
   },
   "Adjustor S": {
@@ -11595,7 +11629,8 @@
       "Basic Pipe": 1,
       "Basic Injector": 1,
       "Basic Gas Cylinder XS": 1,
-      "Basic Standard Frame XS": 1
+      "Basic Standard Frame XS": 1,
+      "Construct Support S Schematic Copy": 1
     }
   },
   "Adjustor M": {
@@ -11611,7 +11646,8 @@
       "Basic Pipe": 6,
       "Basic Injector": 5,
       "Basic Gas Cylinder S": 1,
-      "Basic Standard Frame S": 1
+      "Basic Standard Frame S": 1,
+      "Construct Support M Schematic Copy": 1
     }
   },
   "Adjustor L": {
@@ -11626,7 +11662,8 @@
       "Basic Pipe": 36,
       "Basic Injector": 25,
       "Basic Gas Cylinder M": 1,
-      "Basic Standard Frame M": 1
+      "Basic Standard Frame M": 1,
+      "Construct Support L Schematic Copy": 1
     }
   },
   "Rocket Engine S": {
@@ -15790,7 +15827,7 @@
       "Basic Casing XS": 1
     }
   },
-  "Bonsai": {
+  "Bonsai XS": {
     "tier": 5,
     "type": "Furniture & Appliances Element",
     "volume": 180.6,
@@ -15804,7 +15841,8 @@
       "Exotic Magnet": 5,
       "Exotic Core System S": 1,
       "Exotic Anti-Gravity Core": 4,
-      "Exotic Casing S": 1
+      "Exotic Casing S": 1,
+      "Bonsai Schematic Copy": 1
     }
   },
   "Eggplant Plant Case": {
@@ -22942,7 +22980,8 @@
       "Exotic Power System": 625,
       "Exotic Antenna XL": 1,
       "Exotic Quantum Alignment Unit": 256,
-      "Exotic Reinforced Frame XL": 1
+      "Exotic Reinforced Frame XL": 1,
+      "Warp Beacon Schematic Copy": 1
     }
   },
   "Hatch S": {
