@@ -562,7 +562,10 @@
               "Rare Variable Shield Generator XS",
               "Rare Active Shield Generator S",
               "Rare Capacitor Shield Generator S",
-              "Rare Variable Shield Generator S"
+              "Rare Variable Shield Generator S",
+              "Rare Active Shield Generator M",
+              "Rare Capacitor Shield Generator M",
+              "Rare Variable Shield Generator M"
             ]
           },
           "Transponder XS",
@@ -881,7 +884,8 @@
                 "name": "Stasis Weapons",
                 "data": [
                   "Stasis Weapon XS",
-                  "Stasis Weapon S"
+                  "Stasis Weapon S",
+                  "Stasis Weapon M"
                 ]
               }
             ]
@@ -1356,6 +1360,8 @@
                   "Rare Optimised Container XS",
                   "Rare Gravity-Inverted Container S",
                   "Rare Optimised Container S",
+                  "Rare Gravity-Inverted Container M",
+                  "Rare Optimised Container M",
                   "Expanded Uncommon Gravity-Inverted Container XXL",
                   "Expanded Uncommon Optimised Container XXL",
                   "Expanded Advanced Gravity-Inverted Container XXL",
@@ -1724,7 +1730,10 @@
                           "Uncommon Military Hover Engine M",
                           "Advanced Freight Hover Engine M",
                           "Advanced Maneuver Hover Engine M",
-                          "Advanced Military Hover Engine M"
+                          "Advanced Military Hover Engine M",
+                          "Rare Freight Hover Engine M",
+                          "Rare Maneuver Hover Engine M",
+                          "Rare Military Hover Engine M"
                         ]
                       },
                       {
@@ -1790,7 +1799,10 @@
                           "Uncommon Military Vertical Booster M",
                           "Advanced Freight Vertical Booster M",
                           "Advanced Maneuver Vertical Booster M",
-                          "Advanced Military Vertical Booster M"
+                          "Advanced Military Vertical Booster M",
+                          "Rare Freight Vertical Booster M",
+                          "Rare Maneuver Vertical Booster M",
+                          "Rare Military Vertical Booster M"
                         ]
                       },
                       {
