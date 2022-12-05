@@ -7518,6 +7518,42 @@
       "Tier 3 XS Element Schematic Copy": 1
     }
   },
+  "Rare Gravity-Inverted Container XS": {
+    "tier": 4,
+    "type": "Industry & Infrastructure Element",
+    "volume": 64,
+    "outputQuantity": 1,
+    "time": 16200,
+    "byproducts": {},
+    "industry": "Assembly Line S",
+    "input": {
+      "Uncommon Screw": 3,
+      "Advanced Screw": 3,
+      "Rare Hydraulics": 5,
+      "Rare Mobile Panel S": 1,
+      "Rare Anti-Gravity Core": 4,
+      "Rare Standard Frame S": 1,
+      "Tier 4 XS Element Schematic Copy": 1
+    }
+  },
+  "Rare Optimised Container XS": {
+    "tier": 4,
+    "type": "Industry & Infrastructure Element",
+    "volume": 64,
+    "outputQuantity": 1,
+    "time": 16200,
+    "byproducts": {},
+    "industry": "Assembly Line S",
+    "input": {
+      "Uncommon Screw": 3,
+      "Advanced Screw": 3,
+      "Rare Hydraulics": 5,
+      "Rare Mobile Panel S": 1,
+      "Rare Quantum Alignment Unit": 4,
+      "Rare Standard Frame S": 1,
+      "Tier 4 XS Element Schematic Copy": 1
+    }
+  },
   "Basic Container S": {
     "tier": 1,
     "type": "Industry & Infrastructure Element",
@@ -8364,7 +8400,8 @@
       "Advanced Screw": 1,
       "Rare Power System": 1,
       "Rare Mobile Panel XS": 1,
-      "Rare Reinforced Frame XS": 1
+      "Rare Reinforced Frame XS": 1,
+      "Tier 4 XS Element Schematic Copy": 1
     }
   },
   "Basic Assembly Line S": {
@@ -9723,7 +9760,8 @@
       "Advanced Screw": 1,
       "Rare Injector": 1,
       "Rare Combustion Chamber XS": 1,
-      "Rare Reinforced Frame XS": 1
+      "Rare Reinforced Frame XS": 1,
+      "Tier 4 XS Element Schematic Copy": 1
     }
   },
   "Rare Maneuver Atmospheric Engine XS": {
@@ -9739,7 +9777,8 @@
       "Advanced Screw": 1,
       "Rare Injector": 1,
       "Rare Combustion Chamber XS": 1,
-      "Rare Reinforced Frame XS": 1
+      "Rare Reinforced Frame XS": 1,
+      "Tier 4 XS Element Schematic Copy": 1
     }
   },
   "Rare Military Atmospheric Engine XS": {
@@ -9755,7 +9794,8 @@
       "Advanced Screw": 1,
       "Rare Injector": 1,
       "Rare Combustion Chamber XS": 1,
-      "Rare Reinforced Frame XS": 1
+      "Rare Reinforced Frame XS": 1,
+      "Tier 4 XS Element Schematic Copy": 1
     }
   },
   "Rare Safe Atmospheric Engine XS": {
@@ -9771,7 +9811,8 @@
       "Advanced Screw": 1,
       "Rare Injector": 1,
       "Rare Combustion Chamber XS": 1,
-      "Rare Reinforced Frame XS": 1
+      "Rare Reinforced Frame XS": 1,
+      "Tier 4 XS Element Schematic Copy": 1
     }
   },
   "Basic Atmospheric Engine S": {
@@ -10577,7 +10618,8 @@
       "Advanced Screw": 1,
       "Rare Burner": 1,
       "Rare Ionic Chamber XS": 1,
-      "Rare Reinforced Frame XS": 1
+      "Rare Reinforced Frame XS": 1,
+      "Tier 4 XS Element Schematic Copy": 1
     }
   },
   "Rare Maneuver Space Engine XS": {
@@ -10593,7 +10635,8 @@
       "Advanced Screw": 1,
       "Rare Burner": 1,
       "Rare Ionic Chamber XS": 1,
-      "Rare Reinforced Frame XS": 1
+      "Rare Reinforced Frame XS": 1,
+      "Tier 4 XS Element Schematic Copy": 1
     }
   },
   "Rare Military Space Engine XS": {
@@ -10609,7 +10652,8 @@
       "Advanced Screw": 1,
       "Rare Burner": 1,
       "Rare Ionic Chamber XS": 1,
-      "Rare Reinforced Frame XS": 1
+      "Rare Reinforced Frame XS": 1,
+      "Tier 4 XS Element Schematic Copy": 1
     }
   },
   "Rare Safe Space Engine XS": {
@@ -10625,7 +10669,8 @@
       "Advanced Screw": 1,
       "Rare Burner": 1,
       "Rare Ionic Chamber XS": 1,
-      "Rare Reinforced Frame XS": 1
+      "Rare Reinforced Frame XS": 1,
+      "Tier 4 XS Element Schematic Copy": 1
     }
   },
   "Basic Space Engine S": {
@@ -12270,6 +12315,57 @@
       "Advanced Ionic Chamber XS": 1,
       "Advanced Standard Frame XS": 1,
       "Tier 3 XS Element Schematic Copy": 1
+    }
+  },
+  "Rare Freight Vertical Booster XS": {
+    "tier": 4,
+    "type": "Piloting Element",
+    "volume": 11,
+    "outputQuantity": 1,
+    "time": 3240,
+    "byproducts": {},
+    "industry": "Assembly Line XS",
+    "input": {
+      "Uncommon Pipe": 1,
+      "Advanced Pipe": 1,
+      "Rare Injector": 1,
+      "Rare Ionic Chamber XS": 1,
+      "Rare Standard Frame XS": 1,
+      "Tier 4 XS Element Schematic Copy": 1
+    }
+  },
+  "Rare Maneuver Vertical Booster XS": {
+    "tier": 4,
+    "type": "Piloting Element",
+    "volume": 11,
+    "outputQuantity": 1,
+    "time": 3240,
+    "byproducts": {},
+    "industry": "Assembly Line XS",
+    "input": {
+      "Uncommon Pipe": 1,
+      "Advanced Pipe": 1,
+      "Rare Injector": 1,
+      "Rare Ionic Chamber XS": 1,
+      "Rare Standard Frame XS": 1,
+      "Tier 4 XS Element Schematic Copy": 1
+    }
+  },
+  "Rare Military Vertical Booster XS": {
+    "tier": 4,
+    "type": "Piloting Element",
+    "volume": 11,
+    "outputQuantity": 1,
+    "time": 3240,
+    "byproducts": {},
+    "industry": "Assembly Line XS",
+    "input": {
+      "Uncommon Pipe": 1,
+      "Advanced Pipe": 1,
+      "Rare Injector": 1,
+      "Rare Ionic Chamber XS": 1,
+      "Rare Standard Frame XS": 1,
+      "Tier 4 XS Element Schematic Copy": 1
     }
   },
   "Uncommon Freight Vertical Booster S": {
@@ -14176,6 +14272,60 @@
       "Advanced Quantum Barrier": 1,
       "Advanced Reinforced Frame XS": 1,
       "Tier 3 XS Element Schematic Copy": 1
+    }
+  },
+  "Rare Active Shield Generator XS": {
+    "tier": 4,
+    "type": "Combat Element",
+    "volume": 168,
+    "outputQuantity": 1,
+    "time": 4050,
+    "byproducts": {},
+    "industry": "Assembly Line XS",
+    "input": {
+      "Uncommon Component": 1,
+      "Advanced Component": 1,
+      "Rare Magnet": 1,
+      "Rare Laser Chamber XS": 1,
+      "Rare Quantum Barrier": 1,
+      "Rare Reinforced Frame XS": 1,
+      "Tier 4 XS Element Schematic Copy": 1
+    }
+  },
+  "Rare Capacitor Shield Generator XS": {
+    "tier": 4,
+    "type": "Combat Element",
+    "volume": 210,
+    "outputQuantity": 1,
+    "time": 4050,
+    "byproducts": {},
+    "industry": "Assembly Line XS",
+    "input": {
+      "Uncommon Component": 1,
+      "Advanced Component": 1,
+      "Rare Magnet": 1,
+      "Rare Laser Chamber XS": 1,
+      "Rare Quantum Barrier": 1,
+      "Rare Reinforced Frame XS": 1,
+      "Tier 4 XS Element Schematic Copy": 1
+    }
+  },
+  "Rare Variable Shield Generator XS": {
+    "tier": 4,
+    "type": "Combat Element",
+    "volume": 210,
+    "outputQuantity": 1,
+    "time": 4050,
+    "byproducts": {},
+    "industry": "Assembly Line XS",
+    "input": {
+      "Uncommon Component": 1,
+      "Advanced Component": 1,
+      "Rare Magnet": 1,
+      "Rare Laser Chamber XS": 1,
+      "Rare Quantum Barrier": 1,
+      "Rare Reinforced Frame XS": 1,
+      "Tier 4 XS Element Schematic Copy": 1
     }
   },
   "Advanced Shield Generator S": {
@@ -17728,7 +17878,8 @@
       "Advanced Screw": 1,
       "Rare Electronics": 1,
       "Rare Firing System XS": 1,
-      "Rare Reinforced Frame XS": 1
+      "Rare Reinforced Frame XS": 1,
+      "Tier 4 XS Element Schematic Copy": 1
     }
   },
   "Rare Defense Cannon XS": {
@@ -17744,7 +17895,8 @@
       "Advanced Screw": 1,
       "Rare Electronics": 1,
       "Rare Firing System XS": 1,
-      "Rare Reinforced Frame XS": 1
+      "Rare Reinforced Frame XS": 1,
+      "Tier 4 XS Element Schematic Copy": 1
     }
   },
   "Rare Heavy Cannon XS": {
@@ -17760,7 +17912,8 @@
       "Advanced Screw": 1,
       "Rare Electronics": 1,
       "Rare Firing System XS": 1,
-      "Rare Reinforced Frame XS": 1
+      "Rare Reinforced Frame XS": 1,
+      "Tier 4 XS Element Schematic Copy": 1
     }
   },
   "Rare Precision Cannon XS": {
@@ -17776,7 +17929,8 @@
       "Advanced Screw": 1,
       "Rare Electronics": 1,
       "Rare Firing System XS": 1,
-      "Rare Reinforced Frame XS": 1
+      "Rare Reinforced Frame XS": 1,
+      "Tier 4 XS Element Schematic Copy": 1
     }
   },
   "Exotic Agile Cannon XS": {
@@ -18544,7 +18698,8 @@
       "Advanced Connector": 1,
       "Rare Power System": 1,
       "Rare Laser Chamber XS": 1,
-      "Rare Reinforced Frame XS": 1
+      "Rare Reinforced Frame XS": 1,
+      "Tier 4 XS Element Schematic Copy": 1
     }
   },
   "Rare Defense Laser XS": {
@@ -18560,7 +18715,8 @@
       "Advanced Connector": 1,
       "Rare Power System": 1,
       "Rare Laser Chamber XS": 1,
-      "Rare Reinforced Frame XS": 1
+      "Rare Reinforced Frame XS": 1,
+      "Tier 4 XS Element Schematic Copy": 1
     }
   },
   "Rare Heavy Laser XS": {
@@ -18576,7 +18732,8 @@
       "Advanced Connector": 1,
       "Rare Power System": 1,
       "Rare Laser Chamber XS": 1,
-      "Rare Reinforced Frame XS": 1
+      "Rare Reinforced Frame XS": 1,
+      "Tier 4 XS Element Schematic Copy": 1
     }
   },
   "Rare Precision Laser XS": {
@@ -18592,7 +18749,8 @@
       "Advanced Connector": 1,
       "Rare Power System": 1,
       "Rare Laser Chamber XS": 1,
-      "Rare Reinforced Frame XS": 1
+      "Rare Reinforced Frame XS": 1,
+      "Tier 4 XS Element Schematic Copy": 1
     }
   },
   "Exotic Agile Laser XS": {
@@ -19360,7 +19518,8 @@
       "Advanced Screw": 1,
       "Rare Hydraulics": 1,
       "Rare Missile Silo XS": 1,
-      "Rare Reinforced Frame XS": 1
+      "Rare Reinforced Frame XS": 1,
+      "Tier 4 XS Element Schematic Copy": 1
     }
   },
   "Rare Defense Missile XS": {
@@ -19376,7 +19535,8 @@
       "Advanced Screw": 1,
       "Rare Hydraulics": 1,
       "Rare Missile Silo XS": 1,
-      "Rare Reinforced Frame XS": 1
+      "Rare Reinforced Frame XS": 1,
+      "Tier 4 XS Element Schematic Copy": 1
     }
   },
   "Rare Heavy Missile XS": {
@@ -19392,7 +19552,8 @@
       "Advanced Screw": 1,
       "Rare Hydraulics": 1,
       "Rare Missile Silo XS": 1,
-      "Rare Reinforced Frame XS": 1
+      "Rare Reinforced Frame XS": 1,
+      "Tier 4 XS Element Schematic Copy": 1
     }
   },
   "Rare Precision Missile XS": {
@@ -19408,7 +19569,8 @@
       "Advanced Screw": 1,
       "Rare Hydraulics": 1,
       "Rare Missile Silo XS": 1,
-      "Rare Reinforced Frame XS": 1
+      "Rare Reinforced Frame XS": 1,
+      "Tier 4 XS Element Schematic Copy": 1
     }
   },
   "Exotic Agile Missile XS": {
@@ -20176,7 +20338,8 @@
       "Advanced Connector": 1,
       "Rare Optics": 1,
       "Rare Magnetic Rail XS": 1,
-      "Rare Reinforced Frame XS": 1
+      "Rare Reinforced Frame XS": 1,
+      "Tier 4 XS Element Schematic Copy": 1
     }
   },
   "Rare Defense Railgun XS": {
@@ -20192,7 +20355,8 @@
       "Advanced Connector": 1,
       "Rare Optics": 1,
       "Rare Magnetic Rail XS": 1,
-      "Rare Reinforced Frame XS": 1
+      "Rare Reinforced Frame XS": 1,
+      "Tier 4 XS Element Schematic Copy": 1
     }
   },
   "Rare Heavy Railgun XS": {
@@ -20208,7 +20372,8 @@
       "Advanced Connector": 1,
       "Rare Optics": 1,
       "Rare Magnetic Rail XS": 1,
-      "Rare Reinforced Frame XS": 1
+      "Rare Reinforced Frame XS": 1,
+      "Tier 4 XS Element Schematic Copy": 1
     }
   },
   "Rare Precision Railgun XS": {
@@ -20224,7 +20389,8 @@
       "Advanced Connector": 1,
       "Rare Optics": 1,
       "Rare Magnetic Rail XS": 1,
-      "Rare Reinforced Frame XS": 1
+      "Rare Reinforced Frame XS": 1,
+      "Tier 4 XS Element Schematic Copy": 1
     }
   },
   "Exotic Agile Railgun XS": {
@@ -20897,6 +21063,23 @@
       "Exotic Optics": 125,
       "Exotic Magnetic Rail L": 1,
       "Exotic Reinforced Frame L": 1
+    }
+  },
+  "Statis Weapon XS": {
+    "tier": 4,
+    "type": "Combat Element",
+    "volume": 40,
+    "outputQuantity": 1,
+    "time": 4050,
+    "byproducts": {},
+    "industry": "Assembly Line XS",
+    "input": {
+      "Uncommon LED": 1,
+      "Advanced LED": 1,
+      "Rare Optics": 1,
+      "Rare Magnetic Rail XS": 1,
+      "Rare Reinforced Frame XS": 1,
+      "Tier 4 XS Element Schematic Copy": 1
     }
   },
   "Cannon Agile Kinetic Ammo XS": {
