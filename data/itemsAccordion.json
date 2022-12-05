@@ -556,7 +556,10 @@
               "Advanced Shield Generator XS",
               "Advanced Shield Generator S",
               "Advanced Shield Generator M",
-              "Advanced Shield Generator L"
+              "Advanced Shield Generator L",
+              "Rare Active Shield Generator XS",
+              "Rare Capacitor Shield Generator XS",
+              "Rare Variable Shield Generator XS"
             ]
           },
           "Transponder XS",
@@ -869,6 +872,12 @@
                       "Exotic Precision Railgun L"
                     ]
                   }
+                ]
+              },
+              {
+                "name": "Stasis Weapons",
+                "data": [
+                  "Statis Weapon XS"
                 ]
               }
             ]
@@ -1339,6 +1348,8 @@
                   "Advanced Optimised Container L",
                   "Advanced Gravity-Inverted Container XL",
                   "Advanced Optimised Container XL",
+                  "Rare Gravity-Inverted Container XS",
+                  "Rare Optimised Container XS",
                   "Expanded Uncommon Gravity-Inverted Container XXL",
                   "Expanded Uncommon Optimised Container XXL",
                   "Expanded Advanced Gravity-Inverted Container XXL",
@@ -1740,7 +1751,10 @@
                           "Uncommon Military Vertical Booster XS",
                           "Advanced Freight Vertical Booster XS",
                           "Advanced Maneuver Vertical Booster XS",
-                          "Advanced Military Vertical Booster XS"
+                          "Advanced Military Vertical Booster XS",
+                          "Rare Freight Vertical Booster XS",
+                          "Rare Maneuver Vertical Booster XS",
+                          "Rare Military Vertical Booster XS"
                         ]
                       },
                       {
