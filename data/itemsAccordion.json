@@ -565,7 +565,10 @@
               "Rare Variable Shield Generator S",
               "Rare Active Shield Generator M",
               "Rare Capacitor Shield Generator M",
-              "Rare Variable Shield Generator M"
+              "Rare Variable Shield Generator M",
+              "Rare Active Shield Generator L",
+              "Rare Capacitor Shield Generator L",
+              "Rare Variable Shield Generator L"
             ]
           },
           "Transponder XS",
@@ -885,7 +888,8 @@
                 "data": [
                   "Stasis Weapon XS",
                   "Stasis Weapon S",
-                  "Stasis Weapon M"
+                  "Stasis Weapon M",
+                  "Stasis Weapon L"
                 ]
               }
             ]
@@ -1362,6 +1366,8 @@
                   "Rare Optimised Container S",
                   "Rare Gravity-Inverted Container M",
                   "Rare Optimised Container M",
+                  "Rare Gravity-Inverted Container L",
+                  "Rare Optimised Container L",
                   "Expanded Uncommon Gravity-Inverted Container XXL",
                   "Expanded Uncommon Optimised Container XXL",
                   "Expanded Advanced Gravity-Inverted Container XXL",
@@ -1471,7 +1477,9 @@
               "Uncommon Mining Unit L",
               "Advanced Mining Unit L",
               "Rare Mining Unit L",
-              "Exotic Mining Unit L"
+              "Exotic Mining Unit L",
+              "Relic Plasma Extractor",
+              "Space Mining Unit L"
             ]
           }
         ]
@@ -1752,7 +1760,13 @@
                           "Advanced Military Flat Hover Engine L",
                           "Advanced Freight Hover Engine L",
                           "Advanced Maneuver Hover Engine L",
-                          "Advanced Military Hover Engine L"
+                          "Advanced Military Hover Engine L",
+                          "Rare Freight Flat Hover Engine L",
+                          "Rare Maneuver Flat Hover Engine L",
+                          "Rare Military Flat Hover Engine L",
+                          "Rare Freight Hover Engine L",
+                          "Rare Maneuver Hover Engine L",
+                          "Rare Military Hover Engine L"
                         ]
                       }
                     ]
