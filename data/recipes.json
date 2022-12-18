@@ -5167,6 +5167,23 @@
       "Rare Optics": 50
     }
   },
+  "Rare Laser Chamber XL": {
+    "tier": 4,
+    "type": "Functional Part",
+    "volume": 7429.60,
+    "outputQuantity": 1,
+    "time": 309600,
+    "byproducts": {},
+    "industry": "Glass Furnace M",
+    "input": {
+      "Uncommon LED": 188,
+      "Uncommon Optics": 188,
+      "Advanced LED": 438,
+      "Advanced Optics": 188,
+      "Gold-Coated Glass": 2401,
+      "Rare Optics": 250
+    }
+  },
   "Exotic Laser Chamber XS": {
     "tier": 5,
     "type": "Functional Part",
@@ -7287,6 +7304,19 @@
       "Sc-Al Alloy": 343
     }
   },
+  "Rare Standard Frame XL": {
+    "tier": 4,
+    "type": "Structural Part",
+    "volume": 3602,
+    "outputQuantity": 1,
+    "time": 208800,
+    "byproducts": {},
+    "industry": "Metalwork Industry M",
+    "input": {
+      "Silumin": 1201,
+      "Sc-Al Alloy": 2401
+    }
+  },
   "Exotic Standard Frame XS": {
     "tier": 5,
     "type": "Structural Part",
@@ -8135,6 +8165,42 @@
       "Tier 3 XL Element Schematic Copy": 1
     }
   },
+  "Rare Gravity-Inverted Container XL": {
+    "tier": 4,
+    "type": "Industry & Infrastructure Element",
+    "volume": 10500,
+    "outputQuantity": 1,
+    "time": 1036800,
+    "byproducts": {},
+    "industry": "Assembly Line XL",
+    "input": {
+      "Uncommon Screw": 648,
+      "Advanced Screw": 648,
+      "Rare Hydraulics": 625,
+      "Rare Mobile Panel XL": 1,
+      "Rare Anti-Gravity Core": 256,
+      "Rare Standard Frame XL": 1,
+      "Tier 4 XL Element Schematic Copy": 1
+    }
+  },
+  "Rare Optimised Container XL": {
+    "tier": 4,
+    "type": "Industry & Infrastructure Element",
+    "volume": 10500,
+    "outputQuantity": 1,
+    "time": 1036800,
+    "byproducts": {},
+    "industry": "Assembly Line XL",
+    "input": {
+      "Uncommon Screw": 648,
+      "Advanced Screw": 648,
+      "Rare Hydraulics": 625,
+      "Rare Mobile Panel XL": 1,
+      "Rare Quantum Alignment Unit": 256,
+      "Rare Standard Frame XL": 1,
+      "Tier 4 XL Element Schematic Copy": 1
+    }
+  },
   "Expanded Uncommon Gravity-Inverted Container XXL": {
     "tier": 2,
     "type": "Industry & Infrastructure Element",
@@ -8201,6 +8267,42 @@
       "Advanced Quantum Alignment Unit": 512,
       "Advanced Standard Frame XL": 2,
       "Tier 3 XL Element Schematic Copy": 1
+    }
+  },
+  "Expanded Rare Gravity-Inverted Container XXL": {
+    "tier": 4,
+    "type": "Industry & Infrastructure Element",
+    "volume": 21000,
+    "outputQuantity": 1,
+    "time": 2073600,
+    "byproducts": {},
+    "industry": "Assembly Line XL",
+    "input": {
+      "Uncommon Screw": 1296,
+      "Advanced Screw": 1296,
+      "Rare Hydraulics": 1250,
+      "Rare Mobile Panel XL": 2,
+      "Rare Anti-Gravity Core": 512,
+      "Rare Standard Frame XL": 2,
+      "Tier 4 XL Element Schematic Copy": 1
+    }
+  },
+  "Expanded Rare Optimised Container XXL": {
+    "tier": 4,
+    "type": "Industry & Infrastructure Element",
+    "volume": 21000,
+    "outputQuantity": 1,
+    "time": 2073600,
+    "byproducts": {},
+    "industry": "Assembly Line XL",
+    "input": {
+      "Uncommon Screw": 1296,
+      "Advanced Screw": 1296,
+      "Rare Hydraulics": 1250,
+      "Rare Mobile Panel XL": 2,
+      "Rare Quantum Alignment Unit": 512,
+      "Rare Standard Frame XL": 2,
+      "Tier 4 XL Element Schematic Copy": 1
     }
   },
   "Parcel Container XS": {
@@ -8915,7 +9017,8 @@
       "Advanced Screw": 648,
       "Rare Power System": 625,
       "Rare Mobile Panel XL": 1,
-      "Rare Reinforced Frame XL": 1
+      "Rare Reinforced Frame XL": 1,
+      "Tier 4 XL Element Schematic Copy": 1
     }
   },
   "Basic 3D Printer M": {
@@ -15188,6 +15291,24 @@
       "Rare Quantum Barrier": 64,
       "Rare Reinforced Frame L": 1,
       "Tier 4 L Element Schematic Copy": 1
+    }
+  },
+  "Base Shield Generator XL": {
+    "tier": 4,
+    "type": "Combat Element",
+    "volume": 22700,
+    "outputQuantity": 1,
+    "time": 1036800,
+    "byproducts": {},
+    "industry": "Assembly Line XL",
+    "input": {
+      "Uncommon Component": 648,
+      "Advanced Component": 648,
+      "Rare Magnet": 625,
+      "Rare Laser Chamber XL": 1,
+      "Rare Quantum Barrier": 256,
+      "Rare Reinforced Frame XL": 1,
+      "Tier 4 XL Element Schematic Copy": 1
     }
   },
   "Info Button XS": {
