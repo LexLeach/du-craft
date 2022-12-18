@@ -8,6 +8,7 @@ Currently in progress of syncing to game version 1.1.2
 ## Added
 - [x] All schematics base data (cost, time, qty)
 - [x] Schematic talents
+- [x] All 10 Relic Plasma items
 
 ## Recipes updated for following schematics
 - [x] Tier 1 XS Element Schematic
