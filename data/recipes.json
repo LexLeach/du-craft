@@ -2661,6 +2661,23 @@
       "Fluoropolymer": 2
     }
   },
+  "Exotic Injector": {
+    "tier": 5,
+    "type": "Complex Part",
+    "volume": 10,
+    "outputQuantity": 1,
+    "time": 15360,
+    "byproducts": {},
+    "industry": "3D Printer M",
+    "input": {
+      "Basic Screw": 1,
+      "Uncommon Screw": 1,
+      "Polysulfide Plastic": 2,
+      "Advanced Screw": 2,
+      "Fluoropolymer": 2,
+      "Vanamer": 2
+    }
+  },
   "Basic Magnet": {
     "tier": 1,
     "type": "Complex Part",
@@ -3281,6 +3298,29 @@
       "Advanced Quantum Core": 1,
       "Sc-Al Alloy": 5,
       "Rare Quantum Core": 1
+    }
+  },
+  "Exotic Quantum Barrier": {
+    "tier": 5,
+    "type": "Exceptional Part",
+    "volume": 30.0,
+    "outputQuantity": 1,
+    "time": 93780,
+    "byproducts": {},
+    "industry": "Electronics Industry M",
+    "input": {
+      "Silumin": 5,
+      "Basic Quantum Core": 1,
+      "Duralumin": 5,
+      "Uncommon LED": 5,
+      "Uncommon Quantum Core": 1,
+      "Al-Li Alloy": 5,
+      "Advanced LED": 5,
+      "Advanced Quantum Core": 1,
+      "Sc-Al Alloy": 5,
+      "Rare Quantum Core": 1,
+      "Grade 5 Titanium Alloy": 5,
+      "Exotic Quantum Core": 1
     }
   },
   "Advanced Antimatter Core": {
@@ -4011,6 +4051,22 @@
       "Advanced Burner": 1,
       "Maraging Steel": 1,
       "Rare Burner": 1
+    }
+  },
+  "Exotic Combustion Chamber XS": {
+    "tier": 5,
+    "type": "Functional Part",
+    "volume": 25.6,
+    "outputQuantity": 1,
+    "time": 15360,
+    "byproducts": {},
+    "industry": "Metalwork Industry M",
+    "input": {
+      "Advanced Pipe": 1,
+      "Advanced Burner": 1,
+      "Rare Burner": 1,
+      "Mangalloy": 1,
+      "Exotic Burner": 1
     }
   },
   "Rare Combustion Chamber S": {
@@ -5077,6 +5133,22 @@
       "Advanced Magnet": 188,
       "Maraging Steel": 2401,
       "Rare Magnet": 250
+    }
+  },
+  "Exotic Ionic Chamber XS": {
+    "tier": 5,
+    "type": "Functional Part",
+    "volume": 19.10,
+    "outputQuantity": 1,
+    "time": 15360,
+    "byproducts": {},
+    "industry": "Metalwork Industry M",
+    "input": {
+      "Advanced Connector": 1,
+      "Advanced Magnet": 1,
+      "Rare Magnet": 1,
+      "Mangalloy": 1,
+      "Exotic Magnet": 1
     }
   },
   "Basic Laser Chamber S": {
@@ -6188,6 +6260,22 @@
       "Advanced Hydraulics": 188,
       "Sc-Al Alloy": 2401,
       "Rare Hydraulics": 250
+    }
+  },
+  "Exotic Mobile Panel S": {
+    "tier": 5,
+    "type": "Functional Part",
+    "volume": 57.60,
+    "outputQuantity": 1,
+    "time": 46080,
+    "byproducts": {},
+    "industry": "Metalwork Industry M",
+    "input": {
+      "Advanced Screw": 5,
+      "Advanced Hydraulics": 2,
+      "Rare Hydraulics": 2,
+      "Grade 5 Titanium Alloy": 7,
+      "Exotic Hydraulics": 2
     }
   },
   "Advanced Motherboard M": {
@@ -7825,6 +7913,42 @@
       "Rare Quantum Alignment Unit": 4,
       "Rare Standard Frame S": 1,
       "Tier 4 XS Element Schematic Copy": 1
+    }
+  },
+  "Exotic Gravity-Inverted Container XS": {
+    "tier": 5,
+    "type": "Industry & Infrastructure Element",
+    "volume": 64,
+    "outputQuantity": 1,
+    "time": 48600,
+    "byproducts": {},
+    "industry": "Assembly Line S",
+    "input": {
+      "Advanced Screw": 6,
+      "Exotic Hydraulics": 5,
+      "Exotic Mobile Panel S": 1,
+      "Exotic Anti-Gravity Core": 4,
+      "Exotic Standard Frame S": 1,
+      "Relic Plasma Octo L": 1,
+      "Tier 5 XS Element Schematic Copy": 1
+    }
+  },
+  "Exotic Optimised Container XS": {
+    "tier": 5,
+    "type": "Industry & Infrastructure Element",
+    "volume": 64,
+    "outputQuantity": 1,
+    "time": 48600,
+    "byproducts": {},
+    "industry": "Assembly Line S",
+    "input": {
+      "Advanced Screw": 6,
+      "Exotic Hydraulics": 5,
+      "Exotic Mobile Panel S": 1,
+      "Exotic Quantum Alignment Unit": 4,
+      "Exotic Standard Frame S": 1,
+      "Relic Plasma Octo L": 1,
+      "Tier 5 XS Element Schematic Copy": 1
     }
   },
   "Basic Container S": {
@@ -10280,6 +10404,74 @@
       "Tier 4 XS Element Schematic Copy": 1
     }
   },
+  "Exotic Freight Atmospheric Engine XS": {
+    "tier": 5,
+    "type": "Piloting Element",
+    "volume": 22.6,
+    "outputQuantity": 1,
+    "time": 9720,
+    "byproducts": {},
+    "industry": "Assembly Line XS",
+    "input": {
+      "Advanced Screw": 1,
+      "Exotic Injector": 1,
+      "Exotic Combustion Chamber XS": 1,
+      "Exotic Reinforced Frame XS": 1,
+      "Relic Plasma Duo L": 1,
+      "Tier 5 XS Element Schematic Copy": 1
+    }
+  },
+  "Exotic Maneuver Atmospheric Engine XS": {
+    "tier": 5,
+    "type": "Piloting Element",
+    "volume": 22.6,
+    "outputQuantity": 1,
+    "time": 9720,
+    "byproducts": {},
+    "industry": "Assembly Line XS",
+    "input": {
+      "Advanced Screw": 1,
+      "Exotic Injector": 1,
+      "Exotic Combustion Chamber XS": 1,
+      "Exotic Reinforced Frame XS": 1,
+      "Relic Plasma Duo L": 1,
+      "Tier 5 XS Element Schematic Copy": 1
+    }
+  },
+  "Exotic Military Atmospheric Engine XS": {
+    "tier": 5,
+    "type": "Piloting Element",
+    "volume": 22.6,
+    "outputQuantity": 1,
+    "time": 9720,
+    "byproducts": {},
+    "industry": "Assembly Line XS",
+    "input": {
+      "Advanced Screw": 1,
+      "Exotic Injector": 1,
+      "Exotic Combustion Chamber XS": 1,
+      "Exotic Reinforced Frame XS": 1,
+      "Relic Plasma Duo L": 1,
+      "Tier 5 XS Element Schematic Copy": 1
+    }
+  },
+  "Exotic Safe Atmospheric Engine XS": {
+    "tier": 5,
+    "type": "Piloting Element",
+    "volume": 22.6,
+    "outputQuantity": 1,
+    "time": 9720,
+    "byproducts": {},
+    "industry": "Assembly Line XS",
+    "input": {
+      "Advanced Screw": 1,
+      "Exotic Injector": 1,
+      "Exotic Combustion Chamber XS": 1,
+      "Exotic Reinforced Frame XS": 1,
+      "Relic Plasma Duo L": 1,
+      "Tier 5 XS Element Schematic Copy": 1
+    }
+  },
   "Basic Atmospheric Engine S": {
     "tier": 1,
     "type": "Piloting Element",
@@ -11144,6 +11336,74 @@
       "Rare Ionic Chamber XS": 1,
       "Rare Reinforced Frame XS": 1,
       "Tier 4 XS Element Schematic Copy": 1
+    }
+  },
+  "Exotic Freight Space Engine XS": {
+    "tier": 5,
+    "type": "Piloting Element",
+    "volume": 20.33,
+    "outputQuantity": 1,
+    "time": 9720,
+    "byproducts": {},
+    "industry": "Assembly Line XS",
+    "input": {
+      "Advanced Screw": 1,
+      "Exotic Injector": 1,
+      "Exotic Combustion Chamber XS": 1,
+      "Exotic Reinforced Frame XS": 1,
+      "Relic Plasma Unus L": 1,
+      "Tier 5 XS Element Schematic Copy": 1
+    }
+  },
+  "Exotic Maneuver Space Engine XS": {
+    "tier": 5,
+    "type": "Piloting Element",
+    "volume": 20.33,
+    "outputQuantity": 1,
+    "time": 9720,
+    "byproducts": {},
+    "industry": "Assembly Line XS",
+    "input": {
+      "Advanced Screw": 1,
+      "Exotic Injector": 1,
+      "Exotic Combustion Chamber XS": 1,
+      "Exotic Reinforced Frame XS": 1,
+      "Relic Plasma Unus L": 1,
+      "Tier 5 XS Element Schematic Copy": 1
+    }
+  },
+  "Exotic Military Space Engine XS": {
+    "tier": 5,
+    "type": "Piloting Element",
+    "volume": 20.33,
+    "outputQuantity": 1,
+    "time": 9720,
+    "byproducts": {},
+    "industry": "Assembly Line XS",
+    "input": {
+      "Advanced Screw": 1,
+      "Exotic Injector": 1,
+      "Exotic Combustion Chamber XS": 1,
+      "Exotic Reinforced Frame XS": 1,
+      "Relic Plasma Unus L": 1,
+      "Tier 5 XS Element Schematic Copy": 1
+    }
+  },
+  "Exotic Safe Space Engine XS": {
+    "tier": 5,
+    "type": "Piloting Element",
+    "volume": 20.33,
+    "outputQuantity": 1,
+    "time": 9720,
+    "byproducts": {},
+    "industry": "Assembly Line XS",
+    "input": {
+      "Advanced Screw": 1,
+      "Exotic Injector": 1,
+      "Exotic Combustion Chamber XS": 1,
+      "Exotic Reinforced Frame XS": 1,
+      "Relic Plasma Unus L": 1,
+      "Tier 5 XS Element Schematic Copy": 1
     }
   },
   "Basic Space Engine S": {
@@ -13052,6 +13312,57 @@
       "Rare Ionic Chamber XS": 1,
       "Rare Standard Frame XS": 1,
       "Tier 4 XS Element Schematic Copy": 1
+    }
+  },
+  "Exotic Freight Vertical Booster XS": {
+    "tier": 5,
+    "type": "Piloting Element",
+    "volume": 11,
+    "outputQuantity": 1,
+    "time": 9720,
+    "byproducts": {},
+    "industry": "Assembly Line XS",
+    "input": {
+      "Advanced Pipe": 1,
+      "Exotic Injector": 1,
+      "Exotic Ionic Chamber XS": 1,
+      "Exotic Standard Frame XS": 1,
+      "Relic Plasma Tres L": 1,
+      "Tier 5 XS Element Schematic Copy": 1
+    }
+  },
+  "Exotic Maneuver Vertical Booster XS": {
+    "tier": 5,
+    "type": "Piloting Element",
+    "volume": 11,
+    "outputQuantity": 1,
+    "time": 9720,
+    "byproducts": {},
+    "industry": "Assembly Line XS",
+    "input": {
+      "Advanced Pipe": 1,
+      "Exotic Injector": 1,
+      "Exotic Ionic Chamber XS": 1,
+      "Exotic Standard Frame XS": 1,
+      "Relic Plasma Tres L": 1,
+      "Tier 5 XS Element Schematic Copy": 1
+    }
+  },
+  "Exotic Military Vertical Booster XS": {
+    "tier": 5,
+    "type": "Piloting Element",
+    "volume": 11,
+    "outputQuantity": 1,
+    "time": 9720,
+    "byproducts": {},
+    "industry": "Assembly Line XS",
+    "input": {
+      "Advanced Pipe": 1,
+      "Exotic Injector": 1,
+      "Exotic Ionic Chamber XS": 1,
+      "Exotic Standard Frame XS": 1,
+      "Relic Plasma Tres L": 1,
+      "Tier 5 XS Element Schematic Copy": 1
     }
   },
   "Uncommon Freight Vertical Booster S": {
@@ -15178,6 +15489,60 @@
       "Rare Quantum Barrier": 1,
       "Rare Reinforced Frame XS": 1,
       "Tier 4 XS Element Schematic Copy": 1
+    }
+  },
+  "Exotic Active Shield Generator XS": {
+    "tier": 5,
+    "type": "Combat Element",
+    "volume": 134.4,
+    "outputQuantity": 1,
+    "time": 12180,
+    "byproducts": {},
+    "industry": "Assembly Line XS",
+    "input": {
+      "Advanced Component": 1,
+      "Exotic Magnet": 1,
+      "Exotic Laser Chamber XS": 1,
+      "Exotic Quantum Barrier": 1,
+      "Exotic Reinforced Frame XS": 1,
+      "Relic Plasma Novem L": 1,
+      "Tier 5 XS Element Schematic Copy": 1
+    }
+  },
+  "Exotic Capacitor Shield Generator XS": {
+    "tier": 5,
+    "type": "Combat Element",
+    "volume": 210,
+    "outputQuantity": 1,
+    "time": 12180,
+    "byproducts": {},
+    "industry": "Assembly Line XS",
+    "input": {
+      "Advanced Component": 1,
+      "Exotic Magnet": 1,
+      "Exotic Laser Chamber XS": 1,
+      "Exotic Quantum Barrier": 1,
+      "Exotic Reinforced Frame XS": 1,
+      "Relic Plasma Novem L": 1,
+      "Tier 5 XS Element Schematic Copy": 1
+    }
+  },
+  "Exotic Variable Shield Generator XS": {
+    "tier": 5,
+    "type": "Combat Element",
+    "volume": 210,
+    "outputQuantity": 1,
+    "time": 12180,
+    "byproducts": {},
+    "industry": "Assembly Line XS",
+    "input": {
+      "Advanced Component": 1,
+      "Exotic Magnet": 1,
+      "Exotic Laser Chamber XS": 1,
+      "Exotic Quantum Barrier": 1,
+      "Exotic Reinforced Frame XS": 1,
+      "Relic Plasma Novem L": 1,
+      "Tier 5 XS Element Schematic Copy": 1
     }
   },
   "Advanced Shield Generator S": {
@@ -18977,7 +19342,9 @@
       "Advanced Screw": 1,
       "Exotic Electronics": 1,
       "Exotic Firing System XS": 1,
-      "Exotic Reinforced Frame XS": 1
+      "Exotic Reinforced Frame XS": 1,
+      "Relic Plasma Quattuor L": 1,
+      "Tier 5 XS Element Schematic Copy": 1
     }
   },
   "Exotic Defense Cannon XS": {
@@ -18992,7 +19359,9 @@
       "Advanced Screw": 1,
       "Exotic Electronics": 1,
       "Exotic Firing System XS": 1,
-      "Exotic Reinforced Frame XS": 1
+      "Exotic Reinforced Frame XS": 1,
+      "Relic Plasma Quattuor L": 1,
+      "Tier 5 XS Element Schematic Copy": 1
     }
   },
   "Exotic Heavy Cannon XS": {
@@ -19007,7 +19376,9 @@
       "Advanced Screw": 1,
       "Exotic Electronics": 1,
       "Exotic Firing System XS": 1,
-      "Exotic Reinforced Frame XS": 1
+      "Exotic Reinforced Frame XS": 1,
+      "Relic Plasma Quattuor L": 1,
+      "Tier 5 XS Element Schematic Copy": 1
     }
   },
   "Exotic Precision Cannon XS": {
@@ -19022,7 +19393,9 @@
       "Advanced Screw": 1,
       "Exotic Electronics": 1,
       "Exotic Firing System XS": 1,
-      "Exotic Reinforced Frame XS": 1
+      "Exotic Reinforced Frame XS": 1,
+      "Relic Plasma Quattuor L": 1,
+      "Tier 5 XS Element Schematic Copy": 1
     }
   },
   "Cannon S": {
@@ -19809,7 +20182,9 @@
       "Advanced Connector": 1,
       "Exotic Power System": 1,
       "Exotic Laser Chamber XS": 1,
-      "Exotic Reinforced Frame XS": 1
+      "Exotic Reinforced Frame XS": 1,
+      "Relic Plasma Quinque L": 1,
+      "Tier 5 XS Element Schematic Copy": 1
     }
   },
   "Exotic Defense Laser XS": {
@@ -19824,7 +20199,9 @@
       "Advanced Connector": 1,
       "Exotic Power System": 1,
       "Exotic Laser Chamber XS": 1,
-      "Exotic Reinforced Frame XS": 1
+      "Exotic Reinforced Frame XS": 1,
+      "Relic Plasma Quinque L": 1,
+      "Tier 5 XS Element Schematic Copy": 1
     }
   },
   "Exotic Heavy Laser XS": {
@@ -19839,7 +20216,9 @@
       "Advanced Connector": 1,
       "Exotic Power System": 1,
       "Exotic Laser Chamber XS": 1,
-      "Exotic Reinforced Frame XS": 1
+      "Exotic Reinforced Frame XS": 1,
+      "Relic Plasma Quinque L": 1,
+      "Tier 5 XS Element Schematic Copy": 1
     }
   },
   "Exotic Precision Laser XS": {
@@ -19854,7 +20233,9 @@
       "Advanced Connector": 1,
       "Exotic Power System": 1,
       "Exotic Laser Chamber XS": 1,
-      "Exotic Reinforced Frame XS": 1
+      "Exotic Reinforced Frame XS": 1,
+      "Relic Plasma Quinque L": 1,
+      "Tier 5 XS Element Schematic Copy": 1
     }
   },
   "Laser S": {
@@ -20641,7 +21022,9 @@
       "Advanced Screw": 1,
       "Exotic Hydraulics": 1,
       "Exotic Missile Silo XS": 1,
-      "Exotic Reinforced Frame XS": 1
+      "Exotic Reinforced Frame XS": 1,
+      "Relic Plasma Sex L": 1,
+      "Tier 5 XS Element Schematic Copy": 1
     }
   },
   "Exotic Defense Missile XS": {
@@ -20656,7 +21039,9 @@
       "Advanced Screw": 1,
       "Exotic Hydraulics": 1,
       "Exotic Missile Silo XS": 1,
-      "Exotic Reinforced Frame XS": 1
+      "Exotic Reinforced Frame XS": 1,
+      "Relic Plasma Sex L": 1,
+      "Tier 5 XS Element Schematic Copy": 1
     }
   },
   "Exotic Heavy Missile XS": {
@@ -20671,7 +21056,9 @@
       "Advanced Screw": 1,
       "Exotic Hydraulics": 1,
       "Exotic Missile Silo XS": 1,
-      "Exotic Reinforced Frame XS": 1
+      "Exotic Reinforced Frame XS": 1,
+      "Relic Plasma Sex L": 1,
+      "Tier 5 XS Element Schematic Copy": 1
     }
   },
   "Exotic Precision Missile XS": {
@@ -20686,7 +21073,9 @@
       "Advanced Screw": 1,
       "Exotic Hydraulics": 1,
       "Exotic Missile Silo XS": 1,
-      "Exotic Reinforced Frame XS": 1
+      "Exotic Reinforced Frame XS": 1,
+      "Relic Plasma Sex L": 1,
+      "Tier 5 XS Element Schematic Copy": 1
     }
   },
   "Missile S": {
@@ -21473,7 +21862,9 @@
       "Advanced Connector": 1,
       "Exotic Optics": 1,
       "Exotic Magnetic Rail XS": 1,
-      "Exotic Reinforced Frame XS": 1
+      "Exotic Reinforced Frame XS": 1,
+      "Relic Plasma Septem L": 1,
+      "Tier 5 XS Element Schematic Copy": 1
     }
   },
   "Exotic Defense Railgun XS": {
@@ -21488,7 +21879,9 @@
       "Advanced Connector": 1,
       "Exotic Optics": 1,
       "Exotic Magnetic Rail XS": 1,
-      "Exotic Reinforced Frame XS": 1
+      "Exotic Reinforced Frame XS": 1,
+      "Relic Plasma Septem L": 1,
+      "Tier 5 XS Element Schematic Copy": 1
     }
   },
   "Exotic Heavy Railgun XS": {
@@ -21503,7 +21896,9 @@
       "Advanced Connector": 1,
       "Exotic Optics": 1,
       "Exotic Magnetic Rail XS": 1,
-      "Exotic Reinforced Frame XS": 1
+      "Exotic Reinforced Frame XS": 1,
+      "Relic Plasma Septem L": 1,
+      "Tier 5 XS Element Schematic Copy": 1
     }
   },
   "Exotic Precision Railgun XS": {
@@ -21518,7 +21913,9 @@
       "Advanced Connector": 1,
       "Exotic Optics": 1,
       "Exotic Magnetic Rail XS": 1,
-      "Exotic Reinforced Frame XS": 1
+      "Exotic Reinforced Frame XS": 1,
+      "Relic Plasma Septem L": 1,
+      "Tier 5 XS Element Schematic Copy": 1
     }
   },
   "Railgun S": {
