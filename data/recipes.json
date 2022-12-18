@@ -3688,6 +3688,23 @@
       "Rare Electronics": 10
     }
   },
+  "Rare Chemical Container L": {
+    "tier": 4,
+    "type": "Functional Part",
+    "volume": 778.4,
+    "outputQuantity": 1,
+    "time": 103680,
+    "byproducts": {},
+    "industry": "Metalwork Industry M",
+    "input": {
+      "Uncommon Screw": 38,
+      "Uncommon Electronics": 38,
+      "Advanced Screw": 88,
+      "Advanced Electronics": 38,
+      "Sc-Al Alloy": 343,
+      "Rare Electronics": 50
+    }
+  },
   "Basic Combustion Chamber XS": {
     "tier": 1,
     "type": "Functional Part",
@@ -4618,6 +4635,25 @@
       "Al-Li Alloy": 343,
       "Advanced Screw": 50,
       "Advanced Injector": 50
+    }
+  },
+  "Rare Gas Cylinder L":
+  {
+    "tier": 4,
+    "type": "Functional Part",
+    "volume": 1383.2,
+    "outputQuantity": 1,
+    "time": 103680,
+    "byproducts": {},
+    "nanopack": true,
+    "industry": "Metalwork Industry M",
+    "input": {
+      "Uncommon Screw": 38,
+      "Uncommon Injector": 38,
+      "Advanced Screw": 88,
+      "Advanced Injector": 38,
+      "Sc-Al Alloy": 343,
+      "Rare Injector": 50
     }
   },
   "Basic Ionic Chamber XS": {
@@ -24736,7 +24772,7 @@
       "Exotic Standard Frame L": 1
     }
   },
-  "Relic Plasma Extractor L": {
+  "Relic Plasma Extractor": {
     "tier": 4,
     "type": "Industry & Infrastructure Element",
     "volume": 6800,
