@@ -2209,6 +2209,22 @@
       "Ag-Li Reinforced Glass": 2
     }
   },
+  "Rare Antimatter Capsule": {
+    "tier": 4,
+    "type": "Complex Part",
+    "volume": 4.6,
+    "outputQuantity": 1,
+    "time": 3840,
+    "byproducts": {},
+    "industry": "Glass Furnace M",
+    "input": {
+      "Basic Connector": 1,
+      "Advanced Glass": 2,
+      "Uncommon Connector": 3,
+      "Ag-Li Reinforced Glass": 2,
+      "Gold-Coated Glass": 2
+    }
+  },
   "Basic Burner": {
     "tier": 1,
     "type": "Complex Part",
@@ -3185,6 +3201,27 @@
       "Advanced Antimatter Capsule": 1
     }
   },
+  "Rare Antimatter Core": {
+    "tier": 4,
+    "type": "Exceptional Part",
+    "volume": 24,
+    "outputQuantity": 1,
+    "time": 18780,
+    "byproducts": {},
+    "industry": "Electronics Industry M",
+    "input": {
+      "Al-Fe Alloy": 5,
+      "Basic Component": 5,
+      "Basic Antimatter Capsule": 2,
+      "Calcium Reinforced Copper": 5,
+      "Uncommon Component": 5,
+      "Uncommon Antimatter Capsule": 1,
+      "Cu-Ag Alloy": 5,
+      "Advanced Antimatter Capsule": 1,
+      "Red Gold": 5,
+      "Rare Antimatter Capsule": 1
+    }
+  },
   "Basic Antenna XS": {
     "tier": 1,
     "type": "Functional Part",
@@ -3649,6 +3686,23 @@
       "Advanced Electronics": 8,
       "Sc-Al Alloy": 49,
       "Rare Electronics": 10
+    }
+  },
+  "Rare Chemical Container L": {
+    "tier": 4,
+    "type": "Functional Part",
+    "volume": 778.4,
+    "outputQuantity": 1,
+    "time": 103680,
+    "byproducts": {},
+    "industry": "Metalwork Industry M",
+    "input": {
+      "Uncommon Screw": 38,
+      "Uncommon Electronics": 38,
+      "Advanced Screw": 88,
+      "Advanced Electronics": 38,
+      "Sc-Al Alloy": 343,
+      "Rare Electronics": 50
     }
   },
   "Basic Combustion Chamber XS": {
@@ -4581,6 +4635,25 @@
       "Al-Li Alloy": 343,
       "Advanced Screw": 50,
       "Advanced Injector": 50
+    }
+  },
+  "Rare Gas Cylinder L":
+  {
+    "tier": 4,
+    "type": "Functional Part",
+    "volume": 1383.2,
+    "outputQuantity": 1,
+    "time": 103680,
+    "byproducts": {},
+    "nanopack": true,
+    "industry": "Metalwork Industry M",
+    "input": {
+      "Uncommon Screw": 38,
+      "Uncommon Injector": 38,
+      "Advanced Screw": 88,
+      "Advanced Injector": 38,
+      "Sc-Al Alloy": 343,
+      "Rare Injector": 50
     }
   },
   "Basic Ionic Chamber XS": {
@@ -7945,6 +8018,42 @@
       "Tier 3 L Element Schematic Copy": 1
     }
   },
+  "Rare Gravity-Inverted Container L": {
+    "tier": 4,
+    "type": "Industry & Infrastructure Element",
+    "volume": 3746,
+    "outputQuantity": 1,
+    "time": 518400,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Uncommon Screw": 216,
+      "Advanced Screw": 216,
+      "Rare Hydraulics": 250,
+      "Rare Mobile Panel L": 2,
+      "Rare Anti-Gravity Core": 128,
+      "Rare Standard Frame L": 2,
+      "Tier 4 L Element Schematic Copy": 1
+    }
+  },
+  "Rare Optimised Container L": {
+    "tier": 4,
+    "type": "Industry & Infrastructure Element",
+    "volume": 3746,
+    "outputQuantity": 1,
+    "time": 518400,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Uncommon Screw": 216,
+      "Advanced Screw": 216,
+      "Rare Hydraulics": 250,
+      "Rare Mobile Panel L": 2,
+      "Rare Quantum Alignment Unit": 128,
+      "Rare Standard Frame L": 2,
+      "Tier 4 M Element Schematic Copy": 1
+    }
+  },
   "Basic Container XL": {
     "tier": 1,
     "type": "Industry & Infrastructure Element",
@@ -8740,7 +8849,8 @@
       "Advanced Screw": 108,
       "Rare Power System": 125,
       "Rare Mobile Panel L": 1,
-      "Rare Reinforced Frame L": 1
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Basic Assembly Line XL": {
@@ -12262,6 +12372,108 @@
       "Tier 3 L Element Schematic Copy": 1
     }
   },
+  "Rare Freight Flat Hover Engine L": {
+    "tier": 4,
+    "type": "Piloting Element",
+    "volume": 619.2,
+    "outputQuantity": 1,
+    "time": 208800,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Uncommon Screw": 108,
+      "Advanced Screw": 108,
+      "Rare Injector": 125,
+      "Rare Gas Cylinder L": 1,
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
+    }
+  },
+  "Rare Maneuver Flat Hover Engine L": {
+    "tier": 4,
+    "type": "Piloting Element",
+    "volume": 619.2,
+    "outputQuantity": 1,
+    "time": 208800,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Uncommon Screw": 108,
+      "Advanced Screw": 108,
+      "Rare Injector": 125,
+      "Rare Gas Cylinder L": 1,
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
+    }
+  },
+  "Rare Military Flat Hover Engine L": {
+    "tier": 4,
+    "type": "Piloting Element",
+    "volume": 619.2,
+    "outputQuantity": 1,
+    "time": 208800,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Uncommon Screw": 108,
+      "Advanced Screw": 108,
+      "Rare Injector": 125,
+      "Rare Gas Cylinder L": 1,
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
+    }
+  },
+  "Rare Freight Hover Engine L": {
+    "tier": 4,
+    "type": "Piloting Element",
+    "volume": 619.2,
+    "outputQuantity": 1,
+    "time": 208800,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Uncommon Screw": 108,
+      "Advanced Screw": 108,
+      "Rare Injector": 125,
+      "Rare Gas Cylinder L": 1,
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
+    }
+  },
+  "Rare Maneuver Hover Engine L": {
+    "tier": 4,
+    "type": "Piloting Element",
+    "volume": 619.2,
+    "outputQuantity": 1,
+    "time": 208800,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Uncommon Screw": 108,
+      "Advanced Screw": 108,
+      "Rare Injector": 125,
+      "Rare Gas Cylinder L": 1,
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
+    }
+  },
+  "Rare Military Hover Engine L": {
+    "tier": 4,
+    "type": "Piloting Element",
+    "volume": 619.2,
+    "outputQuantity": 1,
+    "time": 208800,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Uncommon Screw": 108,
+      "Advanced Screw": 108,
+      "Rare Injector": 125,
+      "Rare Gas Cylinder L": 1,
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
+    }
+  },
   "Adjustor XS": {
     "tier": 1,
     "type": "Piloting Element",
@@ -12987,6 +13199,57 @@
       "Tier 3 L Element Schematic Copy": 1
     }
   },
+  "Rare Freight Vertical Booster L": {
+    "tier": 4,
+    "type": "Piloting Element",
+    "volume": 562.4,
+    "outputQuantity": 1,
+    "time": 208800,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Uncommon Pipe": 108,
+      "Advanced Pipe": 108,
+      "Rare Injector": 125,
+      "Rare Ionic Chamber L": 1,
+      "Rare Standard Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
+    }
+  },
+  "Rare Maneuver Vertical Booster L": {
+    "tier": 4,
+    "type": "Piloting Element",
+    "volume": 562.4,
+    "outputQuantity": 1,
+    "time": 208800,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Uncommon Pipe": 108,
+      "Advanced Pipe": 108,
+      "Rare Injector": 125,
+      "Rare Ionic Chamber L": 1,
+      "Rare Standard Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
+    }
+  },
+  "Rare Military Vertical Booster L": {
+    "tier": 4,
+    "type": "Piloting Element",
+    "volume": 562.4,
+    "outputQuantity": 1,
+    "time": 208800,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Uncommon Pipe": 108,
+      "Advanced Pipe": 108,
+      "Rare Injector": 125,
+      "Rare Ionic Chamber L": 1,
+      "Rare Standard Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
+    }
+  },
   "Landing Gear XS": {
     "tier": 1,
     "type": "Piloting Element",
@@ -13317,7 +13580,8 @@
       "Uncommon Connector": 216,
       "Advanced Power System": 125,
       "Advanced Control System L": 1,
-      "Advanced Standard Frame L": 1
+      "Advanced Standard Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Anti-Gravity Generator S": {
@@ -13370,7 +13634,8 @@
       "Rare Power System": 2500,
       "Rare Power Transformer XL": 4,
       "Rare Anti-Gravity Core": 1024,
-      "Rare Reinforced Frame XL": 4
+      "Rare Reinforced Frame XL": 4,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Anti-Gravity Pulsor M": {
@@ -14558,7 +14823,8 @@
       "Advanced LED": 108,
       "Rare Magnet": 125,
       "Rare Antenna L": 1,
-      "Rare Standard Frame L": 1
+      "Rare Standard Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Rare Protected Space Radar L": {
@@ -14574,7 +14840,8 @@
       "Advanced LED": 108,
       "Rare Magnet": 125,
       "Rare Antenna L": 1,
-      "Rare Standard Frame L": 1
+      "Rare Standard Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Rare Quick-Wired Space Radar L": {
@@ -14590,7 +14857,8 @@
       "Advanced LED": 108,
       "Rare Magnet": 125,
       "Rare Antenna L": 1,
-      "Rare Standard Frame L": 1
+      "Rare Standard Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Exotic Phased-Array Space Radar L": {
@@ -14866,6 +15134,60 @@
       "Advanced Quantum Barrier": 64,
       "Advanced Reinforced Frame L": 1,
       "Tier 3 L Element Schematic Copy": 1
+    }
+  },
+  "Rare Active Shield Generator L": {
+    "tier": 4,
+    "type": "Combat Element",
+    "volume": 18160,
+    "outputQuantity": 1,
+    "time": 259200,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Uncommon Component": 108,
+      "Advanced Component": 108,
+      "Rare Magnet": 125,
+      "Rare Laser Chamber L": 1,
+      "Rare Quantum Barrier": 64,
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
+    }
+  },
+  "Rare Capacitor Shield Generator L": {
+    "tier": 4,
+    "type": "Combat Element",
+    "volume": 22700,
+    "outputQuantity": 1,
+    "time": 259200,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Uncommon Component": 108,
+      "Advanced Component": 108,
+      "Rare Magnet": 125,
+      "Rare Laser Chamber L": 1,
+      "Rare Quantum Barrier": 64,
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
+    }
+  },
+  "Rare Variable Shield Generator L": {
+    "tier": 4,
+    "type": "Combat Element",
+    "volume": 22700,
+    "outputQuantity": 1,
+    "time": 259200,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Uncommon Component": 108,
+      "Advanced Component": 108,
+      "Rare Magnet": 125,
+      "Rare Laser Chamber L": 1,
+      "Rare Quantum Barrier": 64,
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Info Button XS": {
@@ -18991,7 +19313,8 @@
       "Advanced Screw": 108,
       "Rare Electronics": 125,
       "Rare Firing System L": 1,
-      "Rare Reinforced Frame L": 1
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Rare Defense Cannon L": {
@@ -19007,7 +19330,8 @@
       "Advanced Screw": 108,
       "Rare Electronics": 125,
       "Rare Firing System L": 1,
-      "Rare Reinforced Frame L": 1
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Rare Heavy Cannon L": {
@@ -19023,7 +19347,8 @@
       "Advanced Screw": 108,
       "Rare Electronics": 125,
       "Rare Firing System L": 1,
-      "Rare Reinforced Frame L": 1
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Rare Precision Cannon L": {
@@ -19039,7 +19364,8 @@
       "Advanced Screw": 108,
       "Rare Electronics": 125,
       "Rare Firing System L": 1,
-      "Rare Reinforced Frame L": 1
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Exotic Agile Cannon L": {
@@ -19819,7 +20145,8 @@
       "Advanced Connector": 108,
       "Rare Power System": 125,
       "Rare Laser Chamber L": 1,
-      "Rare Reinforced Frame L": 1
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Rare Defense Laser L": {
@@ -19835,7 +20162,8 @@
       "Advanced Connector": 108,
       "Rare Power System": 125,
       "Rare Laser Chamber L": 1,
-      "Rare Reinforced Frame L": 1
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Rare Heavy Laser L": {
@@ -19851,7 +20179,8 @@
       "Advanced Connector": 108,
       "Rare Power System": 125,
       "Rare Laser Chamber L": 1,
-      "Rare Reinforced Frame L": 1
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Rare Precision Laser L": {
@@ -19867,7 +20196,8 @@
       "Advanced Connector": 108,
       "Rare Power System": 125,
       "Rare Laser Chamber L": 1,
-      "Rare Reinforced Frame L": 1
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Exotic Agile Laser L": {
@@ -20647,7 +20977,8 @@
       "Advanced Screw": 108,
       "Rare Hydraulics": 125,
       "Rare Missile Silo L": 1,
-      "Rare Reinforced Frame L": 1
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Rare Defense Missile L": {
@@ -20663,7 +20994,8 @@
       "Advanced Screw": 108,
       "Rare Hydraulics": 125,
       "Rare Missile Silo L": 1,
-      "Rare Reinforced Frame L": 1
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Rare Heavy Missile L": {
@@ -20679,7 +21011,8 @@
       "Advanced Screw": 108,
       "Rare Hydraulics": 125,
       "Rare Missile Silo L": 1,
-      "Rare Reinforced Frame L": 1
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Rare Precision Missile L": {
@@ -20695,7 +21028,8 @@
       "Advanced Screw": 108,
       "Rare Hydraulics": 125,
       "Rare Missile Silo L": 1,
-      "Rare Reinforced Frame L": 1
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Exotic Agile Missile L": {
@@ -21475,7 +21809,8 @@
       "Advanced Connector": 108,
       "Rare Optics": 125,
       "Rare Magnetic Rail L": 1,
-      "Rare Reinforced Frame L": 1
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Rare Defense Railgun L": {
@@ -21491,7 +21826,8 @@
       "Advanced Connector": 108,
       "Rare Optics": 125,
       "Rare Magnetic Rail L": 1,
-      "Rare Reinforced Frame L": 1
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Rare Heavy Railgun L": {
@@ -21507,7 +21843,8 @@
       "Advanced Connector": 108,
       "Rare Optics": 125,
       "Rare Magnetic Rail L": 1,
-      "Rare Reinforced Frame L": 1
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Rare Precision Railgun L": {
@@ -21523,7 +21860,8 @@
       "Advanced Connector": 108,
       "Rare Optics": 125,
       "Rare Magnetic Rail L": 1,
-      "Rare Reinforced Frame L": 1
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Exotic Agile Railgun L": {
@@ -21635,6 +21973,23 @@
       "Rare Magnetic Rail M": 1,
       "Rare Reinforced Frame M": 1,
       "Tier 4 M Element Schematic Copy": 1
+    }
+  },
+  "Stasis Weapon L": {
+    "tier": 4,
+    "type": "Combat Element",
+    "volume": 3000,
+    "outputQuantity": 1,
+    "time": 259200,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Uncommon LED": 108,
+      "Advanced LED": 108,
+      "Rare Optics": 125,
+      "Rare Magnetic Rail L": 1,
+      "Rare Reinforced Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Cannon Agile Kinetic Ammo XS": {
@@ -24397,7 +24752,8 @@
       "Rare Hydraulics": 125,
       "Rare Ore Scanner L": 1,
       "Rare Quantum Alignment Unit": 64,
-      "Rare Standard Frame L": 1
+      "Rare Standard Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Exotic Mining Unit L": {
@@ -24414,6 +24770,42 @@
       "Exotic Ore Scanner L": 1,
       "Exotic Quantum Alignment Unit": 64,
       "Exotic Standard Frame L": 1
+    }
+  },
+  "Relic Plasma Extractor": {
+    "tier": 4,
+    "type": "Industry & Infrastructure Element",
+    "volume": 6800,
+    "outputQuantity": 1,
+    "time": 259200,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Uncommon Fixation": 108,
+      "Advanced Fixation": 108,
+      "Rare Hydraulics": 125,
+      "Rare Chemical Container L": 1,
+      "Rare Antimatter Core": 64,
+      "Rare Standard Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
+    }
+  },
+  "Space Mining Unit L": {
+    "tier": 4,
+    "type": "Industry & Infrastructure Element",
+    "volume": 6800,
+    "outputQuantity": 1,
+    "time": 259200,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Uncommon Fixation": 108,
+      "Advanced Fixation": 108,
+      "Rare Hydraulics": 125,
+      "Rare Ore Scanner L": 1,
+      "Rare Quantum Alignment Unit": 64,
+      "Rare Standard Frame L": 1,
+      "Tier 4 L Element Schematic Copy": 1
     }
   },
   "Fireworks Launcher S": {
