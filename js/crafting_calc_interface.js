@@ -281,58 +281,61 @@ function calculate() {
         costReduction = costReduction + s.amount * skillLevel;
     });
 
+    const skippedHeaders = ["Ore", "Relic"];
+    var typeLast = null;
     for (var i = 0; i < list.length; i++) {
-        var typeIndex = cc.types.indexOf(cc.db[list[i].name].type);
-        if (i > 0 && typeIndex !== 0) {
-            var typeIndexLast = cc.types.indexOf(cc.db[list[i - 1].name].type);
-            if (typeIndex !== typeIndexLast) {
-                var line1 = [];
+        var typeNew = cc.db[list[i].name].type;
+        
+        
+        if (!skippedHeaders.includes(typeNew) && typeNew !== typeLast) {
+            var line1 = [];
 
-                var gapdet1 = document.createElement("div");
-                gapdet1.innerHTML = cc.db[list[i].name].type;
-                line1.push(gapdet1);
+            var gapdet1 = document.createElement("div");
+            gapdet1.innerHTML = cc.db[list[i].name].type;
+            line1.push(gapdet1);
 
-                var gapdet2 = document.createElement("div");
-                line1.push(gapdet2);
+            var gapdet2 = document.createElement("div");
+            line1.push(gapdet2);
 
-                var gapdet3 = document.createElement("div");
-                line1.push(gapdet3);
+            var gapdet3 = document.createElement("div");
+            line1.push(gapdet3);
 
-                var gapdet4 = document.createElement("div");
-                line1.push(gapdet4);
+            var gapdet4 = document.createElement("div");
+            line1.push(gapdet4);
 
-                var gapdet5 = document.createElement("div");
-                line1.push(gapdet5);
+            var gapdet5 = document.createElement("div");
+            line1.push(gapdet5);
 
-                var gapdet6 = document.createElement("div");
-                line1.push(gapdet6);
+            var gapdet6 = document.createElement("div");
+            line1.push(gapdet6);
 
-                line1.forEach(function (it, k) {
-                    it.style.backgroundColor = "#777777";
-                    queueListDetailed.appendChild(it);
-                });
+            line1.forEach(function (it, k) {
+                it.style.backgroundColor = "#777777";
+                queueListDetailed.appendChild(it);
+            });
 
-                line2 = [];
-                var gap4 = document.createElement("div");
-                gap4.innerHTML = cc.db[list[i].name].type;
-                gap4.style.padding = "0 0 0 5px";
-                line2.push(gap4);
+            line2 = [];
+            var gap4 = document.createElement("div");
+            gap4.innerHTML = cc.db[list[i].name].type;
+            gap4.style.padding = "0 0 0 5px";
+            line2.push(gap4);
 
-                var gap5 = document.createElement("div");
-                line2.push(gap5);
+            var gap5 = document.createElement("div");
+            line2.push(gap5);
 
-                var gap6 = document.createElement("div");
-                line2.push(gap6);
+            var gap6 = document.createElement("div");
+            line2.push(gap6);
 
-                var gap7 = document.createElement("div");
-                line2.push(gap7);
+            var gap7 = document.createElement("div");
+            line2.push(gap7);
 
-                line2.forEach(function (it, k) {
-                    it.style.backgroundColor = "#777777";
-                    it.style["border-radius"] = "3px";
-                    queueList.appendChild(it);
-                });
-            }
+            line2.forEach(function (it, k) {
+                it.style.backgroundColor = "#777777";
+                it.style["border-radius"] = "3px";
+                queueList.appendChild(it);
+            });
+
+            typeLast = typeNew;
         }
 
         const quantityFractionDigits = ["Ore", "Pure", "Product", "Catalyst"].includes(list[i].type) ? 2 : 0;
