@@ -336,7 +336,7 @@ function calculate() {
         }
 
         const quantityFractionDigits = ["Ore", "Pure", "Product", "Catalyst"].includes(list[i].type) ? 2 : 0;
-        if (list[i].type === "Ore") {
+        if (list[i].type === "Ore" || list[i].type === "Relic") {
             var item = document.createElement("div");
             item.classList.add("ore-item");
             item.innerHTML = cc.trans(language, list[i].name);

@@ -477,7 +477,22 @@
           }
         ]
       },
-      "Warp Cell"
+      "Warp Cell",
+      {
+        "name": "Relic Plasmas",
+        "data": [
+          "Relic Plasma Unus L",
+          "Relic Plasma Duo L",
+          "Relic Plasma Tres L",
+          "Relic Plasma Quattuor L",
+          "Relic Plasma Quinque L",
+          "Relic Plasma Sex L",
+          "Relic Plasma Septem L",
+          "Relic Plasma Octo L",
+          "Relic Plasma Novem L",
+          "Relic Plasma Decem L"
+        ]
+      }
     ]
   },
   {
