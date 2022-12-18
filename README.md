@@ -10,6 +10,9 @@ Currently in progress of syncing to game version 1.1.2
 - [x] Schematic talents
 - [x] All 10 Relic Plasma items
 
+## Changed
+- [x] Fonts to better fit longer names
+
 ## Recipes updated for following schematics
 - [x] Tier 1 XS Element Schematic
 - [x] Tier 1 S Element Schematic

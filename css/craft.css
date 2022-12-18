@@ -311,6 +311,10 @@ body {
     padding-right: 5%;
 }
 
+.ore-item, .cft-item, .inv-item, .queue-item, .queue-industry {
+    font-family: Roboto, serif;
+}
+
 .quantity-color {
 
 }
