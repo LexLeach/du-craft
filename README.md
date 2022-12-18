@@ -35,6 +35,8 @@ Currently in progress of syncing to game version 1.1.2
 - [x] Tier 4 L Element Schematic
 - [x] Tier 4 XL Element Schematic
 
+- [x] Tier 5 XS Element Schematic
+
 - [x] Core Unit XS Schematic
 - [x] Core Unit S Schematic
 - [x] Core Unit M Schematic

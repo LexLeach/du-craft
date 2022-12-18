@@ -584,7 +584,10 @@
               "Rare Active Shield Generator L",
               "Rare Capacitor Shield Generator L",
               "Rare Variable Shield Generator L",
-              "Base Shield Generator XL"
+              "Base Shield Generator XL",
+              "Exotic Active Shield Generator XS",
+              "Exotic Capacitor Shield Generator XS",
+              "Exotic Variable Shield Generator XS"
             ]
           },
           "Transponder XS",
@@ -1386,6 +1389,8 @@
                   "Rare Optimised Container L",
                   "Rare Gravity-Inverted Container XL",
                   "Rare Optimised Container XL",
+                  "Exotic Gravity-Inverted Container XS",
+                  "Exotic Optimised Container XS",
                   "Expanded Uncommon Gravity-Inverted Container XXL",
                   "Expanded Uncommon Optimised Container XXL",
                   "Expanded Advanced Gravity-Inverted Container XXL",
@@ -1669,7 +1674,11 @@
                       "Rare Freight Atmospheric Engine XS",
                       "Rare Maneuver Atmospheric Engine XS",
                       "Rare Military Atmospheric Engine XS",
-                      "Rare Safe Atmospheric Engine XS"
+                      "Rare Safe Atmospheric Engine XS",
+                      "Exotic Freight Atmospheric Engine XS",
+                      "Exotic Maneuver Atmospheric Engine XS",
+                      "Exotic Military Atmospheric Engine XS",
+                      "Exotic Safe Atmospheric Engine XS"
                     ]
                   },
                   {
@@ -1806,7 +1815,10 @@
                           "Advanced Military Vertical Booster XS",
                           "Rare Freight Vertical Booster XS",
                           "Rare Maneuver Vertical Booster XS",
-                          "Rare Military Vertical Booster XS"
+                          "Rare Military Vertical Booster XS",
+                          "Exotic Freight Vertical Booster XS",
+                          "Exotic Maneuver Vertical Booster XS",
+                          "Exotic Military Vertical Booster XS"
                         ]
                       },
                       {
@@ -1885,7 +1897,11 @@
                       "Rare Freight Space Engine XS",
                       "Rare Maneuver Space Engine XS",
                       "Rare Military Space Engine XS",
-                      "Rare Safe Space Engine XS"
+                      "Rare Safe Space Engine XS",
+                      "Exotic Freight Space Engine XS",
+                      "Exotic Maneuver Space Engine XS",
+                      "Exotic Military Space Engine XS",
+                      "Exotic Safe Space Engine XS"
                     ]
                   },
                   {
@@ -2312,7 +2328,8 @@
               "Basic Injector",
               "Uncommon Injector",
               "Advanced Injector",
-              "Rare Injector"
+              "Rare Injector",
+              "Exotic Injector"
             ]
           },
           {
@@ -2464,7 +2481,8 @@
               "Rare Combustion Chamber XS",
               "Rare Combustion Chamber S",
               "Rare Combustion Chamber M",
-              "Rare Combustion Chamber L"
+              "Rare Combustion Chamber L",
+              "Exotic Combustion Chamber XS"
             ]
           },
           {
@@ -2547,7 +2565,8 @@
               "Rare Ionic Chamber S",
               "Rare Ionic Chamber M",
               "Rare Ionic Chamber L",
-              "Rare Ionic Chamber XL"
+              "Rare Ionic Chamber XL",
+              "Exotic Ionic Chamber XS"
             ]
           },
           {
@@ -2641,7 +2660,8 @@
               "Rare Mobile Panel S",
               "Rare Mobile Panel M",
               "Rare Mobile Panel L",
-              "Rare Mobile Panel XL"
+              "Rare Mobile Panel XL",
+              "Exotic Mobile Panel S"
             ]
           },
           "Advanced Motherboard M",
