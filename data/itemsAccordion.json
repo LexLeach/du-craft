@@ -568,7 +568,8 @@
               "Rare Variable Shield Generator M",
               "Rare Active Shield Generator L",
               "Rare Capacitor Shield Generator L",
-              "Rare Variable Shield Generator L"
+              "Rare Variable Shield Generator L",
+              "Base Shield Generator XL"
             ]
           },
           "Transponder XS",
@@ -1368,10 +1369,14 @@
                   "Rare Optimised Container M",
                   "Rare Gravity-Inverted Container L",
                   "Rare Optimised Container L",
+                  "Rare Gravity-Inverted Container XL",
+                  "Rare Optimised Container XL",
                   "Expanded Uncommon Gravity-Inverted Container XXL",
                   "Expanded Uncommon Optimised Container XXL",
                   "Expanded Advanced Gravity-Inverted Container XXL",
-                  "Expanded Advanced Optimised Container XXL"
+                  "Expanded Advanced Optimised Container XXL",
+                  "Expanded Rare Gravity-Inverted Container XXL",
+                  "Expanded Rare Optimised Container XXL"
                 ]
               },
               {
