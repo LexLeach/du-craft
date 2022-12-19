@@ -587,7 +587,10 @@
               "Base Shield Generator XL",
               "Exotic Active Shield Generator XS",
               "Exotic Capacitor Shield Generator XS",
-              "Exotic Variable Shield Generator XS"
+              "Exotic Variable Shield Generator XS",
+              "Exotic Active Shield Generator S",
+              "Exotic Capacitor Shield Generator S",
+              "Exotic Variable Shield Generator S"
             ]
           },
           "Transponder XS",
@@ -1391,6 +1394,8 @@
                   "Rare Optimised Container XL",
                   "Exotic Gravity-Inverted Container XS",
                   "Exotic Optimised Container XS",
+                  "Exotic Gravity-Inverted Container S",
+                  "Exotic Optimised Container S",
                   "Expanded Uncommon Gravity-Inverted Container XXL",
                   "Expanded Uncommon Optimised Container XXL",
                   "Expanded Advanced Gravity-Inverted Container XXL",
@@ -1696,7 +1701,11 @@
                       "Rare Freight Atmospheric Engine S",
                       "Rare Maneuver Atmospheric Engine S",
                       "Rare Military Atmospheric Engine S",
-                      "Rare Safe Atmospheric Engine S"
+                      "Rare Safe Atmospheric Engine S",
+                      "Exotic Freight Atmospheric Engine S",
+                      "Exotic Maneuver Atmospheric Engine S",
+                      "Exotic Military Atmospheric Engine S",
+                      "Exotic Safe Atmospheric Engine S"
                     ]
                   },
                   {
@@ -1755,7 +1764,10 @@
                           "Advanced Military Hover Engine S",
                           "Rare Freight Hover Engine S",
                           "Rare Maneuver Hover Engine S",
-                          "Rare Military Hover Engine S"
+                          "Rare Military Hover Engine S",
+                          "Exotic Freight Hover Engine S",
+                          "Exotic Maneuver Hover Engine S",
+                          "Exotic Military Hover Engine S"
                         ]
                       },
                       {
@@ -1833,7 +1845,10 @@
                           "Advanced Military Vertical Booster S",
                           "Rare Freight Vertical Booster S",
                           "Rare Maneuver Vertical Booster S",
-                          "Rare Military Vertical Booster S"
+                          "Rare Military Vertical Booster S",
+                          "Exotic Freight Vertical Booster S",
+                          "Exotic Maneuver Vertical Booster S",
+                          "Exotic Military Vertical Booster S"
                         ]
                       },
                       { 
@@ -1919,7 +1934,11 @@
                       "Rare Freight Space Engine S",
                       "Rare Maneuver Space Engine S",
                       "Rare Military Space Engine S",
-                      "Rare Safe Space Engine S"
+                      "Rare Safe Space Engine S",
+                      "Exotic Freight Space Engine S",
+                      "Exotic Maneuver Space Engine S",
+                      "Exotic Military Space Engine S",
+                      "Exotic Safe Space Engine S"
                     ]
                   },
                   {
@@ -2482,7 +2501,8 @@
               "Rare Combustion Chamber S",
               "Rare Combustion Chamber M",
               "Rare Combustion Chamber L",
-              "Exotic Combustion Chamber XS"
+              "Exotic Combustion Chamber XS",
+              "Exotic Combustion Chamber S"
             ]
           },
           {
@@ -2540,7 +2560,19 @@
             "data": [
               "Basic Gas Cylinder XS",
               "Basic Gas Cylinder S",
-              "Basic Gas Cylinder M"
+              "Basic Gas Cylinder M",
+              "Uncommon Gas Cylinder S",
+              "Uncommon Gas Cylinder M",
+              "Uncommon Gas Cylinder L",
+              "Advanced Gas Cylinder S",
+              "Advanced Gas Cylinder M",
+              "Advanced Gas Cylinder L",
+              "Rare Gas Cylinder S",
+              "Rare Gas Cylinder M",
+              "Rare Gas Cylinder L",
+              "Exotic Gas Cylinder S",
+              "Exotic Gas Cylinder M",
+              "Exotic Gas Cylinder L"
             ]
           },
           {
@@ -2566,7 +2598,8 @@
               "Rare Ionic Chamber M",
               "Rare Ionic Chamber L",
               "Rare Ionic Chamber XL",
-              "Exotic Ionic Chamber XS"
+              "Exotic Ionic Chamber XS",
+              "Exotic Ionic Chamber S"
             ]
           },
           {
@@ -2661,7 +2694,8 @@
               "Rare Mobile Panel M",
               "Rare Mobile Panel L",
               "Rare Mobile Panel XL",
-              "Exotic Mobile Panel S"
+              "Exotic Mobile Panel S",
+              "Exotic Mobile Panel M"
             ]
           },
           "Advanced Motherboard M",
