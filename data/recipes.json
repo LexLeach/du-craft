@@ -5298,6 +5298,22 @@
       "Exotic Magnet": 50
     }
   },
+  "Exotic Ionic Chamber XL": {
+    "tier": 5,
+    "type": "Functional Part",
+    "volume": 6006.69,
+    "outputQuantity": 1,
+    "time": 1245600,
+    "byproducts": {},
+    "industry": "Metalwork Industry M",
+    "input": {
+      "Advanced Connector": 625,
+      "Advanced Magnet": 188,
+      "Rare Magnet": 188,
+      "Mangalloy": 2401,
+      "Exotic Magnet": 250
+    }
+  },
   "Basic Laser Chamber S": {
     "tier": 1,
     "type": "Functional Part",
@@ -6455,6 +6471,22 @@
       "Rare Hydraulics": 38,
       "Grade 5 Titanium Alloy": 343,
       "Exotic Hydraulics": 50
+    }
+  },
+  "Exotic Mobile Panel XL": {
+    "tier": 5,
+    "type": "Functional Part",
+    "volume": 7428.8,
+    "outputQuantity": 1,
+    "time": 1245600,
+    "byproducts": {},
+    "industry": "Metalwork Industry M",
+    "input": {
+      "Advanced Screw": 625,
+      "Advanced Hydraulics": 188,
+      "Rare Hydraulics": 188,
+      "Grade 5 Titanium Alloy": 2401,
+      "Exotic Hydraulics": 250
     }
   },
   "Advanced Motherboard M": {
@@ -7736,6 +7768,19 @@
       "Grade 5 Titanium Alloy": 343
     }
   },
+  "Exotic Standard Frame XL": {
+    "tier": 5,
+    "type": "Structural Part",
+    "volume": 3602,
+    "outputQuantity": 1,
+    "time": 828000,
+    "byproducts": {},
+    "industry": "Metalwork Industry M",
+    "input": {
+      "Silumin": 1201,
+      "Grade 5 Titanium Alloy": 2401
+    }
+  },
   "Dynamic Core Unit XS": {
     "tier": 1,
     "type": "Planet Element",
@@ -8712,6 +8757,42 @@
       "Tier 4 XL Element Schematic Copy": 1
     }
   },
+  "Exotic Gravity-Inverted Container XL": {
+    "tier": 5,
+    "type": "Industry & Infrastructure Element",
+    "volume": 10500,
+    "outputQuantity": 1,
+    "time": 3110400,
+    "byproducts": {},
+    "industry": "Assembly Line XL",
+    "input": {
+      "Advanced Screw": 1296,
+      "Exotic Hydraulics": 625,
+      "Exotic Mobile Panel XL": 1,
+      "Exotic Anti-Gravity Core": 256,
+      "Exotic Standard Frame XL": 1,
+      "Relic Plasma Octo L": 1,
+      "Tier 5 XL Element Schematic Copy": 1
+    }
+  },
+  "Exotic Optimised Container XL": {
+    "tier": 5,
+    "type": "Industry & Infrastructure Element",
+    "volume": 10500,
+    "outputQuantity": 1,
+    "time": 3110400,
+    "byproducts": {},
+    "industry": "Assembly Line XL",
+    "input": {
+      "Advanced Screw": 1296,
+      "Exotic Hydraulics": 625,
+      "Exotic Mobile Panel XL": 1,
+      "Exotic Quantum Alignment Unit": 256,
+      "Exotic Standard Frame XL": 1,
+      "Relic Plasma Octo L": 1,
+      "Tier 5 XL Element Schematic Copy": 1
+    }
+  },
   "Expanded Uncommon Gravity-Inverted Container XXL": {
     "tier": 2,
     "type": "Industry & Infrastructure Element",
@@ -8814,6 +8895,42 @@
       "Rare Quantum Alignment Unit": 512,
       "Rare Standard Frame XL": 2,
       "Tier 4 XL Element Schematic Copy": 1
+    }
+  },
+  "Expanded Exotic Gravity-Inverted Container XXL": {
+    "tier": 5,
+    "type": "Industry & Infrastructure Element",
+    "volume": 21000,
+    "outputQuantity": 1,
+    "time": 6220800,
+    "byproducts": {},
+    "industry": "Assembly Line XL",
+    "input": {
+      "Advanced Screw": 2592,
+      "Exotic Hydraulics": 1250,
+      "Exotic Mobile Panel XL": 2,
+      "Exotic Anti-Gravity Core": 512,
+      "Exotic Standard Frame XL": 2,
+      "Relic Plasma Octo L": 2,
+      "Tier 5 XL Element Schematic Copy": 1
+    }
+  },
+  "Expanded Exotic Optimised Container XXL": {
+    "tier": 5,
+    "type": "Industry & Infrastructure Element",
+    "volume": 21000,
+    "outputQuantity": 1,
+    "time": 6220800,
+    "byproducts": {},
+    "industry": "Assembly Line XL",
+    "input": {
+      "Advanced Screw": 2592,
+      "Exotic Hydraulics": 1250,
+      "Exotic Mobile Panel XL": 2,
+      "Exotic Quantum Alignment Unit": 512,
+      "Exotic Standard Frame XL": 2,
+      "Relic Plasma Octo L": 2,
+      "Tier 5 XL Element Schematic Copy": 1
     }
   },
   "Parcel Container XS": {
@@ -12964,6 +13081,74 @@
       "Rare Ionic Chamber XL": 1,
       "Rare Reinforced Frame XL": 1,
       "Tier 4 XL Element Schematic Copy": 1
+    }
+  },
+  "Exotic Freight Space Engine XL": {
+    "tier": 5,
+    "type": "Piloting Element",
+    "volume": 17150,
+    "outputQuantity": 1,
+    "time": 2487600,
+    "byproducts": {},
+    "industry": "Assembly Line XL",
+    "input": {
+      "Advanced Screw": 1296,
+      "Exotic Burner": 625,
+      "Exotic Ionic Chamber XL": 1,
+      "Exotic Reinforced Frame XL": 1,
+      "Relic Plasma Unus L": 1,
+      "Tier 5 XL Element Schematic Copy": 1
+    }
+  },
+  "Exotic Maneuver Space Engine XL": {
+    "tier": 5,
+    "type": "Piloting Element",
+    "volume": 17150,
+    "outputQuantity": 1,
+    "time": 2487600,
+    "byproducts": {},
+    "industry": "Assembly Line XL",
+    "input": {
+      "Advanced Screw": 1296,
+      "Exotic Burner": 625,
+      "Exotic Ionic Chamber XL": 1,
+      "Exotic Reinforced Frame XL": 1,
+      "Relic Plasma Unus L": 1,
+      "Tier 5 XL Element Schematic Copy": 1
+    }
+  },
+  "Exotic Military Space Engine XL": {
+    "tier": 5,
+    "type": "Piloting Element",
+    "volume": 17150,
+    "outputQuantity": 1,
+    "time": 2487600,
+    "byproducts": {},
+    "industry": "Assembly Line XL",
+    "input": {
+      "Advanced Screw": 1296,
+      "Exotic Burner": 625,
+      "Exotic Ionic Chamber XL": 1,
+      "Exotic Reinforced Frame XL": 1,
+      "Relic Plasma Unus L": 1,
+      "Tier 5 XL Element Schematic Copy": 1
+    }
+  },
+  "Exotic Safe Space Engine XL": {
+    "tier": 5,
+    "type": "Piloting Element",
+    "volume": 17150,
+    "outputQuantity": 1,
+    "time": 2487600,
+    "byproducts": {},
+    "industry": "Assembly Line XL",
+    "input": {
+      "Advanced Screw": 1296,
+      "Exotic Burner": 625,
+      "Exotic Ionic Chamber XL": 1,
+      "Exotic Reinforced Frame XL": 1,
+      "Relic Plasma Unus L": 1,
+      "Tier 5 XL Element Schematic Copy": 1
     }
   },
   "Basic Hover Engine S": {

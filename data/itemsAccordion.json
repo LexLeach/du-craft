@@ -1406,12 +1406,16 @@
                   "Exotic Optimised Container M",
                   "Exotic Gravity-Inverted Container L",
                   "Exotic Optimised Container L",
+                  "Exotic Gravity-Inverted Container XL",
+                  "Exotic Optimised Container XL",
                   "Expanded Uncommon Gravity-Inverted Container XXL",
                   "Expanded Uncommon Optimised Container XXL",
                   "Expanded Advanced Gravity-Inverted Container XXL",
                   "Expanded Advanced Optimised Container XXL",
                   "Expanded Rare Gravity-Inverted Container XXL",
-                  "Expanded Rare Optimised Container XXL"
+                  "Expanded Rare Optimised Container XXL",
+                  "Expanded Exotic Gravity-Inverted Container XXL",
+                  "Expanded Exotic Optimised Container XXL"
                 ]
               },
               {
@@ -2033,7 +2037,11 @@
                       "Rare Freight Space Engine XL",
                       "Rare Maneuver Space Engine XL",
                       "Rare Military Space Engine XL",
-                      "Rare Safe Space Engine XL"
+                      "Rare Safe Space Engine XL",
+                      "Exotic Freight Space Engine XL",
+                      "Exotic Maneuver Space Engine XL",
+                      "Exotic Military Space Engine XL",
+                      "Exotic Safe Space Engine XL"
                     ]
                   }
                 ]
@@ -2644,7 +2652,8 @@
               "Exotic Ionic Chamber XS",
               "Exotic Ionic Chamber S",
               "Exotic Ionic Chamber M",
-              "Exotic Ionic Chamber L"
+              "Exotic Ionic Chamber L",
+              "Exotic Ionic Chamber XL"
             ]
           },
           {
@@ -2741,7 +2750,8 @@
               "Rare Mobile Panel XL",
               "Exotic Mobile Panel S",
               "Exotic Mobile Panel M",
-              "Exotic Mobile Panel L"
+              "Exotic Mobile Panel L",
+              "Exotic Mobile Panel XL"
             ]
           },
           "Advanced Motherboard M",
@@ -2914,13 +2924,16 @@
               "Advanced Standard Frame M",
               "Advanced Standard Frame L",
               "Advanced Standard Frame XL",
+              "Rare Standard Frame XS",
               "Rare Standard Frame S",
               "Rare Standard Frame M",
               "Rare Standard Frame L",
+              "Rare Standard Frame XL",
               "Exotic Standard Frame XS",
               "Exotic Standard Frame S",
               "Exotic Standard Frame M",
-              "Exotic Standard Frame L"
+              "Exotic Standard Frame L",
+              "Exotic Standard Frame XL"
             ]
           }
         ]
