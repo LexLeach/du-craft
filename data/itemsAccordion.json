@@ -593,7 +593,10 @@
               "Exotic Variable Shield Generator S",
               "Exotic Active Shield Generator M",
               "Exotic Capacitor Shield Generator M",
-              "Exotic Variable Shield Generator M"
+              "Exotic Variable Shield Generator M",
+              "Exotic Active Shield Generator L",
+              "Exotic Capacitor Shield Generator L",
+              "Exotic Variable Shield Generator L"
             ]
           },
           "Transponder XS",
@@ -1401,6 +1404,8 @@
                   "Exotic Optimised Container S",
                   "Exotic Gravity-Inverted Container M",
                   "Exotic Optimised Container M",
+                  "Exotic Gravity-Inverted Container L",
+                  "Exotic Optimised Container L",
                   "Expanded Uncommon Gravity-Inverted Container XXL",
                   "Expanded Uncommon Optimised Container XXL",
                   "Expanded Advanced Gravity-Inverted Container XXL",
@@ -1750,7 +1755,11 @@
                       "Rare Freight Atmospheric Engine L",
                       "Rare Maneuver Atmospheric Engine L",
                       "Rare Military Atmospheric Engine L",
-                      "Rare Safe Atmospheric Engine L"
+                      "Rare Safe Atmospheric Engine L",
+                      "Exotic Freight Atmospheric Engine L",
+                      "Exotic Maneuver Atmospheric Engine L",
+                      "Exotic Military Atmospheric Engine L",
+                      "Exotic Safe Atmospheric Engine L"
                     ]
                   }
                 ]
@@ -1819,7 +1828,13 @@
                           "Rare Military Flat Hover Engine L",
                           "Rare Freight Hover Engine L",
                           "Rare Maneuver Hover Engine L",
-                          "Rare Military Hover Engine L"
+                          "Rare Military Hover Engine L",
+                          "Exotic Freight Flat Hover Engine L",
+                          "Exotic Maneuver Flat Hover Engine L",
+                          "Exotic Military Flat Hover Engine L",
+                          "Exotic Freight Hover Engine L",
+                          "Exotic Maneuver Hover Engine L",
+                          "Exotic Military Hover Engine L"
                         ]
                       }
                     ]
@@ -1894,7 +1909,10 @@
                           "Advanced Military Vertical Booster L",
                           "Rare Freight Vertical Booster L",
                           "Rare Maneuver Vertical Booster L",
-                          "Rare Military Vertical Booster L"
+                          "Rare Military Vertical Booster L",
+                          "Exotic Freight Vertical Booster L",
+                          "Exotic Maneuver Vertical Booster L",
+                          "Exotic Military Vertical Booster L"
                         ]
                       }
                     ]
@@ -1993,7 +2011,11 @@
                       "Rare Freight Space Engine L",
                       "Rare Maneuver Space Engine L",
                       "Rare Military Space Engine L",
-                      "Rare Safe Space Engine L"
+                      "Rare Safe Space Engine L",
+                      "Exotic Freight Space Engine L",
+                      "Exotic Maneuver Space Engine L",
+                      "Exotic Military Space Engine L",
+                      "Exotic Safe Space Engine L"
                     ]
                   },
                   {
@@ -2522,7 +2544,8 @@
               "Rare Combustion Chamber L",
               "Exotic Combustion Chamber XS",
               "Exotic Combustion Chamber S",
-              "Exotic Combustion Chamber M"
+              "Exotic Combustion Chamber M",
+              "Exotic Combustion Chamber L"
             ]
           },
           {
@@ -2620,7 +2643,8 @@
               "Rare Ionic Chamber XL",
               "Exotic Ionic Chamber XS",
               "Exotic Ionic Chamber S",
-              "Exotic Ionic Chamber M"
+              "Exotic Ionic Chamber M",
+              "Exotic Ionic Chamber L"
             ]
           },
           {
