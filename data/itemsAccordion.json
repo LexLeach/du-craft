@@ -590,7 +590,10 @@
               "Exotic Variable Shield Generator XS",
               "Exotic Active Shield Generator S",
               "Exotic Capacitor Shield Generator S",
-              "Exotic Variable Shield Generator S"
+              "Exotic Variable Shield Generator S",
+              "Exotic Active Shield Generator M",
+              "Exotic Capacitor Shield Generator M",
+              "Exotic Variable Shield Generator M"
             ]
           },
           "Transponder XS",
@@ -1396,6 +1399,8 @@
                   "Exotic Optimised Container XS",
                   "Exotic Gravity-Inverted Container S",
                   "Exotic Optimised Container S",
+                  "Exotic Gravity-Inverted Container M",
+                  "Exotic Optimised Container M",
                   "Expanded Uncommon Gravity-Inverted Container XXL",
                   "Expanded Uncommon Optimised Container XXL",
                   "Expanded Advanced Gravity-Inverted Container XXL",
@@ -1723,7 +1728,11 @@
                       "Rare Freight Atmospheric Engine M",
                       "Rare Maneuver Atmospheric Engine M",
                       "Rare Military Atmospheric Engine M",
-                      "Rare Safe Atmospheric Engine M"
+                      "Rare Safe Atmospheric Engine M",
+                      "Exotic Freight Atmospheric Engine M",
+                      "Exotic Maneuver Atmospheric Engine M",
+                      "Exotic Military Atmospheric Engine M",
+                      "Exotic Safe Atmospheric Engine M"
                     ]
                   },
                   {
@@ -1782,7 +1791,10 @@
                           "Advanced Military Hover Engine M",
                           "Rare Freight Hover Engine M",
                           "Rare Maneuver Hover Engine M",
-                          "Rare Military Hover Engine M"
+                          "Rare Military Hover Engine M",
+                          "Exotic Freight Hover Engine M",
+                          "Exotic Maneuver Hover Engine M",
+                          "Exotic Military Hover Engine M"
                         ]
                       },
                       {
@@ -1863,7 +1875,10 @@
                           "Advanced Military Vertical Booster M",
                           "Rare Freight Vertical Booster M",
                           "Rare Maneuver Vertical Booster M",
-                          "Rare Military Vertical Booster M"
+                          "Rare Military Vertical Booster M",
+                          "Exotic Freight Vertical Booster M",
+                          "Exotic Maneuver Vertical Booster M",
+                          "Exotic Military Vertical Booster M"
                         ]
                       },
                       {
@@ -1956,7 +1971,11 @@
                       "Rare Freight Space Engine M",
                       "Rare Maneuver Space Engine M",
                       "Rare Military Space Engine M",
-                      "Rare Safe Space Engine M"
+                      "Rare Safe Space Engine M",
+                      "Exotic Freight Space Engine M",
+                      "Exotic Maneuver Space Engine M",
+                      "Exotic Military Space Engine M",
+                      "Exotic Safe Space Engine M"
                     ]
                   },
                   {
@@ -2502,7 +2521,8 @@
               "Rare Combustion Chamber M",
               "Rare Combustion Chamber L",
               "Exotic Combustion Chamber XS",
-              "Exotic Combustion Chamber S"
+              "Exotic Combustion Chamber S",
+              "Exotic Combustion Chamber M"
             ]
           },
           {
@@ -2599,7 +2619,8 @@
               "Rare Ionic Chamber L",
               "Rare Ionic Chamber XL",
               "Exotic Ionic Chamber XS",
-              "Exotic Ionic Chamber S"
+              "Exotic Ionic Chamber S",
+              "Exotic Ionic Chamber M"
             ]
           },
           {
@@ -2695,7 +2716,8 @@
               "Rare Mobile Panel L",
               "Rare Mobile Panel XL",
               "Exotic Mobile Panel S",
-              "Exotic Mobile Panel M"
+              "Exotic Mobile Panel M",
+              "Exotic Mobile Panel L"
             ]
           },
           "Advanced Motherboard M",
