@@ -4086,6 +4086,22 @@
       "Rare Burner": 2
     }
   },
+  "Exotic Combustion Chamber S": {
+    "tier": 5,
+    "type": "Functional Part",
+    "volume": 57.6,
+    "outputQuantity": 1,
+    "time": 138240,
+    "byproducts": {},
+    "industry": "Metalwork Industry M",
+    "input": {
+      "Advanced Pipe": 5,
+      "Advanced Burner": 2,
+      "Rare Burner": 2,
+      "Mangalloy": 7,
+      "Exotic Burner": 2
+    }
+  },
   "Rare Combustion Chamber M": {
     "tier": 4,
     "type": "Functional Part",
@@ -4686,6 +4702,23 @@
       "Rare Injector": 2
     }
   },
+  "Exotic Gas Cylinder S":
+  {
+    "tier": 5,
+    "type": "Functional Part",
+    "volume": 57.6,
+    "outputQuantity": 1,
+    "time": 138240,
+    "byproducts": {},
+    "industry": "Metalwork Industry M",
+    "input": {
+      "Advanced Screw": 5,
+      "Advanced Injector": 2,
+      "Rare Injector": 2,
+      "Grade 5 Titanium Alloy": 7,
+      "Exotic Injector": 2
+    }
+  },
   "Basic Gas Cylinder M": {
     "tier": 1,
     "type": "Functional Part",
@@ -5149,6 +5182,22 @@
       "Rare Magnet": 1,
       "Mangalloy": 1,
       "Exotic Magnet": 1
+    }
+  },
+  "Exotic Ionic Chamber S": {
+    "tier": 5,
+    "type": "Functional Part",
+    "volume": 44.13,
+    "outputQuantity": 1,
+    "time": 138240,
+    "byproducts": {},
+    "industry": "Metalwork Industry M",
+    "input": {
+      "Advanced Connector": 5,
+      "Advanced Magnet": 2,
+      "Rare Magnet": 2,
+      "Mangalloy": 7,
+      "Exotic Magnet": 2
     }
   },
   "Basic Laser Chamber S": {
@@ -6276,6 +6325,22 @@
       "Rare Hydraulics": 2,
       "Grade 5 Titanium Alloy": 7,
       "Exotic Hydraulics": 2
+    }
+  },
+  "Exotic Mobile Panel M": {
+    "tier": 5,
+    "type": "Functional Part",
+    "volume": 267.20,
+    "outputQuantity": 1,
+    "time": 138240,
+    "byproducts": {},
+    "industry": "Metalwork Industry M",
+    "input": {
+      "Advanced Screw": 25,
+      "Advanced Hydraulics": 8,
+      "Rare Hydraulics": 8,
+      "Grade 5 Titanium Alloy": 49,
+      "Exotic Hydraulics": 10
     }
   },
   "Advanced Motherboard M": {
@@ -8068,6 +8133,42 @@
       "Rare Quantum Alignment Unit": 16,
       "Rare Standard Frame M": 1,
       "Tier 4 S Element Schematic Copy": 1
+    }
+  },
+  "Exotic Gravity-Inverted Container S": {
+    "tier": 5,
+    "type": "Industry & Infrastructure Element",
+    "volume": 342,
+    "outputQuantity": 1,
+    "time": 194400,
+    "byproducts": {},
+    "industry": "Assembly Line M",
+    "input": {
+      "Advanced Screw": 36,
+      "Exotic Hydraulics": 25,
+      "Exotic Mobile Panel M": 1,
+      "Exotic Anti-Gravity Core": 16,
+      "Exotic Standard Frame M": 1,
+      "Relic Plasma Octo L": 1,
+      "Tier 5 S Element Schematic Copy": 1
+    }
+  },
+  "Exotic Optimised Container S": {
+    "tier": 5,
+    "type": "Industry & Infrastructure Element",
+    "volume": 342,
+    "outputQuantity": 1,
+    "time": 194400,
+    "byproducts": {},
+    "industry": "Assembly Line M",
+    "input": {
+      "Advanced Screw": 36,
+      "Exotic Hydraulics": 25,
+      "Exotic Mobile Panel M": 1,
+      "Exotic Quantum Alignment Unit": 16,
+      "Exotic Standard Frame M": 1,
+      "Relic Plasma Octo L": 1,
+      "Tier 5 S Element Schematic Copy": 1
     }
   },
   "Basic Container M": {
@@ -10689,6 +10790,74 @@
       "Tier 4 S Element Schematic Copy": 1
     }
   },
+  "Exotic Freight Atmospheric Engine S": {
+    "tier": 5,
+    "type": "Piloting Element",
+    "volume": 116.6,
+    "outputQuantity": 1,
+    "time": 38880,
+    "byproducts": {},
+    "industry": "Assembly Line S",
+    "input": {
+      "Advanced Screw": 6,
+      "Exotic Injector": 5,
+      "Exotic Combustion Chamber S": 1,
+      "Exotic Reinforced Frame S": 1,
+      "Relic Plasma Duo L": 1,
+      "Tier 5 S Element Schematic Copy": 1
+    }
+  },
+  "Exotic Maneuver Atmospheric Engine S": {
+    "tier": 5,
+    "type": "Piloting Element",
+    "volume": 116.6,
+    "outputQuantity": 1,
+    "time": 38880,
+    "byproducts": {},
+    "industry": "Assembly Line S",
+    "input": {
+      "Advanced Screw": 6,
+      "Exotic Injector": 5,
+      "Exotic Combustion Chamber S": 1,
+      "Exotic Reinforced Frame S": 1,
+      "Relic Plasma Duo L": 1,
+      "Tier 5 S Element Schematic Copy": 1
+    }
+  },
+  "Exotic Military Atmospheric Engine S": {
+    "tier": 5,
+    "type": "Piloting Element",
+    "volume": 116.6,
+    "outputQuantity": 1,
+    "time": 38880,
+    "byproducts": {},
+    "industry": "Assembly Line S",
+    "input": {
+      "Advanced Screw": 6,
+      "Exotic Injector": 5,
+      "Exotic Combustion Chamber S": 1,
+      "Exotic Reinforced Frame S": 1,
+      "Relic Plasma Duo L": 1,
+      "Tier 5 S Element Schematic Copy": 1
+    }
+  },
+  "Exotic Safe Atmospheric Engine S": {
+    "tier": 5,
+    "type": "Piloting Element",
+    "volume": 116.6,
+    "outputQuantity": 1,
+    "time": 38880,
+    "byproducts": {},
+    "industry": "Assembly Line S",
+    "input": {
+      "Advanced Screw": 6,
+      "Exotic Injector": 5,
+      "Exotic Combustion Chamber S": 1,
+      "Exotic Reinforced Frame S": 1,
+      "Relic Plasma Duo L": 1,
+      "Tier 5 S Element Schematic Copy": 1
+    }
+  },
   "Basic Atmospheric Engine M": {
     "tier": 1,
     "type": "Piloting Element",
@@ -11623,6 +11792,74 @@
       "Tier 4 S Element Schematic Copy": 1
     }
   },
+  "Exotic Freight Space Engine S": {
+    "tier": 5,
+    "type": "Piloting Element",
+    "volume": 105.20,
+    "outputQuantity": 1,
+    "time": 38880,
+    "byproducts": {},
+    "industry": "Assembly Line S",
+    "input": {
+      "Advanced Screw": 6,
+      "Exotic Injector": 5,
+      "Exotic Combustion Chamber S": 1,
+      "Exotic Reinforced Frame S": 1,
+      "Relic Plasma Unus L": 1,
+      "Tier 5 S Element Schematic Copy": 1
+    }
+  },
+  "Exotic Maneuver Space Engine S": {
+    "tier": 5,
+    "type": "Piloting Element",
+    "volume": 105.20,
+    "outputQuantity": 1,
+    "time": 38880,
+    "byproducts": {},
+    "industry": "Assembly Line S",
+    "input": {
+      "Advanced Screw": 6,
+      "Exotic Injector": 5,
+      "Exotic Combustion Chamber S": 1,
+      "Exotic Reinforced Frame S": 1,
+      "Relic Plasma Unus L": 1,
+      "Tier 5 S Element Schematic Copy": 1
+    }
+  },
+  "Exotic Military Space Engine S": {
+    "tier": 5,
+    "type": "Piloting Element",
+    "volume": 105.20,
+    "outputQuantity": 1,
+    "time": 38880,
+    "byproducts": {},
+    "industry": "Assembly Line S",
+    "input": {
+      "Advanced Screw": 6,
+      "Exotic Injector": 5,
+      "Exotic Combustion Chamber S": 1,
+      "Exotic Reinforced Frame S": 1,
+      "Relic Plasma Unus L": 1,
+      "Tier 5 S Element Schematic Copy": 1
+    }
+  },
+  "Exotic Safe Space Engine S": {
+    "tier": 5,
+    "type": "Piloting Element",
+    "volume": 105.20,
+    "outputQuantity": 1,
+    "time": 38880,
+    "byproducts": {},
+    "industry": "Assembly Line S",
+    "input": {
+      "Advanced Screw": 6,
+      "Exotic Injector": 5,
+      "Exotic Combustion Chamber S": 1,
+      "Exotic Reinforced Frame S": 1,
+      "Relic Plasma Unus L": 1,
+      "Tier 5 S Element Schematic Copy": 1
+    }
+  },
   "Basic Space Engine M": {
     "tier": 1,
     "type": "Piloting Element",
@@ -12436,6 +12673,57 @@
       "Rare Gas Cylinder S": 1,
       "Rare Reinforced Frame S": 1,
       "Tier 4 S Element Schematic Copy": 1
+    }
+  },
+  "Exotic Freight Hover Engine S": {
+    "tier": 5,
+    "type": "Piloting Element",
+    "volume": 22.6,
+    "outputQuantity": 1,
+    "time": 38880,
+    "byproducts": {},
+    "industry": "Assembly Line S",
+    "input": {
+      "Advanced Screw": 6,
+      "Exotic Injector": 5,
+      "Exotic Gas Cylinder S": 1,
+      "Exotic Reinforced Frame S": 1,
+      "Relic Plasma Tres L": 1,
+      "Tier 5 S Element Schematic Copy": 1
+    }
+  },
+  "Exotic Maneuver Hover Engine S": {
+    "tier": 5,
+    "type": "Piloting Element",
+    "volume": 22.6,
+    "outputQuantity": 1,
+    "time": 38880,
+    "byproducts": {},
+    "industry": "Assembly Line S",
+    "input": {
+      "Advanced Screw": 6,
+      "Exotic Injector": 5,
+      "Exotic Gas Cylinder S": 1,
+      "Exotic Reinforced Frame S": 1,
+      "Relic Plasma Tres L": 1,
+      "Tier 5 S Element Schematic Copy": 1
+    }
+  },
+  "Exotic Military Hover Engine S": {
+    "tier": 5,
+    "type": "Piloting Element",
+    "volume": 22.6,
+    "outputQuantity": 1,
+    "time": 38880,
+    "byproducts": {},
+    "industry": "Assembly Line S",
+    "input": {
+      "Advanced Screw": 6,
+      "Exotic Injector": 5,
+      "Exotic Gas Cylinder S": 1,
+      "Exotic Reinforced Frame S": 1,
+      "Relic Plasma Tres L": 1,
+      "Tier 5 S Element Schematic Copy": 1
     }
   },
   "Basic Hover Engine M": {
@@ -13513,6 +13801,57 @@
       "Rare Ionic Chamber S": 1,
       "Rare Standard Frame S": 1,
       "Tier 4 S Element Schematic Copy": 1
+    }
+  },
+  "Exotic Freight Vertical Booster S": {
+    "tier": 5,
+    "type": "Piloting Element",
+    "volume": 20.33,
+    "outputQuantity": 1,
+    "time": 38880,
+    "byproducts": {},
+    "industry": "Assembly Line S",
+    "input": {
+      "Advanced Pipe": 6,
+      "Exotic Injector": 5,
+      "Exotic Ionic Chamber S": 1,
+      "Exotic Standard Frame S": 1,
+      "Relic Plasma Tres L": 1,
+      "Tier 5 S Element Schematic Copy": 1
+    }
+  },
+  "Exotic Maneuver Vertical Booster S": {
+    "tier": 5,
+    "type": "Piloting Element",
+    "volume": 20.33,
+    "outputQuantity": 1,
+    "time": 38880,
+    "byproducts": {},
+    "industry": "Assembly Line S",
+    "input": {
+      "Advanced Pipe": 6,
+      "Exotic Injector": 5,
+      "Exotic Ionic Chamber S": 1,
+      "Exotic Standard Frame S": 1,
+      "Relic Plasma Tres L": 1,
+      "Tier 5 S Element Schematic Copy": 1
+    }
+  },
+  "Exotic Military Vertical Booster S": {
+    "tier": 5,
+    "type": "Piloting Element",
+    "volume": 20.33,
+    "outputQuantity": 1,
+    "time": 38880,
+    "byproducts": {},
+    "industry": "Assembly Line S",
+    "input": {
+      "Advanced Pipe": 6,
+      "Exotic Injector": 5,
+      "Exotic Ionic Chamber S": 1,
+      "Exotic Standard Frame S": 1,
+      "Relic Plasma Tres L": 1,
+      "Tier 5 S Element Schematic Copy": 1
     }
   },
   "Advanced Freight Vertical Booster M": {
@@ -15065,7 +15404,9 @@
       "Advanced LED": 6,
       "Exotic Magnet": 5,
       "Exotic Antenna S": 1,
-      "Exotic Standard Frame S": 1
+      "Exotic Standard Frame S": 1,
+      "Relic Plasma Decem L": 1,
+      "Tier 5 S Element Schematic Copy": 1
     }
   },
   "Exotic Protected Space Radar S": {
@@ -15080,7 +15421,9 @@
       "Advanced LED": 6,
       "Exotic Magnet": 5,
       "Exotic Antenna S": 1,
-      "Exotic Standard Frame S": 1
+      "Exotic Standard Frame S": 1,
+      "Relic Plasma Decem L": 1,
+      "Tier 5 S Element Schematic Copy": 1
     }
   },
   "Exotic Quick-Wired Space Radar S": {
@@ -15095,7 +15438,9 @@
       "Advanced LED": 6,
       "Exotic Magnet": 5,
       "Exotic Antenna S": 1,
-      "Exotic Standard Frame S": 1
+      "Exotic Standard Frame S": 1,
+      "Relic Plasma Decem L": 1,
+      "Tier 5 S Element Schematic Copy": 1
     }
   },
   "Space Radar M": {
@@ -15614,6 +15959,60 @@
       "Rare Quantum Barrier": 4,
       "Rare Reinforced Frame S": 1,
       "Tier 4 S Element Schematic Copy": 1
+    }
+  },
+  "Exotic Active Shield Generator S": {
+    "tier": 5,
+    "type": "Combat Element",
+    "volume": 608,
+    "outputQuantity": 1,
+    "time": 48600,
+    "byproducts": {},
+    "industry": "Assembly Line S",
+    "input": {
+      "Advanced Component": 6,
+      "Exotic Magnet": 5,
+      "Exotic Laser Chamber S": 1,
+      "Exotic Quantum Barrier": 4,
+      "Exotic Reinforced Frame S": 1,
+      "Relic Plasma Novem L": 1,
+      "Tier 5 S Element Schematic Copy": 1
+    }
+  },
+  "Exotic Capacitor Shield Generator S": {
+    "tier": 5,
+    "type": "Combat Element",
+    "volume": 950,
+    "outputQuantity": 1,
+    "time": 12180,
+    "byproducts": {},
+    "industry": "Assembly Line S",
+    "input": {
+      "Advanced Component": 6,
+      "Exotic Magnet": 5,
+      "Exotic Laser Chamber S": 1,
+      "Exotic Quantum Barrier": 4,
+      "Exotic Reinforced Frame S": 1,
+      "Relic Plasma Novem L": 1,
+      "Tier 5 S Element Schematic Copy": 1
+    }
+  },
+  "Exotic Variable Shield Generator S": {
+    "tier": 5,
+    "type": "Combat Element",
+    "volume": 950,
+    "outputQuantity": 1,
+    "time": 12180,
+    "byproducts": {},
+    "industry": "Assembly Line S",
+    "input": {
+      "Advanced Component": 6,
+      "Exotic Magnet": 5,
+      "Exotic Laser Chamber S": 1,
+      "Exotic Quantum Barrier": 4,
+      "Exotic Reinforced Frame S": 1,
+      "Relic Plasma Novem L": 1,
+      "Tier 5 S Element Schematic Copy": 1
     }
   },
   "Advanced Shield Generator M": {
@@ -19558,7 +19957,9 @@
       "Advanced Screw": 6,
       "Exotic Electronics": 5,
       "Exotic Firing System S": 1,
-      "Exotic Reinforced Frame S": 1
+      "Exotic Reinforced Frame S": 1,
+      "Relic Plasma Quattuor L": 1,
+      "Tier 5 S Element Schematic Copy": 1
     }
   },
   "Exotic Defense Cannon S": {
@@ -19573,7 +19974,9 @@
       "Advanced Screw": 6,
       "Exotic Electronics": 5,
       "Exotic Firing System S": 1,
-      "Exotic Reinforced Frame S": 1
+      "Exotic Reinforced Frame S": 1,
+      "Relic Plasma Quattuor L": 1,
+      "Tier 5 S Element Schematic Copy": 1
     }
   },
   "Exotic Heavy Cannon S": {
@@ -19588,7 +19991,9 @@
       "Advanced Screw": 6,
       "Exotic Electronics": 5,
       "Exotic Firing System S": 1,
-      "Exotic Reinforced Frame S": 1
+      "Exotic Reinforced Frame S": 1,
+      "Relic Plasma Quattuor L": 1,
+      "Tier 5 S Element Schematic Copy": 1
     }
   },
   "Exotic Precision Cannon S": {
@@ -19603,7 +20008,9 @@
       "Advanced Screw": 6,
       "Exotic Electronics": 5,
       "Exotic Firing System S": 1,
-      "Exotic Reinforced Frame S": 1
+      "Exotic Reinforced Frame S": 1,
+      "Relic Plasma Quattuor L": 1,
+      "Tier 5 S Element Schematic Copy": 1
     }
   },
   "Cannon M": {
@@ -20398,7 +20805,9 @@
       "Advanced Connector": 6,
       "Exotic Power System": 5,
       "Exotic Laser Chamber S": 1,
-      "Exotic Reinforced Frame S": 1
+      "Exotic Reinforced Frame S": 1,
+      "Relic Plasma Quinque L": 1,
+      "Tier 5 S Element Schematic Copy": 1
     }
   },
   "Exotic Defense Laser S": {
@@ -20413,7 +20822,9 @@
       "Advanced Connector": 6,
       "Exotic Power System": 5,
       "Exotic Laser Chamber S": 1,
-      "Exotic Reinforced Frame S": 1
+      "Exotic Reinforced Frame S": 1,
+      "Relic Plasma Quinque L": 1,
+      "Tier 5 S Element Schematic Copy": 1
     }
   },
   "Exotic Heavy Laser S": {
@@ -20428,7 +20839,9 @@
       "Advanced Connector": 6,
       "Exotic Power System": 5,
       "Exotic Laser Chamber S": 1,
-      "Exotic Reinforced Frame S": 1
+      "Exotic Reinforced Frame S": 1,
+      "Relic Plasma Quinque L": 1,
+      "Tier 5 S Element Schematic Copy": 1
     }
   },
   "Exotic Precision Laser S": {
@@ -20443,7 +20856,9 @@
       "Advanced Connector": 6,
       "Exotic Power System": 5,
       "Exotic Laser Chamber S": 1,
-      "Exotic Reinforced Frame S": 1
+      "Exotic Reinforced Frame S": 1,
+      "Relic Plasma Quinque L": 1,
+      "Tier 5 S Element Schematic Copy": 1
     }
   },
   "Laser M": {
@@ -21238,7 +21653,9 @@
       "Advanced Screw": 6,
       "Exotic Hydraulics": 5,
       "Exotic Missile Silo S": 1,
-      "Exotic Reinforced Frame S": 1
+      "Exotic Reinforced Frame S": 1,
+      "Relic Plasma Sex L": 1,
+      "Tier 5 S Element Schematic Copy": 1
     }
   },
   "Exotic Defense Missile S": {
@@ -21253,7 +21670,9 @@
       "Advanced Screw": 6,
       "Exotic Hydraulics": 5,
       "Exotic Missile Silo S": 1,
-      "Exotic Reinforced Frame S": 1
+      "Exotic Reinforced Frame S": 1,
+      "Relic Plasma Sex L": 1,
+      "Tier 5 S Element Schematic Copy": 1
     }
   },
   "Exotic Heavy Missile S": {
@@ -21268,7 +21687,9 @@
       "Advanced Screw": 6,
       "Exotic Hydraulics": 5,
       "Exotic Missile Silo S": 1,
-      "Exotic Reinforced Frame S": 1
+      "Exotic Reinforced Frame S": 1,
+      "Relic Plasma Sex L": 1,
+      "Tier 5 S Element Schematic Copy": 1
     }
   },
   "Exotic Precision Missile S": {
@@ -21283,7 +21704,9 @@
       "Advanced Screw": 6,
       "Exotic Hydraulics": 5,
       "Exotic Missile Silo S": 1,
-      "Exotic Reinforced Frame S": 1
+      "Exotic Reinforced Frame S": 1,
+      "Relic Plasma Sex L": 1,
+      "Tier 5 S Element Schematic Copy": 1
     }
   },
   "Missile M": {
@@ -22078,7 +22501,9 @@
       "Advanced Connector": 6,
       "Exotic Optics": 5,
       "Exotic Magnetic Rail S": 1,
-      "Exotic Reinforced Frame S": 1
+      "Exotic Reinforced Frame S": 1,
+      "Relic Plasma Septem L": 1,
+      "Tier 5 S Element Schematic Copy": 1
     }
   },
   "Exotic Defense Railgun S": {
@@ -22093,7 +22518,9 @@
       "Advanced Connector": 6,
       "Exotic Optics": 5,
       "Exotic Magnetic Rail S": 1,
-      "Exotic Reinforced Frame S": 1
+      "Exotic Reinforced Frame S": 1,
+      "Relic Plasma Septem L": 1,
+      "Tier 5 S Element Schematic Copy": 1
     }
   },
   "Exotic Heavy Railgun S": {
@@ -22108,7 +22535,9 @@
       "Advanced Connector": 6,
       "Exotic Optics": 5,
       "Exotic Magnetic Rail S": 1,
-      "Exotic Reinforced Frame S": 1
+      "Exotic Reinforced Frame S": 1,
+      "Relic Plasma Septem L": 1,
+      "Tier 5 S Element Schematic Copy": 1
     }
   },
   "Exotic Precision Railgun S": {
@@ -22123,7 +22552,9 @@
       "Advanced Connector": 6,
       "Exotic Optics": 5,
       "Exotic Magnetic Rail S": 1,
-      "Exotic Reinforced Frame S": 1
+      "Exotic Reinforced Frame S": 1,
+      "Relic Plasma Septem L": 1,
+      "Tier 5 S Element Schematic Copy": 1
     }
   },
   "Railgun M": {
