@@ -424,6 +424,15 @@
                 ]
               }
             ]
+          },
+          {
+            "name": "Stasis Ammo",
+            "data": [
+              "Stasis Ammo XS",
+              "Stasis Ammo S",
+              "Stasis Ammo M",
+              "Stasis Ammo L"
+            ]
           }
         ]
       },
