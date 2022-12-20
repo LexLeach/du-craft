@@ -26684,7 +26684,7 @@
     "tier": 4,
     "type": "Ammo",
     "subtype": "L",
-    "volume": 20,
+    "volume": 500,
     "outputQuantity": 40,
     "time": 6400,
     "byproducts": {},
