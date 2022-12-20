@@ -24185,7 +24185,8 @@
       "Advanced Solid Warhead": 1,
       "Uncommon Explosive Module": 1,
       "Al-Li Alloy": 1,
-      "Uncommon Reinforced Frame XS": 1
+      "Uncommon Reinforced Frame XS": 1,
+      "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
   "Cannon Defense Kinetic Ammo XS": {
@@ -24201,7 +24202,8 @@
       "Advanced Solid Warhead": 1,
       "Uncommon Explosive Module": 1,
       "Polysulfide Plastic": 1,
-      "Uncommon Reinforced Frame XS": 1
+      "Uncommon Reinforced Frame XS": 1,
+      "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
   "Cannon Heavy Kinetic Ammo XS": {
@@ -24217,7 +24219,8 @@
       "Advanced Solid Warhead": 1,
       "Uncommon Explosive Module": 1,
       "Inconel": 1,
-      "Uncommon Reinforced Frame XS": 1
+      "Uncommon Reinforced Frame XS": 1,
+      "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
   "Cannon Kinetic Ammo XS": {
@@ -24232,7 +24235,8 @@
     "input": {
       "Uncommon Solid Warhead": 1,
       "Basic Explosive Module": 1,
-      "Basic Reinforced Frame XS": 1
+      "Basic Reinforced Frame XS": 1,
+      "Tier 2 Ammo XS Schematic Copy": 1
     }
   },
   "Cannon Precision Kinetic Ammo XS": {
@@ -24248,7 +24252,8 @@
       "Advanced Solid Warhead": 1,
       "Uncommon Explosive Module": 1,
       "Ag-Li Reinforced Glass": 1,
-      "Uncommon Reinforced Frame XS": 1
+      "Uncommon Reinforced Frame XS": 1,
+      "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
   "Cannon Agile Thermic Ammo XS": {
@@ -24264,7 +24269,8 @@
       "Advanced Explosive Module": 1,
       "Uncommon Explosive Module": 1,
       "Al-Li Alloy": 1,
-      "Uncommon Reinforced Frame XS": 1
+      "Uncommon Reinforced Frame XS": 1,
+      "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
   "Cannon Defense Thermic Ammo XS": {
@@ -24280,7 +24286,8 @@
       "Advanced Explosive Module": 1,
       "Uncommon Explosive Module": 1,
       "Polysulfide Plastic": 1,
-      "Uncommon Reinforced Frame XS": 1
+      "Uncommon Reinforced Frame XS": 1,
+      "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
   "Cannon Heavy Thermic Ammo XS": {
@@ -24296,7 +24303,8 @@
       "Advanced Explosive Module": 1,
       "Uncommon Explosive Module": 1,
       "Inconel": 1,
-      "Uncommon Reinforced Frame XS": 1
+      "Uncommon Reinforced Frame XS": 1,
+      "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
   "Cannon Precision Thermic Ammo XS": {
@@ -24312,7 +24320,8 @@
       "Advanced Explosive Module": 1,
       "Uncommon Explosive Module": 1,
       "Ag-Li Reinforced Glass": 1,
-      "Uncommon Reinforced Frame XS": 1
+      "Uncommon Reinforced Frame XS": 1,
+      "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
   "Cannon Thermic Ammo XS": {
@@ -24327,7 +24336,8 @@
     "input": {
       "Uncommon Explosive Module": 1,
       "Basic Explosive Module": 1,
-      "Basic Reinforced Frame XS": 1
+      "Basic Reinforced Frame XS": 1,
+      "Tier 2 Ammo XS Schematic Copy": 1
     }
   },
   "Cannon Agile Kinetic Ammo S": {
@@ -24393,7 +24403,8 @@
     "input": {
       "Uncommon Solid Warhead": 2,
       "Basic Explosive Module": 2,
-      "Basic Reinforced Frame XS": 2
+      "Basic Reinforced Frame XS": 2,
+      "Tier 2 Ammo S Schematic Copy": 1
     }
   },
   "Cannon Precision Kinetic Ammo S": {
@@ -24493,7 +24504,8 @@
     "input": {
       "Uncommon Explosive Module": 2,
       "Basic Explosive Module": 2,
-      "Basic Reinforced Frame XS": 2
+      "Basic Reinforced Frame XS": 2,
+      "Tier 2 Ammo S Schematic Copy": 1
     }
   },
   "Cannon Agile Kinetic Ammo M": {
@@ -24508,7 +24520,8 @@
       "Advanced Solid Warhead": 4,
       "Uncommon Explosive Module": 4,
       "Al-Li Alloy": 4,
-      "Uncommon Reinforced Frame S": 1
+      "Uncommon Reinforced Frame S": 1,
+      "Tier 3 Ammo M Schematic Copy": 1
     }
   },
   "Cannon Defense Kinetic Ammo M": {
@@ -24524,7 +24537,8 @@
       "Advanced Solid Warhead": 4,
       "Uncommon Explosive Module": 4,
       "Polysulfide Plastic": 4,
-      "Uncommon Reinforced Frame S": 1
+      "Uncommon Reinforced Frame S": 1,
+      "Tier 3 Ammo M Schematic Copy": 1
     }
   },
   "Cannon Heavy Kinetic Ammo M": {
@@ -24540,7 +24554,8 @@
       "Advanced Solid Warhead": 4,
       "Uncommon Explosive Module": 4,
       "Inconel": 4,
-      "Uncommon Reinforced Frame S": 1
+      "Uncommon Reinforced Frame S": 1,
+      "Tier 3 Ammo M Schematic Copy": 1
     }
   },
   "Cannon Kinetic Ammo M": {
@@ -24555,7 +24570,8 @@
     "input": {
       "Uncommon Solid Warhead": 4,
       "Basic Explosive Module": 4,
-      "Basic Reinforced Frame S": 1
+      "Basic Reinforced Frame S": 1,
+      "Tier 2 Ammo M Schematic Copy": 1
     }
   },
   "Cannon Precision Kinetic Ammo M": {
@@ -24571,7 +24587,8 @@
       "Advanced Solid Warhead": 4,
       "Uncommon Explosive Module": 4,
       "Ag-Li Reinforced Glass": 4,
-      "Uncommon Reinforced Frame S": 1
+      "Uncommon Reinforced Frame S": 1,
+      "Tier 3 Ammo M Schematic Copy": 1
     }
   },
   "Cannon Agile Thermic Ammo M": {
@@ -24587,7 +24604,8 @@
       "Advanced Explosive Module": 4,
       "Uncommon Explosive Module": 4,
       "Al-Li Alloy": 4,
-      "Uncommon Reinforced Frame S": 1
+      "Uncommon Reinforced Frame S": 1,
+      "Tier 3 Ammo M Schematic Copy": 1
     }
   },
   "Cannon Defense Thermic Ammo M": {
@@ -24603,7 +24621,8 @@
       "Advanced Explosive Module": 4,
       "Uncommon Explosive Module": 4,
       "Polysulfide Plastic": 4,
-      "Uncommon Reinforced Frame S": 1
+      "Uncommon Reinforced Frame S": 1,
+      "Tier 3 Ammo M Schematic Copy": 1
     }
   },
   "Cannon Heavy Thermic Ammo M": {
@@ -24619,7 +24638,8 @@
       "Advanced Explosive Module": 4,
       "Uncommon Explosive Module": 4,
       "Inconel": 4,
-      "Uncommon Reinforced Frame S": 1
+      "Uncommon Reinforced Frame S": 1,
+      "Tier 3 Ammo M Schematic Copy": 1
     }
   },
   "Cannon Precision Thermic Ammo M": {
@@ -24635,7 +24655,8 @@
       "Advanced Explosive Module": 4,
       "Uncommon Explosive Module": 4,
       "Ag-Li Reinforced Glass": 4,
-      "Uncommon Reinforced Frame S": 1
+      "Uncommon Reinforced Frame S": 1,
+      "Tier 3 Ammo M Schematic Copy": 1
     }
   },
   "Cannon Thermic Ammo M": {
@@ -24650,7 +24671,8 @@
     "input": {
       "Uncommon Explosive Module": 4,
       "Basic Explosive Module": 4,
-      "Basic Reinforced Frame S": 1
+      "Basic Reinforced Frame S": 1,
+      "Tier 2 Ammo M Schematic Copy": 1
     }
   },
   "Cannon Agile Kinetic Ammo L": {
@@ -24666,7 +24688,8 @@
       "Advanced Solid Warhead": 8,
       "Uncommon Explosive Module": 8,
       "Al-Li Alloy": 8,
-      "Uncommon Reinforced Frame S": 2
+      "Uncommon Reinforced Frame S": 2,
+      "Tier 3 Ammo L Schematic Copy": 1
     }
   },
   "Cannon Defense Kinetic Ammo L": {
@@ -24682,7 +24705,8 @@
       "Advanced Solid Warhead": 8,
       "Uncommon Explosive Module": 8,
       "Polysulfide Plastic": 8,
-      "Uncommon Reinforced Frame S": 2
+      "Uncommon Reinforced Frame S": 2,
+      "Tier 3 Ammo L Schematic Copy": 1
     }
   },
   "Cannon Heavy Kinetic Ammo L": {
@@ -24698,7 +24722,8 @@
       "Advanced Solid Warhead": 8,
       "Uncommon Explosive Module": 8,
       "Inconel": 8,
-      "Uncommon Reinforced Frame S": 2
+      "Uncommon Reinforced Frame S": 2,
+      "Tier 3 Ammo L Schematic Copy": 1
     }
   },
   "Cannon Kinetic Ammo L": {
@@ -24713,7 +24738,8 @@
     "input": {
       "Uncommon Solid Warhead": 8,
       "Basic Explosive Module": 8,
-      "Basic Reinforced Frame S": 2
+      "Basic Reinforced Frame S": 2,
+      "Tier 2 Ammo L Schematic Copy": 1
     }
   },
   "Cannon Precision Kinetic Ammo L": {
@@ -24729,7 +24755,8 @@
       "Advanced Solid Warhead": 8,
       "Uncommon Explosive Module": 8,
       "Ag-Li Reinforced Glass": 8,
-      "Uncommon Reinforced Frame S": 2
+      "Uncommon Reinforced Frame S": 2,
+      "Tier 3 Ammo L Schematic Copy": 1
     }
   },
   "Cannon Agile Thermic Ammo L": {
@@ -24745,7 +24772,8 @@
       "Advanced Explosive Module": 8,
       "Uncommon Explosive Module": 8,
       "Al-Li Alloy": 8,
-      "Uncommon Reinforced Frame S": 2
+      "Uncommon Reinforced Frame S": 2,
+      "Tier 3 Ammo L Schematic Copy": 1
     }
   },
   "Cannon Defense Thermic Ammo L": {
@@ -24761,7 +24789,8 @@
       "Advanced Explosive Module": 8,
       "Uncommon Explosive Module": 8,
       "Polysulfide Plastic": 8,
-      "Uncommon Reinforced Frame S": 2
+      "Uncommon Reinforced Frame S": 2,
+      "Tier 3 Ammo L Schematic Copy": 1
     }
   },
   "Cannon Heavy Thermic Ammo L": {
@@ -24777,7 +24806,8 @@
       "Advanced Explosive Module": 8,
       "Uncommon Explosive Module": 8,
       "Inconel": 8,
-      "Uncommon Reinforced Frame S": 2
+      "Uncommon Reinforced Frame S": 2,
+      "Tier 3 Ammo L Schematic Copy": 1
     }
   },
   "Cannon Precision Thermic Ammo L": {
@@ -24793,7 +24823,8 @@
       "Advanced Explosive Module": 8,
       "Uncommon Explosive Module": 8,
       "Ag-Li Reinforced Glass": 8,
-      "Uncommon Reinforced Frame S": 2
+      "Uncommon Reinforced Frame S": 2,
+      "Tier 3 Ammo L Schematic Copy": 1
     }
   },
   "Cannon Thermic Ammo L": {
@@ -24808,7 +24839,8 @@
     "input": {
       "Uncommon Explosive Module": 8,
       "Basic Explosive Module": 8,
-      "Basic Reinforced Frame S": 2
+      "Basic Reinforced Frame S": 2,
+      "Tier 2 Ammo L Schematic Copy": 1
     }
   },
   "Laser Agile Electromagnetic Ammo XS": {
@@ -24824,7 +24856,8 @@
       "Advanced Magnet": 1,
       "Uncommon Optics": 1,
       "Al-Li Alloy": 1,
-      "Uncommon Casing S": 1
+      "Uncommon Casing S": 1,
+      "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
   "Laser Defense Electromagnetic Ammo XS": {
@@ -24840,7 +24873,8 @@
       "Advanced Magnet": 1,
       "Uncommon Optics": 1,
       "Polysulfide Plastic": 1,
-      "Uncommon Casing S": 1
+      "Uncommon Casing S": 1,
+      "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
   "Laser Electromagnetic Ammo XS": {
@@ -24855,7 +24889,8 @@
     "input": {
       "Uncommon Magnet": 1,
       "Basic Optics": 1,
-      "Basic Casing XS": 1
+      "Basic Casing XS": 1,
+      "Tier 2 Ammo XS Schematic Copy": 1
     }
   },
   "Laser Heavy Electromagnetic Ammo XS": {
@@ -24871,7 +24906,8 @@
       "Advanced Magnet": 1,
       "Uncommon Optics": 1,
       "Inconel": 1,
-      "Uncommon Casing XS": 1
+      "Uncommon Casing XS": 1,
+      "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
   "Laser Precision Electromagnetic Ammo XS": {
@@ -24887,7 +24923,8 @@
       "Advanced Magnet": 1,
       "Uncommon Optics": 1,
       "Ag-Li Reinforced Glass": 1,
-      "Uncommon Casing XS": 1
+      "Uncommon Casing XS": 1,
+      "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
   "Laser Agile Thermic Ammo XS": {
@@ -24903,7 +24940,8 @@
       "Advanced Explosive Module": 1,
       "Uncommon Optics": 1,
       "Al-Li Alloy": 1,
-      "Uncommon Casing XS": 1
+      "Uncommon Casing XS": 1,
+      "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
   "Laser Defense Thermic Ammo XS": {
@@ -24919,7 +24957,8 @@
       "Advanced Explosive Module": 1,
       "Uncommon Optics": 1,
       "Polysulfide Plastic": 1,
-      "Uncommon Casing XS": 1
+      "Uncommon Casing XS": 1,
+      "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
   "Laser Heavy Thermic Ammo XS": {
@@ -24935,7 +24974,8 @@
       "Advanced Explosive Module": 1,
       "Uncommon Optics": 1,
       "Inconel": 1,
-      "Uncommon Casing XS": 1
+      "Uncommon Casing XS": 1,
+      "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
   "Laser Precision Thermic Ammo XS": {
@@ -24951,7 +24991,8 @@
       "Advanced Explosive Module": 1,
       "Uncommon Optics": 1,
       "Ag-Li Reinforced Glass": 1,
-      "Uncommon Casing XS": 1
+      "Uncommon Casing XS": 1,
+      "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
   "Laser Thermic Ammo XS": {
@@ -24966,7 +25007,8 @@
     "input": {
       "Uncommon Explosive Module": 1,
       "Basic Optics": 1,
-      "Basic Casing XS": 1
+      "Basic Casing XS": 1,
+      "Tier 2 Ammo XS Schematic Copy": 1
     }
   },
   "Laser Agile Electromagnetic Ammo S": {
@@ -24982,7 +25024,8 @@
       "Advanced Magnet": 2,
       "Uncommon Optics": 2,
       "Al-Li Alloy": 2,
-      "Uncommon Casing XS": 2
+      "Uncommon Casing XS": 2,
+      "Tier 3 Ammo S Schematic Copy": 1
     }
   },
   "Laser Defense Electromagnetic Ammo S": {
@@ -24998,7 +25041,8 @@
       "Advanced Magnet": 2,
       "Uncommon Optics": 2,
       "Polysulfide Plastic": 2,
-      "Uncommon Casing XS": 2
+      "Uncommon Casing XS": 2,
+      "Tier 3 Ammo S Schematic Copy": 1
     }
   },
   "Laser Electromagnetic Ammo S": {
@@ -25013,7 +25057,8 @@
     "input": {
       "Uncommon Magnet": 2,
       "Basic Optics": 2,
-      "Basic Casing XS": 2
+      "Basic Casing XS": 2,
+      "Tier 2 Ammo S Schematic Copy": 1
     }
   },
   "Laser Heavy Electromagnetic Ammo S": {
@@ -25029,7 +25074,8 @@
       "Advanced Magnet": 2,
       "Uncommon Optics": 2,
       "Inconel": 2,
-      "Uncommon Casing XS": 2
+      "Uncommon Casing XS": 2,
+      "Tier 3 Ammo S Schematic Copy": 1
     }
   },
   "Laser Precision Electromagnetic Ammo S": {
@@ -25045,7 +25091,8 @@
       "Advanced Magnet": 2,
       "Uncommon Optics": 2,
       "Ag-Li Reinforced Glass": 2,
-      "Uncommon Casing XS": 2
+      "Uncommon Casing XS": 2,
+      "Tier 3 Ammo S Schematic Copy": 1
     }
   },
   "Laser Agile Thermic Ammo S": {
@@ -25061,7 +25108,8 @@
       "Advanced Explosive Module": 2,
       "Uncommon Optics": 2,
       "Al-Li Alloy": 2,
-      "Uncommon Casing XS": 2
+      "Uncommon Casing XS": 2,
+      "Tier 3 Ammo S Schematic Copy": 1
     }
   },
   "Laser Defense Thermic Ammo S": {
@@ -25077,7 +25125,8 @@
       "Advanced Explosive Module": 2,
       "Uncommon Optics": 2,
       "Polysulfide Plastic": 2,
-      "Uncommon Casing XS": 2
+      "Uncommon Casing XS": 2,
+      "Tier 3 Ammo S Schematic Copy": 1
     }
   },
   "Laser Heavy Thermic Ammo S": {
@@ -25093,7 +25142,8 @@
       "Advanced Explosive Module": 2,
       "Uncommon Optics": 2,
       "Inconel": 2,
-      "Uncommon Casing XS": 2
+      "Uncommon Casing XS": 2,
+      "Tier 3 Ammo S Schematic Copy": 1
     }
   },
   "Laser Precision Thermic Ammo S": {
@@ -25109,7 +25159,8 @@
       "Advanced Explosive Module": 2,
       "Uncommon Optics": 2,
       "Ag-Li Reinforced Glass": 2,
-      "Uncommon Casing XS": 2
+      "Uncommon Casing XS": 2,
+      "Tier 3 Ammo S Schematic Copy": 1
     }
   },
   "Laser Thermic Ammo S": {
@@ -25124,7 +25175,8 @@
     "input": {
       "Uncommon Explosive Module": 2,
       "Basic Optics": 2,
-      "Basic Casing XS": 2
+      "Basic Casing XS": 2,
+      "Tier 2 Ammo S Schematic Copy": 1
     }
   },
   "Laser Agile Electromagnetic Ammo M": {
@@ -25140,7 +25192,8 @@
       "Advanced Magnet": 4,
       "Uncommon Optics": 4,
       "Al-Li Alloy": 4,
-      "Uncommon Casing S": 1
+      "Uncommon Casing S": 1,
+      "Tier 3 Ammo M Schematic Copy": 1
     }
   },
   "Laser Defense Electromagnetic Ammo M": {
@@ -25156,7 +25209,8 @@
       "Advanced Magnet": 4,
       "Uncommon Optics": 4,
       "Polysulfide Plastic": 4,
-      "Uncommon Casing S": 1
+      "Uncommon Casing S": 1,
+      "Tier 3 Ammo M Schematic Copy": 1
     }
   },
   "Laser Electromagnetic Ammo M": {
@@ -25171,7 +25225,8 @@
     "input": {
       "Uncommon Magnet": 4,
       "Basic Optics": 4,
-      "Basic Casing S": 1
+      "Basic Casing S": 1,
+      "Tier 2 Ammo M Schematic Copy": 1
     }
   },
   "Laser Heavy Electromagnetic Ammo M": {
@@ -25187,7 +25242,8 @@
       "Advanced Magnet": 4,
       "Uncommon Optics": 4,
       "Inconel": 4,
-      "Uncommon Casing S": 1
+      "Uncommon Casing S": 1,
+      "Tier 3 Ammo M Schematic Copy": 1
     }
   },
   "Laser Precision Electromagnetic Ammo M": {
@@ -25203,7 +25259,8 @@
       "Advanced Magnet": 4,
       "Uncommon Optics": 4,
       "Ag-Li Reinforced Glass": 4,
-      "Uncommon Casing S": 1
+      "Uncommon Casing S": 1,
+      "Tier 3 Ammo M Schematic Copy": 1
     }
   },
   "Laser Agile Thermic Ammo M": {
@@ -25219,7 +25276,8 @@
       "Advanced Explosive Module": 4,
       "Uncommon Optics": 4,
       "Al-Li Alloy": 4,
-      "Uncommon Casing S": 1
+      "Uncommon Casing S": 1,
+      "Tier 3 Ammo M Schematic Copy": 1
     }
   },
   "Laser Defense Thermic Ammo M": {
@@ -25235,7 +25293,8 @@
       "Advanced Explosive Module": 4,
       "Uncommon Optics": 4,
       "Polysulfide Plastic": 4,
-      "Uncommon Casing S": 1
+      "Uncommon Casing S": 1,
+      "Tier 3 Ammo M Schematic Copy": 1
     }
   },
   "Laser Heavy Thermic Ammo M": {
@@ -25251,7 +25310,8 @@
       "Advanced Explosive Module": 4,
       "Uncommon Optics": 4,
       "Inconel": 4,
-      "Uncommon Casing S": 1
+      "Uncommon Casing S": 1,
+      "Tier 3 Ammo M Schematic Copy": 1
     }
   },
   "Laser Precision Thermic Ammo M": {
@@ -25267,7 +25327,8 @@
       "Advanced Explosive Module": 4,
       "Uncommon Optics": 4,
       "Ag-Li Reinforced Glass": 4,
-      "Uncommon Casing S": 1
+      "Uncommon Casing S": 1,
+      "Tier 3 Ammo M Schematic Copy": 1
     }
   },
   "Laser Thermic Ammo M": {
@@ -25282,7 +25343,8 @@
     "input": {
       "Uncommon Explosive Module": 4,
       "Basic Optics": 4,
-      "Basic Casing S": 1
+      "Basic Casing S": 1,
+      "Tier 2 Ammo M Schematic Copy": 1
     }
   },
   "Laser Agile Electromagnetic Ammo L": {
@@ -25298,7 +25360,8 @@
       "Advanced Magnet": 8,
       "Uncommon Optics": 8,
       "Al-Li Alloy": 8,
-      "Uncommon Casing S": 1
+      "Uncommon Casing S": 1,
+      "Tier 3 Ammo L Schematic Copy": 1
     }
   },
   "Laser Defense Electromagnetic Ammo L": {
@@ -25314,7 +25377,8 @@
       "Advanced Magnet": 8,
       "Uncommon Optics": 8,
       "Polysulfide Plastic": 8,
-      "Uncommon Casing S": 1
+      "Uncommon Casing S": 1,
+      "Tier 3 Ammo L Schematic Copy": 1
     }
   },
   "Laser Electromagnetic Ammo L": {
@@ -25329,7 +25393,8 @@
     "input": {
       "Uncommon Magnet": 8,
       "Basic Optics": 8,
-      "Basic Casing S": 1
+      "Basic Casing S": 1,
+      "Tier 2 Ammo L Schematic Copy": 1
     }
   },
   "Laser Heavy Electromagnetic Ammo L": {
@@ -25345,7 +25410,8 @@
       "Advanced Magnet": 8,
       "Uncommon Optics": 8,
       "Inconel": 8,
-      "Uncommon Casing S": 1
+      "Uncommon Casing S": 1,
+      "Tier 3 Ammo L Schematic Copy": 1
     }
   },
   "Laser Precision Electromagnetic Ammo L": {
@@ -25361,7 +25427,8 @@
       "Advanced Magnet": 8,
       "Uncommon Optics": 8,
       "Ag-Li Reinforced Glass": 8,
-      "Uncommon Casing S": 1
+      "Uncommon Casing S": 1,
+      "Tier 3 Ammo L Schematic Copy": 1
     }
   },
   "Laser Agile Thermic Ammo L": {
@@ -25377,7 +25444,8 @@
       "Advanced Explosive Module": 8,
       "Uncommon Optics": 8,
       "Al-Li Alloy": 8,
-      "Uncommon Casing S": 1
+      "Uncommon Casing S": 1,
+      "Tier 3 Ammo L Schematic Copy": 1
     }
   },
   "Laser Defense Thermic Ammo L": {
@@ -25393,7 +25461,8 @@
       "Advanced Explosive Module": 8,
       "Uncommon Optics": 8,
       "Polysulfide Plastic": 8,
-      "Uncommon Casing S": 1
+      "Uncommon Casing S": 1,
+      "Tier 3 Ammo L Schematic Copy": 1
     }
   },
   "Laser Heavy Thermic Ammo L": {
@@ -25409,7 +25478,8 @@
       "Advanced Explosive Module": 8,
       "Uncommon Optics": 8,
       "Inconel": 8,
-      "Uncommon Casing S": 1
+      "Uncommon Casing S": 1,
+      "Tier 3 Ammo L Schematic Copy": 1
     }
   },
   "Laser Precision Thermic Ammo L": {
@@ -25425,7 +25495,8 @@
       "Advanced Explosive Module": 8,
       "Uncommon Optics": 8,
       "Ag-Li Reinforced Glass": 8,
-      "Uncommon Casing S": 1
+      "Uncommon Casing S": 1,
+      "Tier 3 Ammo L Schematic Copy": 1
     }
   },
   "Laser Thermic Ammo L": {
@@ -25440,7 +25511,8 @@
     "input": {
       "Uncommon Explosive Module": 8,
       "Basic Optics": 8,
-      "Basic Casing S": 1
+      "Basic Casing S": 1,
+      "Tier 2 Ammo L Schematic Copy": 1
     }
   },
   "Missile Agile Antimatter Ammo XS": {
@@ -25456,7 +25528,8 @@
       "Advanced Antimatter Capsule": 1,
       "Uncommon Processor": 1,
       "Al-Li Alloy": 1,
-      "Uncommon Standard Frame XS": 1
+      "Uncommon Standard Frame XS": 1,
+      "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
   "Missile Antimatter Ammo XS": {
@@ -25471,7 +25544,8 @@
     "input": {
       "Uncommon Antimatter Capsule": 1,
       "Basic Processor": 1,
-      "Basic Standard Frame XS": 1
+      "Basic Standard Frame XS": 1,
+      "Tier 2 Ammo XS Schematic Copy": 1
     }
   },
   "Missile Defense Antimatter Ammo XS": {
@@ -25487,7 +25561,8 @@
       "Advanced Antimatter Capsule": 1,
       "Uncommon Processor": 1,
       "Polysulfide Plastic": 1,
-      "Uncommon Standard Frame XS": 1
+      "Uncommon Standard Frame XS": 1,
+      "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
   "Missile Heavy Antimatter Ammo XS": {
@@ -25503,7 +25578,8 @@
       "Advanced Antimatter Capsule": 1,
       "Uncommon Processor": 1,
       "Inconel": 1,
-      "Uncommon Standard Frame XS": 1
+      "Uncommon Standard Frame XS": 1,
+      "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
   "Missile Precision Antimatter Ammo XS": {
@@ -25519,7 +25595,8 @@
       "Advanced Antimatter Capsule": 1,
       "Uncommon Processor": 1,
       "Ag-Li Reinforced Glass": 1,
-      "Uncommon Standard Frame XS": 1
+      "Uncommon Standard Frame XS": 1,
+      "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
   "Missile Agile Kinetic Ammo XS": {
@@ -25535,7 +25612,8 @@
       "Advanced Solid Warhead": 1,
       "Uncommon Processor": 1,
       "Al-Li Alloy": 1,
-      "Uncommon Standard Frame XS": 1
+      "Uncommon Standard Frame XS": 1,
+      "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
   "Missile Defense Kinetic Ammo XS": {
@@ -25551,7 +25629,8 @@
       "Advanced Solid Warhead": 1,
       "Uncommon Processor": 1,
       "Polysulfide Plastic": 1,
-      "Uncommon Standard Frame XS": 1
+      "Uncommon Standard Frame XS": 1,
+      "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
   "Missile Heavy Kinetic Ammo XS": {
@@ -25567,7 +25646,8 @@
       "Advanced Solid Warhead": 1,
       "Uncommon Processor": 1,
       "Inconel": 1,
-      "Uncommon Standard Frame XS": 1
+      "Uncommon Standard Frame XS": 1,
+      "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
   "Missile Kinetic Ammo XS": {
@@ -25582,7 +25662,8 @@
     "input": {
       "Uncommon Solid Warhead": 1,
       "Basic Processor": 2,
-      "Basic Standard Frame XS": 1
+      "Basic Standard Frame XS": 1,
+      "Tier 2 Ammo XS Schematic Copy": 1
     }
   },
   "Missile Precision Kinetic Ammo XS": {
@@ -25598,7 +25679,8 @@
       "Advanced Solid Warhead": 1,
       "Uncommon Processor": 1,
       "Ag-Li Reinforced Glass": 1,
-      "Uncommon Standard Frame XS": 1
+      "Uncommon Standard Frame XS": 1,
+      "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
   "Missile Agile Antimatter Ammo S": {
@@ -25614,7 +25696,8 @@
       "Advanced Antimatter Capsule": 2,
       "Uncommon Processor": 2,
       "Al-Li Alloy": 2,
-      "Uncommon Standard Frame XS": 2
+      "Uncommon Standard Frame XS": 2,
+      "Tier 3 Ammo S Schematic Copy": 1
     }
   },
   "Missile Antimatter Ammo S": {
@@ -25629,7 +25712,8 @@
     "input": {
       "Uncommon Antimatter Capsule": 2,
       "Basic Processor": 2,
-      "Basic Standard Frame XS": 2
+      "Basic Standard Frame XS": 2,
+      "Tier 2 Ammo S Schematic Copy": 1
     }
   },
   "Missile Defense Antimatter Ammo S": {
@@ -25645,7 +25729,8 @@
       "Advanced Antimatter Capsule": 2,
       "Uncommon Processor": 2,
       "Polysulfide Plastic": 2,
-      "Uncommon Standard Frame XS": 2
+      "Uncommon Standard Frame XS": 2,
+      "Tier 3 Ammo S Schematic Copy": 1
     }
   },
   "Missile Heavy Antimatter Ammo S": {
@@ -25661,7 +25746,8 @@
       "Advanced Antimatter Capsule": 2,
       "Uncommon Processor": 2,
       "Inconel": 2,
-      "Uncommon Standard Frame XS": 2
+      "Uncommon Standard Frame XS": 2,
+      "Tier 3 Ammo S Schematic Copy": 1
     }
   },
   "Missile Precision Antimatter Ammo S": {
@@ -25677,7 +25763,8 @@
       "Advanced Antimatter Capsule": 2,
       "Uncommon Processor": 2,
       "Ag-Li Reinforced Glass": 2,
-      "Uncommon Standard Frame XS": 2
+      "Uncommon Standard Frame XS": 2,
+      "Tier 3 Ammo S Schematic Copy": 1
     }
   },
   "Missile Agile Kinetic Ammo S": {
@@ -25693,7 +25780,8 @@
       "Advanced Solid Warhead": 2,
       "Uncommon Processor": 2,
       "Al-Li Alloy": 2,
-      "Uncommon Standard Frame XS": 2
+      "Uncommon Standard Frame XS": 2,
+      "Tier 3 Ammo S Schematic Copy": 1
     }
   },
   "Missile Defense Kinetic Ammo S": {
@@ -25709,7 +25797,8 @@
       "Advanced Solid Warhead": 2,
       "Uncommon Processor": 2,
       "Polysulfide Plastic": 2,
-      "Uncommon Standard Frame XS": 2
+      "Uncommon Standard Frame XS": 2,
+      "Tier 3 Ammo S Schematic Copy": 1
     }
   },
   "Missile Heavy Kinetic Ammo S": {
@@ -25725,7 +25814,8 @@
       "Advanced Solid Warhead": 2,
       "Uncommon Processor": 2,
       "Inconel": 2,
-      "Uncommon Standard Frame XS": 2
+      "Uncommon Standard Frame XS": 2,
+      "Tier 3 Ammo S Schematic Copy": 1
     }
   },
   "Missile Kinetic Ammo S": {
@@ -25740,7 +25830,8 @@
     "input": {
       "Uncommon Solid Warhead": 2,
       "Basic Processor": 2,
-      "Basic Standard Frame XS": 2
+      "Basic Standard Frame XS": 2,
+      "Tier 2 Ammo S Schematic Copy": 1
     }
   },
   "Missile Precision Kinetic Ammo S": {
@@ -25756,7 +25847,8 @@
       "Advanced Solid Warhead": 2,
       "Uncommon Processor": 2,
       "Ag-Li Reinforced Glass": 2,
-      "Uncommon Standard Frame XS": 2
+      "Uncommon Standard Frame XS": 2,
+      "Tier 3 Ammo S Schematic Copy": 1
     }
   },
   "Missile Agile Antimatter Ammo M": {
@@ -25772,7 +25864,8 @@
       "Advanced Antimatter Capsule": 4,
       "Uncommon Processor": 4,
       "Al-Li Alloy": 4,
-      "Uncommon Standard Frame S": 1
+      "Uncommon Standard Frame S": 1,
+      "Tier 3 Ammo M Schematic Copy": 1
     }
   },
   "Missile Antimatter Ammo M": {
@@ -25787,7 +25880,8 @@
     "input": {
       "Uncommon Antimatter Capsule": 4,
       "Basic Processor": 4,
-      "Basic Standard Frame S": 1
+      "Basic Standard Frame S": 1,
+      "Tier 2 Ammo M Schematic Copy": 1
     }
   },
   "Missile Defense Antimatter Ammo M": {
@@ -25803,7 +25897,8 @@
       "Advanced Antimatter Capsule": 4,
       "Uncommon Processor": 4,
       "Polysulfide Plastic": 4,
-      "Uncommon Standard Frame S": 1
+      "Uncommon Standard Frame S": 1,
+      "Tier 3 Ammo M Schematic Copy": 1
     }
   },
   "Missile Heavy Antimatter Ammo M": {
@@ -25819,7 +25914,8 @@
       "Advanced Antimatter Capsule": 4,
       "Uncommon Processor": 4,
       "Inconel": 4,
-      "Uncommon Standard Frame S": 1
+      "Uncommon Standard Frame S": 1,
+      "Tier 3 Ammo M Schematic Copy": 1
     }
   },
   "Missile Precision Antimatter Ammo M": {
@@ -25835,7 +25931,8 @@
       "Advanced Antimatter Capsule": 4,
       "Uncommon Processor": 4,
       "Ag-Li Reinforced Glass": 4,
-      "Uncommon Standard Frame S": 1
+      "Uncommon Standard Frame S": 1,
+      "Tier 3 Ammo M Schematic Copy": 1
     }
   },
   "Missile Agile Kinetic Ammo M": {
@@ -25851,7 +25948,8 @@
       "Advanced Solid Warhead": 4,
       "Uncommon Processor": 4,
       "Al-Li Alloy": 4,
-      "Uncommon Standard Frame S": 1
+      "Uncommon Standard Frame S": 1,
+      "Tier 3 Ammo M Schematic Copy": 1
     }
   },
   "Missile Defense Kinetic Ammo M": {
@@ -25867,7 +25965,8 @@
       "Advanced Solid Warhead": 4,
       "Uncommon Processor": 4,
       "Polysulfide Plastic": 4,
-      "Uncommon Standard Frame S": 1
+      "Uncommon Standard Frame S": 1,
+      "Tier 3 Ammo M Schematic Copy": 1
     }
   },
   "Missile Heavy Kinetic Ammo M": {
@@ -25883,7 +25982,8 @@
       "Advanced Solid Warhead": 4,
       "Uncommon Processor": 4,
       "Inconel": 4,
-      "Uncommon Standard Frame S": 1
+      "Uncommon Standard Frame S": 1,
+      "Tier 3 Ammo M Schematic Copy": 1
     }
   },
   "Missile Kinetic Ammo M": {
@@ -25898,7 +25998,8 @@
     "input": {
       "Uncommon Solid Warhead": 4,
       "Basic Processor": 4,
-      "Basic Standard Frame S": 1
+      "Basic Standard Frame S": 1,
+      "Tier 2 Ammo M Schematic Copy": 1
     }
   },
   "Missile Precision Kinetic Ammo M": {
@@ -25914,7 +26015,8 @@
       "Advanced Solid Warhead": 4,
       "Uncommon Processor": 4,
       "Ag-Li Reinforced Glass": 4,
-      "Uncommon Standard Frame S": 1
+      "Uncommon Standard Frame S": 1,
+      "Tier 3 Ammo M Schematic Copy": 1
     }
   },
   "Missile Agile Antimatter Ammo L": {
@@ -25930,7 +26032,8 @@
       "Advanced Antimatter Capsule": 8,
       "Uncommon Processor": 8,
       "Al-Li Alloy": 8,
-      "Uncommon Standard Frame S": 2
+      "Uncommon Standard Frame S": 2,
+      "Tier 3 Ammo L Schematic Copy": 1
     }
   },
   "Missile Antimatter Ammo L": {
@@ -25945,7 +26048,8 @@
     "input": {
       "Uncommon Antimatter Capsule": 8,
       "Basic Processor": 8,
-      "Basic Standard Frame S": 2
+      "Basic Standard Frame S": 2,
+      "Tier 2 Ammo L Schematic Copy": 1
     }
   },
   "Missile Defense Antimatter Ammo L": {
@@ -25961,7 +26065,8 @@
       "Advanced Antimatter Capsule": 8,
       "Uncommon Processor": 8,
       "Polysulfide Plastic": 8,
-      "Uncommon Standard Frame S": 2
+      "Uncommon Standard Frame S": 2,
+      "Tier 3 Ammo L Schematic Copy": 1
     }
   },
   "Missile Heavy Antimatter Ammo L": {
@@ -25977,7 +26082,8 @@
       "Advanced Antimatter Capsule": 8,
       "Uncommon Processor": 8,
       "Inconel": 8,
-      "Uncommon Standard Frame S": 2
+      "Uncommon Standard Frame S": 2,
+      "Tier 3 Ammo L Schematic Copy": 1
     }
   },
   "Missile Precision Antimatter Ammo L": {
@@ -25993,7 +26099,8 @@
       "Advanced Antimatter Capsule": 8,
       "Uncommon Processor": 8,
       "Ag-Li Reinforced Glass": 8,
-      "Uncommon Standard Frame S": 2
+      "Uncommon Standard Frame S": 2,
+      "Tier 3 Ammo L Schematic Copy": 1
     }
   },
   "Missile Agile Kinetic Ammo L": {
@@ -26009,7 +26116,8 @@
       "Advanced Solid Warhead": 8,
       "Uncommon Processor": 8,
       "Al-Li Alloy": 8,
-      "Uncommon Standard Frame S": 2
+      "Uncommon Standard Frame S": 2,
+      "Tier 3 Ammo L Schematic Copy": 1
     }
   },
   "Missile Defense Kinetic Ammo L": {
@@ -26025,7 +26133,8 @@
       "Advanced Solid Warhead": 8,
       "Uncommon Processor": 8,
       "Polysulfide Plastic": 8,
-      "Uncommon Standard Frame S": 2
+      "Uncommon Standard Frame S": 2,
+      "Tier 3 Ammo L Schematic Copy": 1
     }
   },
   "Missile Heavy Kinetic Ammo L": {
@@ -26041,7 +26150,8 @@
       "Advanced Solid Warhead": 8,
       "Uncommon Processor": 8,
       "Inconel": 8,
-      "Uncommon Standard Frame S": 2
+      "Uncommon Standard Frame S": 2,
+      "Tier 3 Ammo L Schematic Copy": 1
     }
   },
   "Missile Kinetic Ammo L": {
@@ -26056,7 +26166,8 @@
     "input": {
       "Uncommon Solid Warhead": 8,
       "Basic Processor": 8,
-      "Basic Standard Frame S": 2
+      "Basic Standard Frame S": 2,
+      "Tier 2 Ammo L Schematic Copy": 1
     }
   },
   "Missile Precision Kinetic Ammo L": {
@@ -26072,7 +26183,8 @@
       "Advanced Solid Warhead": 8,
       "Uncommon Processor": 8,
       "Ag-Li Reinforced Glass": 8,
-      "Uncommon Standard Frame S": 2
+      "Uncommon Standard Frame S": 2,
+      "Tier 3 Ammo L Schematic Copy": 1
     }
   },
   "Railgun Agile Antimatter Ammo XS": {
@@ -26088,7 +26200,8 @@
       "Advanced Antimatter Capsule": 1,
       "Uncommon Magnet": 1,
       "Al-Li Alloy": 1,
-      "Uncommon Reinforced Frame XS": 1
+      "Uncommon Reinforced Frame XS": 1,
+      "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
   "Railgun Antimatter Ammo XS": {
@@ -26103,7 +26216,8 @@
     "input": {
       "Uncommon Antimatter Capsule": 1,
       "Basic Magnet": 1,
-      "Basic Reinforced Frame XS": 1
+      "Basic Reinforced Frame XS": 1,
+      "Tier 2 Ammo XS Schematic Copy": 1
     }
   },
   "Railgun Defense Antimatter Ammo XS": {
@@ -26119,7 +26233,8 @@
       "Advanced Antimatter Capsule": 1,
       "Uncommon Magnet": 1,
       "Polysulfide Plastic": 1,
-      "Uncommon Reinforced Frame XS": 1
+      "Uncommon Reinforced Frame XS": 1,
+      "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
   "Railgun Heavy Antimatter Ammo XS": {
@@ -26135,7 +26250,8 @@
       "Advanced Antimatter Capsule": 1,
       "Uncommon Magnet": 1,
       "Inconel": 2,
-      "Uncommon Reinforced Frame XS": 1
+      "Uncommon Reinforced Frame XS": 1,
+      "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
   "Railgun Precision Antimatter Ammo XS": {
@@ -26151,7 +26267,8 @@
       "Advanced Antimatter Capsule": 1,
       "Uncommon Magnet": 1,
       "Ag-Li Reinforced Glass": 1,
-      "Uncommon Reinforced Frame XS": 1
+      "Uncommon Reinforced Frame XS": 1,
+      "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
   "Railgun Agile Electromagnetic Ammo XS": {
@@ -26167,7 +26284,8 @@
       "Advanced Magnet": 1,
       "Uncommon Magnet": 1,
       "Al-Li Alloy": 1,
-      "Uncommon Reinforced Frame XS": 1
+      "Uncommon Reinforced Frame XS": 1,
+      "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
   "Railgun Defense Electromagnetic Ammo XS": {
@@ -26183,7 +26301,8 @@
       "Advanced Magnet": 1,
       "Uncommon Magnet": 1,
       "Polysulfide Plastic": 1,
-      "Uncommon Reinforced Frame XS": 1
+      "Uncommon Reinforced Frame XS": 1,
+      "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
   "Railgun Electromagnetic Ammo XS": {
@@ -26198,7 +26317,8 @@
     "input": {
       "Uncommon Magnet": 1,
       "Basic Magnet": 1,
-      "Basic Reinforced Frame XS": 1
+      "Basic Reinforced Frame XS": 1,
+      "Tier 2 Ammo XS Schematic Copy": 1
     }
   },
   "Railgun Heavy Electromagnetic Ammo XS": {
@@ -26214,7 +26334,8 @@
       "Advanced Magnet": 1,
       "Uncommon Magnet": 1,
       "Inconel": 1,
-      "Uncommon Reinforced Frame XS": 1
+      "Uncommon Reinforced Frame XS": 1,
+      "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
   "Railgun Precision Electromagnetic Ammo XS": {
@@ -26230,7 +26351,8 @@
       "Advanced Magnet": 1,
       "Uncommon Magnet": 1,
       "Ag-Li Reinforced Glass": 1,
-      "Uncommon Reinforced Frame XS": 1
+      "Uncommon Reinforced Frame XS": 1,
+      "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
   "Railgun Agile Antimatter Ammo S": {
@@ -26246,7 +26368,8 @@
       "Advanced Antimatter Capsule": 2,
       "Uncommon Magnet": 2,
       "Al-Li Alloy": 2,
-      "Uncommon Reinforced Frame XS": 2
+      "Uncommon Reinforced Frame XS": 2,
+      "Tier 3 Ammo S Schematic Copy": 1
     }
   },
   "Railgun Antimatter Ammo S": {
@@ -26261,7 +26384,8 @@
     "input": {
       "Uncommon Antimatter Capsule": 2,
       "Basic Magnet": 2,
-      "Basic Reinforced Frame XS": 2
+      "Basic Reinforced Frame XS": 2,
+      "Tier 2 Ammo S Schematic Copy": 1
     }
   },
   "Railgun Defense Antimatter Ammo S": {
@@ -26277,7 +26401,8 @@
       "Advanced Antimatter Capsule": 2,
       "Uncommon Magnet": 2,
       "Polysulfide Plastic": 2,
-      "Uncommon Reinforced Frame XS": 2
+      "Uncommon Reinforced Frame XS": 2,
+      "Tier 3 Ammo S Schematic Copy": 1
     }
   },
   "Railgun Heavy Antimatter Ammo S": {
@@ -26293,7 +26418,8 @@
       "Advanced Antimatter Capsule": 2,
       "Uncommon Magnet": 2,
       "Inconel": 2,
-      "Uncommon Reinforced Frame XS": 2
+      "Uncommon Reinforced Frame XS": 2,
+      "Tier 3 Ammo S Schematic Copy": 1
     }
   },
   "Railgun Precision Antimatter Ammo S": {
@@ -26309,7 +26435,8 @@
       "Advanced Antimatter Capsule": 2,
       "Uncommon Magnet": 2,
       "Ag-Li Reinforced Glass": 2,
-      "Uncommon Reinforced Frame XS": 2
+      "Uncommon Reinforced Frame XS": 2,
+      "Tier 3 Ammo S Schematic Copy": 1
     }
   },
   "Railgun Agile Electromagnetic Ammo S": {
@@ -26325,7 +26452,8 @@
       "Advanced Magnet": 2,
       "Uncommon Magnet": 2,
       "Al-Li Alloy": 2,
-      "Uncommon Reinforced Frame XS": 2
+      "Uncommon Reinforced Frame XS": 2,
+      "Tier 3 Ammo S Schematic Copy": 1
     }
   },
   "Railgun Defense Electromagnetic Ammo S": {
@@ -26341,7 +26469,8 @@
       "Advanced Magnet": 2,
       "Uncommon Magnet": 2,
       "Polysulfide Plastic": 2,
-      "Uncommon Reinforced Frame XS": 2
+      "Uncommon Reinforced Frame XS": 2,
+      "Tier 3 Ammo S Schematic Copy": 1
     }
   },
   "Railgun Electromagnetic Ammo S": {
@@ -26356,7 +26485,8 @@
     "input": {
       "Uncommon Magnet": 2,
       "Basic Magnet": 2,
-      "Basic Reinforced Frame XS": 2
+      "Basic Reinforced Frame XS": 2,
+      "Tier 2 Ammo S Schematic Copy": 1
     }
   },
   "Railgun Heavy Electromagnetic Ammo S": {
@@ -26372,7 +26502,8 @@
       "Advanced Magnet": 2,
       "Uncommon Magnet": 2,
       "Inconel": 2,
-      "Uncommon Reinforced Frame XS": 2
+      "Uncommon Reinforced Frame XS": 2,
+      "Tier 3 Ammo S Schematic Copy": 1
     }
   },
   "Railgun Precision Electromagnetic Ammo S": {
@@ -26388,7 +26519,8 @@
       "Advanced Magnet": 2,
       "Uncommon Magnet": 2,
       "Ag-Li Reinforced Glass": 2,
-      "Uncommon Reinforced Frame XS": 2
+      "Uncommon Reinforced Frame XS": 2,
+      "Tier 3 Ammo S Schematic Copy": 1
     }
   },
   "Railgun Agile Antimatter Ammo M": {
@@ -26404,7 +26536,8 @@
       "Advanced Antimatter Capsule": 4,
       "Uncommon Magnet": 4,
       "Al-Li Alloy": 4,
-      "Uncommon Reinforced Frame S": 1
+      "Uncommon Reinforced Frame S": 1,
+      "Tier 3 Ammo M Schematic Copy": 1
     }
   },
   "Railgun Antimatter Ammo M": {
@@ -26419,7 +26552,8 @@
     "input": {
       "Uncommon Antimatter Capsule": 4,
       "Basic Magnet": 4,
-      "Basic Reinforced Frame S": 1
+      "Basic Reinforced Frame S": 1,
+      "Tier 2 Ammo M Schematic Copy": 1
     }
   },
   "Railgun Defense Antimatter Ammo M": {
@@ -26435,7 +26569,8 @@
       "Advanced Antimatter Capsule": 4,
       "Uncommon Magnet": 4,
       "Polysulfide Plastic": 4,
-      "Uncommon Reinforced Frame S": 1
+      "Uncommon Reinforced Frame S": 1,
+      "Tier 3 Ammo M Schematic Copy": 1
     }
   },
   "Railgun Heavy Antimatter Ammo M": {
@@ -26451,7 +26586,8 @@
       "Advanced Antimatter Capsule": 4,
       "Uncommon Magnet": 4,
       "Inconel": 4,
-      "Uncommon Reinforced Frame S": 1
+      "Uncommon Reinforced Frame S": 1,
+      "Tier 3 Ammo M Schematic Copy": 1
     }
   },
   "Railgun Precision Antimatter Ammo M": {
@@ -26467,7 +26603,8 @@
       "Advanced Antimatter Capsule": 4,
       "Uncommon Magnet": 4,
       "Ag-Li Reinforced Glass": 4,
-      "Uncommon Reinforced Frame S": 1
+      "Uncommon Reinforced Frame S": 1,
+      "Tier 3 Ammo M Schematic Copy": 1
     }
   },
   "Railgun Agile Electromagnetic Ammo M": {
@@ -26483,7 +26620,8 @@
       "Advanced Magnet": 4,
       "Uncommon Magnet": 4,
       "Al-Li Alloy": 4,
-      "Uncommon Reinforced Frame S": 1
+      "Uncommon Reinforced Frame S": 1,
+      "Tier 3 Ammo M Schematic Copy": 1
     }
   },
   "Railgun Defense Electromagnetic Ammo M": {
@@ -26499,7 +26637,8 @@
       "Advanced Magnet": 4,
       "Uncommon Magnet": 4,
       "Polysulfide Plastic": 4,
-      "Uncommon Reinforced Frame S": 1
+      "Uncommon Reinforced Frame S": 1,
+      "Tier 3 Ammo M Schematic Copy": 1
     }
   },
   "Railgun Electromagnetic Ammo M": {
@@ -26514,7 +26653,8 @@
     "input": {
       "Uncommon Magnet": 4,
       "Basic Magnet": 4,
-      "Basic Reinforced Frame S": 1
+      "Basic Reinforced Frame S": 1,
+      "Tier 2 Ammo M Schematic Copy": 1
     }
   },
   "Railgun Heavy Electromagnetic Ammo M": {
@@ -26530,7 +26670,8 @@
       "Advanced Magnet": 4,
       "Uncommon Magnet": 4,
       "Inconel": 4,
-      "Uncommon Reinforced Frame S": 1
+      "Uncommon Reinforced Frame S": 1,
+      "Tier 3 Ammo M Schematic Copy": 1
     }
   },
   "Railgun Precision Electromagnetic Ammo M": {
@@ -26546,7 +26687,8 @@
       "Advanced Magnet": 4,
       "Uncommon Magnet": 4,
       "Ag-Li Reinforced Glass": 4,
-      "Uncommon Reinforced Frame S": 1
+      "Uncommon Reinforced Frame S": 1,
+      "Tier 3 Ammo M Schematic Copy": 1
     }
   },
   "Railgun Agile Antimatter Ammo L": {
@@ -26562,7 +26704,8 @@
       "Advanced Antimatter Capsule": 8,
       "Uncommon Magnet": 8,
       "Al-Li Alloy": 8,
-      "Uncommon Reinforced Frame S": 2
+      "Uncommon Reinforced Frame S": 2,
+      "Tier 3 Ammo L Schematic Copy": 1
     }
   },
   "Railgun Antimatter Ammo L": {
@@ -26577,7 +26720,8 @@
     "input": {
       "Uncommon Antimatter Capsule": 8,
       "Basic Magnet": 8,
-      "Basic Reinforced Frame S": 2
+      "Basic Reinforced Frame S": 2,
+      "Tier 2 Ammo L Schematic Copy": 1
     }
   },
   "Railgun Defense Antimatter Ammo L": {
@@ -26593,7 +26737,8 @@
       "Advanced Antimatter Capsule": 8,
       "Uncommon Magnet": 8,
       "Polysulfide Plastic": 8,
-      "Uncommon Reinforced Frame S": 2
+      "Uncommon Reinforced Frame S": 2,
+      "Tier 3 Ammo L Schematic Copy": 1
     }
   },
   "Railgun Heavy Antimatter Ammo L": {
@@ -26609,7 +26754,8 @@
       "Advanced Antimatter Capsule": 8,
       "Uncommon Magnet": 8,
       "Inconel": 8,
-      "Uncommon Reinforced Frame S": 2
+      "Uncommon Reinforced Frame S": 2,
+      "Tier 3 Ammo L Schematic Copy": 1
     }
   },
   "Railgun Precision Antimatter Ammo L": {
@@ -26625,7 +26771,8 @@
       "Advanced Antimatter Capsule": 8,
       "Uncommon Magnet": 8,
       "Ag-Li Reinforced Glass": 8,
-      "Uncommon Reinforced Frame S": 2
+      "Uncommon Reinforced Frame S": 2,
+      "Tier 3 Ammo L Schematic Copy": 1
     }
   },
   "Railgun Agile Electromagnetic Ammo L": {
@@ -26641,7 +26788,8 @@
       "Advanced Magnet": 8,
       "Uncommon Magnet": 8,
       "Al-Li Alloy": 8,
-      "Uncommon Reinforced Frame S": 2
+      "Uncommon Reinforced Frame S": 2,
+      "Tier 3 Ammo L Schematic Copy": 1
     }
   },
   "Railgun Defense Electromagnetic Ammo L": {
@@ -26657,7 +26805,8 @@
       "Advanced Magnet": 8,
       "Uncommon Magnet": 8,
       "Polysulfide Plastic": 8,
-      "Uncommon Reinforced Frame S": 2
+      "Uncommon Reinforced Frame S": 2,
+      "Tier 3 Ammo L Schematic Copy": 1
     }
   },
   "Railgun Electromagnetic Ammo L": {
@@ -26672,7 +26821,8 @@
     "input": {
       "Uncommon Magnet": 8,
       "Basic Magnet": 8,
-      "Basic Reinforced Frame S": 2
+      "Basic Reinforced Frame S": 2,
+      "Tier 2 Ammo L Schematic Copy": 1
     }
   },
   "Railgun Heavy Electromagnetic Ammo L": {
@@ -26688,7 +26838,8 @@
       "Advanced Magnet": 8,
       "Uncommon Magnet": 8,
       "Inconel": 8,
-      "Uncommon Reinforced Frame S": 2
+      "Uncommon Reinforced Frame S": 2,
+      "Tier 3 Ammo L Schematic Copy": 1
     }
   },
   "Railgun Precision Electromagnetic Ammo L": {
@@ -26704,7 +26855,80 @@
       "Advanced Magnet": 8,
       "Uncommon Magnet": 8,
       "Ag-Li Reinforced Glass": 8,
-      "Uncommon Reinforced Frame S": 2
+      "Uncommon Reinforced Frame S": 2,
+      "Tier 3 Ammo L Schematic Copy": 1
+    }
+  },
+  "Stasis Ammo XS":
+  {
+    "tier": 4,
+    "type": "Ammo",
+    "subtype": "XS",
+    "volume": 4,
+    "outputQuantity": 40,
+    "time": 800,
+    "byproducts": {},
+    "industry": "Assembly Line XS",
+    "input": {
+      "Rare Magnet": 1,
+      "Advanced Optics": 1,
+      "Gold-Coated Glass": 1,
+      "Advanced Reinforced Frame XS": 1,
+      "Tier 4 Ammo XS Schematic Copy": 1
+    }
+  },
+  "Stasis Ammo S":
+  {
+    "tier": 4,
+    "type": "Ammo",
+    "subtype": "S",
+    "volume": 20,
+    "outputQuantity": 40,
+    "time": 1600,
+    "byproducts": {},
+    "industry": "Assembly Line S",
+    "input": {
+      "Rare Magnet": 2,
+      "Advanced Optics": 2,
+      "Gold-Coated Glass": 2,
+      "Advanced Reinforced Frame XS": 2,
+      "Tier 4 Ammo S Schematic Copy": 1
+    }
+  },
+  "Stasis Ammo M":
+  {
+    "tier": 4,
+    "type": "Ammo",
+    "subtype": "M",
+    "volume": 100,
+    "outputQuantity": 40,
+    "time": 3200,
+    "byproducts": {},
+    "industry": "Assembly Line M",
+    "input": {
+      "Rare Magnet": 4,
+      "Advanced Optics": 4,
+      "Gold-Coated Glass": 4,
+      "Advanced Reinforced Frame S": 1,
+      "Tier 4 Ammo M Schematic Copy": 1
+    }
+  },
+  "Stasis Ammo L":
+  {
+    "tier": 4,
+    "type": "Ammo",
+    "subtype": "L",
+    "volume": 500,
+    "outputQuantity": 40,
+    "time": 6400,
+    "byproducts": {},
+    "industry": "Assembly Line L",
+    "input": {
+      "Rare Magnet": 8,
+      "Advanced Optics": 8,
+      "Gold-Coated Glass": 8,
+      "Advanced Reinforced Frame S": 2,
+      "Tier 4 Ammo L Schematic Copy": 1
     }
   },
   "Warp Cell": {

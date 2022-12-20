@@ -68,6 +68,32 @@ Currently in progress of syncing to game version 1.1.2
 - [x] Tier 4 Product Material Schematic
 - [x] Tier 5 Product Material Schematic
 
+- [x] Tier 2 Pure Honeycomb Schematic
+- [x] Tier 3 Pure Honeycomb Schematic
+- [x] Tier 4 Pure Honeycomb Schematic
+- [x] Tier 5 Pure Honeycomb Schematic
+
+- [x] Tier 1 Product Honeycomb Schematic
+- [x] Tier 2 Product Honeycomb Schematic
+- [x] Tier 3 Product Honeycomb Schematic
+- [x] Tier 4 Product Honeycomb Schematic
+- [x] Tier 5 Product Honeycomb Schematic
+
+- [x] Tier 2 Ammo XS Schematic
+- [x] Tier 2 Ammo S Schematic
+- [x] Tier 2 Ammo M Schematic
+- [x] Tier 2 Ammo L Schematic
+
+- [x] Tier 3 Ammo XS Schematic
+- [x] Tier 3 Ammo S Schematic
+- [x] Tier 3 Ammo M Schematic
+- [x] Tier 3 Ammo L Schematic
+
+- [x] Tier 4 Ammo XS Schematic
+- [x] Tier 4 Ammo S Schematic
+- [x] Tier 4 Ammo M Schematic
+- [x] Tier 4 Ammo L Schematic
+
 - [x] Bonsai Schematic
 
 ## Thanks to
