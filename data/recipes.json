@@ -19910,7 +19910,8 @@
     "byproducts": {},
     "industry": "Recycler M",
     "input": {
-      "Pure Calcium": 750
+      "Pure Calcium": 750,
+      "Tier 2 Scrap Schematic Copy": 1
     }
   },
   "Chromium Scrap": {
@@ -19922,7 +19923,8 @@
     "byproducts": {},
     "industry": "Recycler M",
     "input": {
-      "Pure Chromium": 750
+      "Pure Chromium": 750,
+      "Tier 2 Scrap Schematic Copy": 1
     }
   },
   "Copper Scrap": {
@@ -19934,7 +19936,8 @@
     "byproducts": {},
     "industry": "Recycler M",
     "input": {
-      "Pure Copper": 750
+      "Pure Copper": 750,
+      "Tier 2 Scrap Schematic Copy": 1
     }
   },
   "Sodium Scrap": {
@@ -19946,7 +19949,8 @@
     "byproducts": {},
     "industry": "Recycler M",
     "input": {
-      "Pure Sodium": 750
+      "Pure Sodium": 750,
+      "Tier 2 Scrap Schematic Copy": 1
     }
   },
   "Lithium Scrap": {
@@ -19958,7 +19962,8 @@
     "byproducts": {},
     "industry": "Recycler M",
     "input": {
-      "Pure Lithium": 150
+      "Pure Lithium": 150,
+      "Tier 3 Scrap Schematic Copy": 1
     }
   },
   "Nickel Scrap": {
@@ -19970,7 +19975,8 @@
     "byproducts": {},
     "industry": "Recycler M",
     "input": {
-      "Pure Nickel": 150
+      "Pure Nickel": 150,
+      "Tier 3 Scrap Schematic Copy": 1
     }
   },
   "Silver Scrap": {
@@ -19982,7 +19988,8 @@
     "byproducts": {},
     "industry": "Recycler M",
     "input": {
-      "Pure Silver": 150
+      "Pure Silver": 150,
+      "Tier 3 Scrap Schematic Copy": 1
     }
   },
   "Sulfur Scrap": {
@@ -19994,7 +20001,8 @@
     "byproducts": {},
     "industry": "Recycler M",
     "input": {
-      "Pure Sulfur": 150
+      "Pure Sulfur": 150,
+      "Tier 3 Scrap Schematic Copy": 1
     }
   },
   "Cobalt Scrap": {
@@ -20006,7 +20014,8 @@
     "byproducts": {},
     "industry": "Recycler M",
     "input": {
-      "Pure Cobalt": 50
+      "Pure Cobalt": 50,
+      "Tier 4 Scrap Schematic Copy": 1
     }
   },
   "Fluorine Scrap": {
@@ -20018,7 +20027,8 @@
     "byproducts": {},
     "industry": "Recycler M",
     "input": {
-      "Pure Fluorine": 50
+      "Pure Fluorine": 50,
+      "Tier 4 Scrap Schematic Copy": 1
     }
   },
   "Gold Scrap": {
@@ -20030,7 +20040,8 @@
     "byproducts": {},
     "industry": "Recycler M",
     "input": {
-      "Pure Gold": 50
+      "Pure Gold": 50,
+      "Tier 4 Scrap Schematic Copy": 1
     }
   },
   "Scandium Scrap": {
@@ -20042,7 +20053,8 @@
     "byproducts": {},
     "industry": "Recycler M",
     "input": {
-      "Pure Scandium": 50
+      "Pure Scandium": 50,
+      "Tier 4 Scrap Schematic Copy": 1
     }
   },
   "Manganese Scrap": {
@@ -20054,7 +20066,8 @@
     "byproducts": {},
     "industry": "Recycler M",
     "input": {
-      "Pure Manganese": 50
+      "Pure Manganese": 50,
+      "Tier 5 Scrap Schematic Copy": 1
     }
   },
   "Niobium Scrap": {
@@ -20066,7 +20079,8 @@
     "byproducts": {},
     "industry": "Recycler M",
     "input": {
-      "Pure Niobium": 50
+      "Pure Niobium": 50,
+      "Tier 5 Scrap Schematic Copy": 1
     }
   },
   "Titanium Scrap": {
@@ -20078,7 +20092,8 @@
     "byproducts": {},
     "industry": "Recycler M",
     "input": {
-      "Pure Titanium": 50
+      "Pure Titanium": 50,
+      "Tier 5 Scrap Schematic Copy": 1
     }
   },
   "Vanadium Scrap": {
@@ -20090,7 +20105,8 @@
     "byproducts": {},
     "industry": "Recycler M",
     "input": {
-      "Pure Vanadium": 50
+      "Pure Vanadium": 50,
+      "Tier 5 Scrap Schematic Copy": 1
     }
   },
   "Iron Honeycomb": {
@@ -20154,7 +20170,8 @@
     "byproducts": {},
     "industry": "Honeycomb Refinery M",
     "input": {
-      "Pure Copper": 600
+      "Pure Copper": 600,
+      "Tier 2 Pure Honeycomb Schematic Copy": 1
     }
   },
   "Chromium Honeycomb": {
@@ -20166,7 +20183,8 @@
     "byproducts": {},
     "industry": "Honeycomb Refinery M",
     "input": {
-      "Pure Chromium": 600
+      "Pure Chromium": 600,
+      "Tier 2 Pure Honeycomb Schematic Copy": 1
     }
   },
   "Calcium Honeycomb": {
@@ -20178,7 +20196,8 @@
     "byproducts": {},
     "industry": "Honeycomb Refinery M",
     "input": {
-      "Pure Calcium": 600
+      "Pure Calcium": 600,
+      "Tier 2 Pure Honeycomb Schematic Copy": 1
     }
   },
   "Sodium Honeycomb": {
@@ -20190,7 +20209,8 @@
     "byproducts": {},
     "industry": "Honeycomb Refinery M",
     "input": {
-      "Pure Sodium": 600
+      "Pure Sodium": 600,
+      "Tier 2 Pure Honeycomb Schematic Copy": 1
     }
   },
   "Lithium Honeycomb": {
@@ -20202,7 +20222,8 @@
     "byproducts": {},
     "industry": "Honeycomb Refinery M",
     "input": {
-      "Pure Lithium": 200
+      "Pure Lithium": 200,
+      "Tier 3 Pure Honeycomb Schematic Copy": 1
     }
   },
   "Nickel Honeycomb": {
@@ -20214,7 +20235,8 @@
     "byproducts": {},
     "industry": "Honeycomb Refinery M",
     "input": {
-      "Pure Nickel": 200
+      "Pure Nickel": 200,
+      "Tier 3 Pure Honeycomb Schematic Copy": 1
     }
   },
   "Silver Honeycomb": {
@@ -20226,7 +20248,8 @@
     "byproducts": {},
     "industry": "Honeycomb Refinery M",
     "input": {
-      "Pure Silver": 200
+      "Pure Silver": 200,
+      "Tier 3 Pure Honeycomb Schematic Copy": 1
     }
   },
   "Sulfur Honeycomb": {
@@ -20238,7 +20261,8 @@
     "byproducts": {},
     "industry": "Honeycomb Refinery M",
     "input": {
-      "Pure Sulfur": 200
+      "Pure Sulfur": 200,
+      "Tier 3 Pure Honeycomb Schematic Copy": 1
     }
   },
   "Gold Honeycomb": {
@@ -20250,7 +20274,8 @@
     "byproducts": {},
     "industry": "Honeycomb Refinery M",
     "input": {
-      "Pure Gold": 100
+      "Pure Gold": 100,
+      "Tier 4 Pure Honeycomb Schematic Copy": 1
     }
   },
   "Cobalt Honeycomb": {
@@ -20262,7 +20287,8 @@
     "byproducts": {},
     "industry": "Honeycomb Refinery M",
     "input": {
-      "Pure Cobalt": 100
+      "Pure Cobalt": 100,
+      "Tier 4 Pure Honeycomb Schematic Copy": 1
     }
   },
   "Fluorine Honeycomb": {
@@ -20274,7 +20300,8 @@
     "byproducts": {},
     "industry": "Honeycomb Refinery M",
     "input": {
-      "Pure Fluorine": 100
+      "Pure Fluorine": 100,
+      "Tier 4 Pure Honeycomb Schematic Copy": 1
     }
   },
   "Scandium Honeycomb": {
@@ -20286,7 +20313,8 @@
     "byproducts": {},
     "industry": "Honeycomb Refinery M",
     "input": {
-      "Pure Scandium": 100
+      "Pure Scandium": 100,
+      "Tier 4 Pure Honeycomb Schematic Copy": 1
     }
   },
   "Manganese Honeycomb": {
@@ -20298,7 +20326,8 @@
     "byproducts": {},
     "industry": "Honeycomb Refinery M",
     "input": {
-      "Pure Manganese": 100
+      "Pure Manganese": 100,
+      "Tier 5 Pure Honeycomb Schematic Copy": 1
     }
   },
   "Niobium Honeycomb": {
@@ -20310,7 +20339,8 @@
     "byproducts": {},
     "industry": "Honeycomb Refinery M",
     "input": {
-      "Pure Niobium": 100
+      "Pure Niobium": 100,
+      "Tier 5 Pure Honeycomb Schematic Copy": 1
     }
   },
   "Titanium Honeycomb": {
@@ -20322,7 +20352,8 @@
     "byproducts": {},
     "industry": "Honeycomb Refinery M",
     "input": {
-      "Pure Titanium": 100
+      "Pure Titanium": 100,
+      "Tier 5 Pure Honeycomb Schematic Copy": 1
     }
   },
   "Vanadium Honeycomb": {
@@ -20334,7 +20365,8 @@
     "byproducts": {},
     "industry": "Honeycomb Refinery M",
     "input": {
-      "Pure Vanadium": 100
+      "Pure Vanadium": 100,
+      "Tier 5 Pure Honeycomb Schematic Copy": 1
     }
   },
   "Polycarbonate Plastic Honeycomb": {
@@ -20347,7 +20379,8 @@
     "nanopack": true,
     "industry": "Honeycomb Refinery M",
     "input": {
-      "Polycarbonate Plastic": 1800
+      "Polycarbonate Plastic": 1800,
+      "Tier 1 Product Honeycomb Schematic Copy": 1
     }
   },
   "Wood Honeycomb": {
@@ -20360,7 +20393,8 @@
     "nanopack": true,
     "industry": "Honeycomb Refinery M",
     "input": {
-      "Wood": 1800
+      "Wood": 1800,
+      "Tier 1 Product Honeycomb Schematic Copy": 1
     }
   },
   "Concrete Honeycomb": {
@@ -20373,7 +20407,8 @@
     "nanopack": true,
     "industry": "Honeycomb Refinery M",
     "input": {
-      "Concrete": 1800
+      "Concrete": 1800,
+      "Tier 1 Product Honeycomb Schematic Copy": 1
     }
   },
   "Carbon Fiber Honeycomb": {
@@ -20386,7 +20421,8 @@
     "nanopack": true,
     "industry": "Honeycomb Refinery M",
     "input": {
-      "Carbon Fiber": 1800
+      "Carbon Fiber": 1800,
+      "Tier 1 Product Honeycomb Schematic Copy": 1
     }
   },
   "Brick Honeycomb": {
@@ -20399,7 +20435,8 @@
     "nanopack": true,
     "industry": "Honeycomb Refinery M",
     "input": {
-      "Brick": 1800
+      "Brick": 1800,
+      "Tier 1 Product Honeycomb Schematic Copy": 1
     }
   },
   "Steel Honeycomb": {
@@ -20412,7 +20449,8 @@
     "nanopack": true,
     "industry": "Honeycomb Refinery M",
     "input": {
-      "Steel": 1800
+      "Steel": 1800,
+      "Tier 1 Product Honeycomb Schematic Copy": 1
     }
   },
   "Silumin Honeycomb": {
@@ -20425,7 +20463,8 @@
     "nanopack": true,
     "industry": "Honeycomb Refinery M",
     "input": {
-      "Silumin": 1800
+      "Silumin": 1800,
+      "Tier 1 Product Honeycomb Schematic Copy": 1
     }
   },
   "Marble Honeycomb": {
@@ -20437,7 +20476,8 @@
     "byproducts": {},
     "industry": "Honeycomb Refinery M",
     "input": {
-      "Marble": 600
+      "Marble": 600,
+      "Tier 2 Product Honeycomb Schematic Copy": 1
     }
   },
   "Duralumin Honeycomb": {
@@ -20449,7 +20489,8 @@
     "byproducts": {},
     "industry": "Honeycomb Refinery M",
     "input": {
-      "Duralumin": 600
+      "Duralumin": 600,
+      "Tier 2 Product Honeycomb Schematic Copy": 1
     }
   },
   "Stainless Steel Honeycomb": {
@@ -20461,10 +20502,11 @@
     "byproducts": {},
     "industry": "Honeycomb Refinery M",
     "input": {
-      "Stainless Steel": 600
+      "Stainless Steel": 600,
+      "Tier 2 Product Honeycomb Schematic Copy": 1
     }
   },
-  "Luminescent White Glass": {
+  "Luminescent Glass": {
     "tier": 1,
     "type": "Product Honeycomb",
     "volume": 10,
@@ -20474,7 +20516,8 @@
     "industry": "Glass Furnace M",
     "input": {
       "Advanced Glass": 600,
-      "Uncommon LED": 60
+      "Uncommon LED": 60,
+      "Tier 1 Product Honeycomb Schematic Copy": 1
     }
   },
   "Al-Li Honeycomb": {
@@ -20486,7 +20529,8 @@
     "byproducts": {},
     "industry": "Honeycomb Refinery M",
     "input": {
-      "Al-Li Alloy": 200
+      "Al-Li Alloy": 200,
+      "Tier 3 Product Honeycomb Schematic Copy": 1
     }
   },
   "Inconel Honeycomb": {
@@ -20498,7 +20542,8 @@
     "byproducts": {},
     "industry": "Honeycomb Refinery M",
     "input": {
-      "Inconel": 200
+      "Inconel": 200,
+      "Tier 3 Product Honeycomb Schematic Copy": 1
     }
   },
   "Maraging Steel Honeycomb": {
@@ -20510,7 +20555,8 @@
     "byproducts": {},
     "industry": "Honeycomb Refinery M",
     "input": {
-      "Maraging Steel": 100
+      "Maraging Steel": 100,
+      "Tier 4 Product Honeycomb Schematic Copy": 1
     }
   },
   "Sc-Al Honeycomb": {
@@ -20522,7 +20568,8 @@
     "byproducts": {},
     "industry": "Honeycomb Refinery M",
     "input": {
-      "Sc-Al Alloy": 100
+      "Sc-Al Alloy": 100,
+      "Tier 4 Product Honeycomb Schematic Copy": 1
     }
   },
   "Grade 5 Titanium Honeycomb": {
@@ -20534,7 +20581,8 @@
     "byproducts": {},
     "industry": "Honeycomb Refinery M",
     "input": {
-      "Grade 5 Titanium Alloy": 100
+      "Grade 5 Titanium Alloy": 100,
+      "Tier 5 Product Honeycomb Schematic Copy": 1
     }
   },
   "Mangalloy Honeycomb": {
@@ -20546,7 +20594,8 @@
     "byproducts": {},
     "industry": "Honeycomb Refinery M",
     "input": {
-      "Mangalloy": 100
+      "Mangalloy": 100,
+      "Tier 5 Product Honeycomb Schematic Copy": 1
     }
   },
   "Deep Space Asteroid Tracker XL": {
