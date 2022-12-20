@@ -1444,7 +1444,8 @@
       "Pure Silicon": 60,
       "Pure Carbon": 60,
       "Pure Oxygen": 120,
-      "Pure Hydrogen": 60
+      "Pure Hydrogen": 60,
+      "Atmospheric Fuel Schematic Copy": 1
     }
   },
   "Kergon-X1 Fuel": {
@@ -1459,7 +1460,8 @@
     "input": {
       "Pure Sodium": 40,
       "Pure Oxygen": 30,
-      "Pure Hydrogen": 30
+      "Pure Hydrogen": 30,
+      "Space Fuels Schematic Copy": 1
     }
   },
   "Kergon-X2 Fuel": {
@@ -1474,7 +1476,8 @@
     "input": {
       "Pure Calcium": 40,
       "Pure Oxygen": 25,
-      "Pure Hydrogen": 35
+      "Pure Hydrogen": 35,
+      "Space Fuels Schematic Copy": 1
     }
   },
   "Kergon-X3 Fuel": {
@@ -1489,7 +1492,8 @@
     "input": {
       "Pure Chromium": 40,
       "Pure Oxygen": 35,
-      "Pure Hydrogen": 25
+      "Pure Hydrogen": 25,
+      "Space Fuels Schematic Copy": 1
     }
   },
   "Kergon-X4 Fuel": {
@@ -1504,7 +1508,28 @@
     "input": {
       "Pure Copper": 40,
       "Pure Oxygen": 30,
-      "Pure Hydrogen": 30
+      "Pure Hydrogen": 30,
+      "Space Fuels Schematic Copy": 1
+    }
+  },
+  "Kergon-X5 Fuel":
+  {
+    "tier": 1,
+    "type": "Fuel",
+    "subtype": "Space",
+    "volume": 1,
+    "outputQuantity": 100,
+    "time": 120,
+    "byproducts": {},
+    "industry": "Chemical Industry M",
+    "input": {
+      "Pure Silicon": 90,
+      "Pure Carbon": 90,
+      "Pure Iron": 90,
+      "Pure Aluminium": 90,
+      "Pure Oxygen": 45,
+      "Pure Hydrogen": 45,
+      "Space Fuels Schematic Copy": 1
     }
   },
   "Xeron Fuel": {
@@ -1519,7 +1544,8 @@
       "Pure Chromium": 10,
       "Pure Sodium": 10,
       "Pure Hydrogen": 60,
-      "Pure Oxygen": 20
+      "Pure Oxygen": 20,
+      "Rocket Fuels Schematic Copy": 1
     }
   },
   "Al-Fe Alloy": {

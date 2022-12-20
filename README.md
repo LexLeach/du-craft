@@ -94,6 +94,10 @@ Currently in progress of syncing to game version 1.1.2
 - [x] Tier 4 Ammo M Schematic
 - [x] Tier 4 Ammo L Schematic
 
+- [x] Atmospheric Fuels Schematic
+- [x] Space Fuels Schematic
+- [x] Rocket Fuels Schematic
+
 - [x] Bonsai Schematic
 
 ## Thanks to
