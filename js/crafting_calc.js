@@ -363,7 +363,12 @@ function recipeCalc(recipes) {
             k.type = this.db[k.name].type;
             k.typeid = this.types.indexOf(k.type);
             k.industry = this.db[k.name].industry;
-            k.actualOQ = Math.round(this.db[k.name].actualOQ);
+            
+            if (this.db[k.name].type === "Pure" || this.db[k.name].type === "Product" || this.db[k.name].type === "Fuel") {
+                k.actualOQ = this.db[k.name].actualOQ;
+            } else {
+                k.actualOQ = Math.round(this.db[k.name].actualOQ);
+            }
         }
 
         compressedList.forEach(populate, this);

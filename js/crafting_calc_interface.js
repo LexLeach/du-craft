@@ -265,6 +265,7 @@ function calculate() {
     }
 
     itemLists = cc.calcList(craft, inv);
+
     var list = itemLists.normal;
 
     var totOre = 0;
@@ -346,6 +347,8 @@ function calculate() {
             item.style.padding = "0 0 0 5px";
             item.style["border-radius"] = "3px";
 
+            item.appendChild(addHover(list[i]));
+
             var qty = document.createElement("div");
             qty.classList.add("ore-quantity");
             qty.innerHTML = formatNum(list[i].quantity, quantityFractionDigits);
@@ -370,6 +373,8 @@ function calculate() {
                 var item = document.createElement("div");
                 item.classList.add("ore-item");
                 item.innerHTML = cc.trans(language, list[i].name);
+
+                item.appendChild(addHover(list[i], quantityFractionDigits));
                 item.style.padding = "0 0 0 5px";
                 item.style["border-radius"] = "3px";
     
@@ -404,6 +409,7 @@ function calculate() {
             var item2 = document.createElement("div");
             item2.classList.add("queue-item");
             item2.innerHTML = cc.trans(language, list[i].name);
+            item2.appendChild(addHover(list[i], quantityFractionDigits));
             line.push(item2);
 
             var qty2 = document.createElement("div");
@@ -457,6 +463,7 @@ function calculate() {
             var item = document.createElement("div");
             item.classList.add("queue-item");
             item.innerHTML = cc.trans(language, list[i].name);
+            item.appendChild(addHover(list[i], quantityFractionDigits));
 
 
             var qty = document.createElement("div");
@@ -514,6 +521,28 @@ function calculate() {
     trySaveState();
 }
 
+function addHoverSimple(item, digits)
+{
+    var output = document.createElement("span");
+    output.classList.add("section-divider");
+    output.classList.add("hovertext");
+    output.innerHTML = item.name + "<br/><br/>";
+    output.innerHTML += "batch size: " + formatNum(item.actualOQ, digits) + "<br/>";
+
+    return output;
+}
+
+function addHover(item, digits)
+{
+    var output = document.createElement("span");
+    output.classList.add("section-divider");
+    output.classList.add("hovertext");
+    output.innerHTML = item.name + "<br/><br/>";
+    output.innerHTML += "batch size: " + formatNum(item.actualOQ, digits) + "<br/>";
+    output.innerHTML += "batch count: " + Math.ceil(item.quantity/item.actualOQ);
+
+    return output;
+}
 //-----------------------------------------------------------------------------
 // Modals for item selection and skill selection
 

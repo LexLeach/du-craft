@@ -315,6 +315,22 @@ body {
     font-family: Roboto, serif;
 }
 
+.ore-item .hovertext, .queue-item .hovertext, .cft-item .hovertext {
+    font-family: Roboto, serif;
+    visibility: hidden;
+    text-align: left;
+    border-radius: 6px;
+    padding: 10px 10px;
+
+    position:absolute;
+    top: 20px;
+    z-index: 1;
+}
+
+.ore-item:hover .hovertext, .queue-item:hover .hovertext, .cft-item:hover .hovertext {
+    visibility: visible;
+}
+
 .quantity-color {
 
 }
