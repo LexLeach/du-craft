@@ -123,7 +123,7 @@ function copyStringToClipboard(str) {
 var itemsAccordion, prices, recipes, german, schematicsPrices;
 
 const version = "1";
-const lastUpdateTime = "2022-12-20";
+const lastUpdateTime = "2022-12-27";
 document.getElementById("lastUpdateTime").innerHTML = lastUpdateTime;
 console.log("Crafting Calculator Updated On: " + lastUpdateTime)
 console.log("Crafting Calculator Profile Version: " + version)
@@ -834,7 +834,7 @@ function newParse(numStr) {
 //callback for clicking check on ore item. removes row from oreList and places it in invList
 function finishOreItem(event) {
     var qty = newParse(event.target.previousSibling.previousSibling.innerHTML);
-    var name = event.target.previousSibling.previousSibling.previousSibling.innerHTML;
+    var name = event.target.previousSibling.previousSibling.previousSibling.innerText;
     name = cc.transr(language, name);
 
     var ast = name.search(/\*/);
@@ -847,7 +847,7 @@ function finishOreItem(event) {
 //callback for clicking check on queue item. removes row from oreList and places it in invList
 function finishCraftItem(event) {
     var qty = newParse(event.target.previousSibling.previousSibling.innerHTML);
-    var name = event.target.previousSibling.previousSibling.previousSibling.innerHTML;
+    var name = event.target.previousSibling.previousSibling.previousSibling.innerText;
     name = cc.transr(language, name);
 
     var ast = name.search(/\*/);
