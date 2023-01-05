@@ -16120,7 +16120,7 @@
     "type": "Furniture & Appliances Element",
     "volume": 21.6,
     "outputQuantity": 1,
-    "time": 360,
+    "time": 1440,
     "byproducts": {},
     "industry": "Assembly Line XS",
     "input": {
