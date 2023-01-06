@@ -8014,17 +8014,16 @@
   "Territory Unit M": {
     "tier": 5,
     "type": "Planet Element",
-    "volume": 4118.29,
+    "volume": 3500,
     "outputQuantity": 1,
-    "time": 5760,
+    "time": 28800,
     "byproducts": {},
     "industry": "Assembly Line M",
     "input": {
-      "Basic Fixation": 18,
-      "Uncommon Fixation": 18,
-      "Uncommon Processor": 25,
-      "Uncommon Power Transformer M": 1,
-      "Uncommon Standard Frame M": 1,
+      "Basic Fixation": 72,
+      "Basic Processor": 50,
+      "Basic Power Transformer M": 2,
+      "Basic Standard Frame M": 2,
       "Territory Unit Schematic Copy": 1
     }
   },
