@@ -39,6 +39,7 @@ class SkillCategory {
 }
 
 showOnlyApplicableSkills = false;
+debuggerEnabled = false;
 
 class SkillValues {
     onlyApplicableSkills = false;
@@ -123,7 +124,7 @@ function copyStringToClipboard(str) {
 var itemsAccordion, prices, recipes, german, schematicsPrices;
 
 const version = "1";
-const lastUpdateTime = "2023-01-05";
+const lastUpdateTime = "2023-01-08";
 document.getElementById("lastUpdateTime").innerHTML = lastUpdateTime;
 console.log("Crafting Calculator Updated On: " + lastUpdateTime)
 console.log("Crafting Calculator Profile Version: " + version)
@@ -561,7 +562,6 @@ function createItemsAcc(list, depth, filter = "", override = false) {
     }
 
     for (var i = 0; i < list.length; i++) {
-        //console.log("list i "+list[i]);
         if (typeof list[i] == "object") {
             var or = override;
             if (filter !== "" && cc.trans(language, list[i].name).toLowerCase().search(filter.toLowerCase()) !== -1) {
@@ -621,7 +621,6 @@ async function setFilter() {
 
     var t = (new Date()).getTime();
     if (t - keyHit >= 2000) {
-        //console.log("waiting");
         let promise = new Promise((resolve) => {
             setTimeout(() => resolve(), 2000)
         });
@@ -825,9 +824,7 @@ function updateSkills() {
 
 function newParse(numStr) {
     numStr = numStr.replace(/,/g, "");
-    //console.log(numStr);
     var num = numStr.match(/[0-9]+.*[0-9]*/g);
-    //console.log(num);
     return parseFloat(num[0]);
 }
 
@@ -1053,7 +1050,6 @@ function updateInv(event) {
 function updateCft(event) {
     var name = event.target.previousSibling.innerHTML
     name = cc.transr(language, name);
-    //console.log("craft event name "+name);
     for (var i = 0; i < craft.length; i++) {
         if (craft[i].name == name) {
             craft[i].quantity = newParse(event.target.value);
@@ -1098,7 +1094,6 @@ function updateInvList() {
         var item = document.createElement("div");
         item.classList.add("inv-item");
         item.innerHTML = cc.trans(language, name);
-        //console.log(name+" "+type);
         if (tp === "Ore" || tp === "Pure") {
             item.classList.add(name.replace(" ", "_"));
             item.style.padding = "0 0 0 5px";
@@ -1275,7 +1270,6 @@ function updatePrices() {
         for (var j = 0; j < inp.classList.length; j++) {
             if (inp.classList[j] == "price-ore") {
                 inp.value = prices[ore].toFixed(2).toString();
-                //console.log("updating ore price "+ore);
             }
         }
     }
@@ -1439,7 +1433,6 @@ function tryRestoreState(profile) {
         if (state.version != version) {
             alert("Old profile detected. You may have to reset the calculator (button at the top) to get it to work.");
         }
-        //console.log("restoring...");
 
         const oldState = getState();
 

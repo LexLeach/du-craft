@@ -242,11 +242,14 @@ function recipeCalc(recipes) {
         for (var jj = 0; jj < input.length; jj++) {
             var iqPair = input[jj];
 
-            this.debug.push("number of " + iqPair.name + " required " + iqPair.quantity);
-            this.debug.push("checking inventory " + JSON.stringify(inventory[iqPair.name]));
+            if (debuggerEnabled === true) {
+                this.debug.push("number of " + iqPair.name + " required " + iqPair.quantity);
+                this.debug.push("checking inventory " + JSON.stringify(inventory[iqPair.name]));
+            }
             if (iqPair.quantity <= (inventory[iqPair.name].quantity + inventory[iqPair.name].bpquantity)) {
-
-                this.debug.push("inventory has enough of input, moving on to next input");
+                if (debuggerEnabled === true) {
+                    this.debug.push("inventory has enough of input, moving on to next input");
+                }
                 continue;
             }
 
@@ -254,15 +257,23 @@ function recipeCalc(recipes) {
             var byproducts = this.db[iqPair.name].getByproducts();
             var oq = this.db[iqPair.name].actualOQ;
 
-            this.debug.push("----checking ingredients of input");
-            this.debug.push(JSON.stringify(ingredients));
-            this.debug.push("----checking inventory for ingredients");
+            if (debuggerEnabled === true) {
+                this.debug.push("----checking ingredients of input");
+                this.debug.push(JSON.stringify(ingredients));
+                this.debug.push("----checking inventory for ingredients");
+            }
             if (ingredients.length != 0) {
-                this.debug.push(iqPair.name + ": " + inventory[iqPair.name].quantity + " of " + iqPair.quantity);
+                if (debuggerEnabled === true) {
+                    this.debug.push(iqPair.name + ": " + inventory[iqPair.name].quantity + " of " + iqPair.quantity);
+                }
                 while (inventory[iqPair.name].quantity + inventory[iqPair.name].bpquantity < iqPair.quantity) {
-                    this.debug.push("crafting ingredients for " + iqPair.name);
+                    if (debuggerEnabled === true) {
+                        this.debug.push("crafting ingredients for " + iqPair.name);
+                    }
                     ingredients.forEach(function (ingPair, i) {
-                        this.debug.push("");
+                        if (debuggerEnabled === true) {
+                            this.debug.push("");
+                        }
                         var subSeq = this.simulate([ingPair], inventory);
 
                         if (inventory[ingPair.name].bpquantity > ingPair.quantity) {
@@ -278,7 +289,9 @@ function recipeCalc(recipes) {
                     }, this);
                     inventory[iqPair.name].quantity += oq;
 
-                    this.debug.push(iqPair.name + " now has: " + inventory[iqPair.name].quantity + " of " + iqPair.quantity);
+                    if (debuggerEnabled === true) {
+                        this.debug.push(iqPair.name + " now has: " + inventory[iqPair.name].quantity + " of " + iqPair.quantity);
+                    }
 
                     itemSequence = itemSequence.concat([{
                         name: iqPair.name,
@@ -293,11 +306,16 @@ function recipeCalc(recipes) {
                     }, this);
                 }
             } else {
-                this.debug.push("this is a base recipe, inserting desired amount to inventory");
+                if (debuggerEnabled === true) {
+                    this.debug.push("this is a base recipe, inserting desired amount to inventory");
+                }
                 itemSequence = itemSequence.concat([iqPair]);
 
                 inventory[iqPair.name].quantity += iqPair.quantity;
-                this.debug.push("have " + inventory[iqPair.name].quantity + " of " + iqPair.quantity);
+
+                if (debuggerEnabled === true) {
+                    this.debug.push("have " + inventory[iqPair.name].quantity + " of " + iqPair.quantity);
+                }
 
                 byproducts.forEach(function (bPair, i) {
                     inventory[bPair.name].bpquantity += iqPair.quantity * bPair.quantity;
