@@ -285,7 +285,7 @@ function recipeCalc(recipes) {
                         } else {
                             inventory[ingPair.name].quantity -= ingPair.quantity
                         }
-                        itemSequence = itemSequence.concat(subSeq);
+                        itemSequence.push(...subSeq);
                     }, this);
                     inventory[iqPair.name].quantity += oq;
 
@@ -293,12 +293,12 @@ function recipeCalc(recipes) {
                         this.debug.push(iqPair.name + " now has: " + inventory[iqPair.name].quantity + " of " + iqPair.quantity);
                     }
 
-                    itemSequence = itemSequence.concat([{
+                    itemSequence.push({
                         name: iqPair.name,
                         quantity: oq,
                         effectivenessQ: 0,
                         skillQ: 0
-                    }]);
+                    });
 
                     byproducts.forEach(function (bPair, i) {
                         inventory[bPair.name].bpquantity += bPair.quantity;
