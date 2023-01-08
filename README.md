@@ -3,7 +3,7 @@ Code for du-craft.online provided by HollyDOL (in case you want to donate some h
 
 Fork of no longer maintained du-craft.net
 
-Currently in progress of syncing to game version 1.1.2
+Should be synchronized to game version 1.2.3
 
 ## Added
 - [x] All schematics base data (cost, time, qty)
