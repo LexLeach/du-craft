@@ -17321,7 +17321,7 @@
       "Tier 2 XS Element Schematic Copy": 1
     }
   },
-  "Transparent Modern Screen XS": {
+  "Modern Transparent Screen XS": {
     "tier": 2,
     "type": "Furniture & Appliances Element",
     "volume": 9.75,
@@ -17355,7 +17355,7 @@
       "Tier 2 S Element Schematic Copy": 1
     }
   },
-  "Transparent Modern Screen S": {
+  "Modern Transparent Screen S": {
     "tier": 2,
     "type": "Furniture & Appliances Element",
     "volume": 37.5,
@@ -17389,7 +17389,7 @@
       "Tier 2 M Element Schematic Copy": 1
     }
   },
-  "Transparent Modern Screen M": {
+  "Modern Transparent Screen M": {
     "tier": 2,
     "type": "Furniture & Appliances Element",
     "volume": 90.0,
@@ -17423,7 +17423,7 @@
       "Tier 2 L Element Schematic Copy": 1
     }
   },
-  "Transparent Modern Screen L": {
+  "Modern Transparent Screen L": {
     "tier": 2,
     "type": "Furniture & Appliances Element",
     "volume": 150.0,
@@ -17440,7 +17440,7 @@
       "Tier 2 L Element Schematic Copy": 1
     }
   },
-  "Transparent Modern Screen XL": {
+  "Modern Transparent Screen XL": {
     "tier": 2,
     "type": "Furniture & Appliances Element",
     "volume": 600.0,
@@ -17457,7 +17457,7 @@
       "Tier 2 XL Element Schematic Copy": 1
     }
   },
-  "Transparent Modern Screen XXL": {
+  "Expanded Modern Transparent Screen XXL": {
     "tier": 2,
     "type": "Furniture & Appliances Element",
     "volume": 2160.0,
@@ -17474,7 +17474,7 @@
       "Tier 2 XL Element Schematic Copy": 1
     }
   },
-  "Transparent Modern Screen XXXL": {
+  "Super Expanded Modern Transparent Screen XXXL": {
     "tier": 2,
     "type": "Furniture & Appliances Element",
     "volume": 3600.0,
@@ -17576,7 +17576,7 @@
       "Tier 2 XL Element Schematic Copy": 1
     }
   },
-  "Modern Screen XXL": {
+  "Expanded Modern Screen XXL": {
     "tier": 2,
     "type": "Furniture & Appliances Element",
     "volume": 2160,
@@ -17593,7 +17593,7 @@
       "Tier 2 XL Element Schematic Copy": 1
     }
   },
-  "Modern Screen XXXL": {
+  "Super Expanded Modern Screen XXXL": {
     "tier": 2,
     "type": "Furniture & Appliances Element",
     "volume": 3600,
