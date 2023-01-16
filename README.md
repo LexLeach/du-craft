@@ -7,6 +7,8 @@ Should be synchronized to game version 1.2.5
 
 # Recent changes
 Performance improvements, significantly reduced GC time
+Fixes: bonsai and warp beacon now properly refer their respective plasma
+Fixes: basic weaponry recipes fixed
 
 ## Thanks to
 Alvalor for asking me for price check so often I got fed off spreadsheet processor and started updating this.
