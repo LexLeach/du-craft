@@ -1776,7 +1776,8 @@
     "input": {
       "Pure Carbon": 100,
       "Pure Oxygen": 50,
-      "Pure Hydrogen": 50
+      "Pure Hydrogen": 50,
+	  "Tier 1 Product Material Schematic": 1
     }
   },
   "Brick": {
@@ -1791,7 +1792,8 @@
     "input": {
       "Pure Silicon": 50,
       "Pure Aluminium": 50,
-      "Pure Oxygen": 50
+      "Pure Oxygen": 50,
+	  "Tier 1 Product Material Schematic": 1
     }
   },
   "Marble": {
@@ -1805,7 +1807,8 @@
     "input": {
       "Pure Calcium": 50,
       "Pure Carbon": 50,
-      "Pure Oxygen": 50
+      "Pure Oxygen": 50,
+      "Tier 2 Product Material Schematic": 1
     }
   },
   "Concrete": {
@@ -1819,7 +1822,8 @@
     "input": {
       "Pure Calcium": 5,
       "Pure Carbon": 37.5,
-      "Pure Silicon": 37.5
+      "Pure Silicon": 37.5,
+      "Tier 2 Product Material Schematic": 1
     }
   },
   "Carbon Fiber": {
@@ -1833,7 +1837,8 @@
     "industry": "3D Printer M",
     "input": {
       "Polycarbonate Plastic": 50,
-      "Pure Carbon": 50
+      "Pure Carbon": 50,
+	  "Tier 1 Product Material Schematic": 1
     }
   },
   "Glass": {
@@ -1847,7 +1852,8 @@
     "industry": "Glass Furnace M",
     "input": {
       "Pure Silicon": 100,
-      "Pure Oxygen": 50
+      "Pure Oxygen": 50,
+	  "Tier 1 Product Material Schematic": 1
     }
   },
   "Advanced Glass": {
@@ -1862,7 +1868,8 @@
       "Pure Sodium": 100,
       "Pure Calcium": 50,
       "Pure Silicon": 50,
-      "Pure Oxygen": 50
+      "Pure Oxygen": 50,
+	  "Tier 2 Product Material Schematic": 1
     }
   },
   "Ag-Li Reinforced Glass": {
@@ -2048,7 +2055,8 @@
     "industry": "Refiner M",
     "input": {
       "Pure Carbon": 50,
-      "Pure Oxygen": 50
+      "Pure Oxygen": 50,
+      "Tier 1 Product Material Schematic Copy": 1
     }
   },
   "Basic Component": {
@@ -20441,7 +20449,7 @@
     "industry": "Honeycomb Refinery M",
     "input": {
       "Pure Copper": 600,
-      "Tier 2 Pure Honeycomb Schematic Copy": 1
+      "Tier 2 Pure Honeycomb Schematic Copy": 6
     }
   },
   "Chromium Honeycomb": {
@@ -20454,7 +20462,7 @@
     "industry": "Honeycomb Refinery M",
     "input": {
       "Pure Chromium": 600,
-      "Tier 2 Pure Honeycomb Schematic Copy": 1
+      "Tier 2 Pure Honeycomb Schematic Copy": 6
     }
   },
   "Calcium Honeycomb": {
@@ -20467,7 +20475,7 @@
     "industry": "Honeycomb Refinery M",
     "input": {
       "Pure Calcium": 600,
-      "Tier 2 Pure Honeycomb Schematic Copy": 1
+      "Tier 2 Pure Honeycomb Schematic Copy": 6
     }
   },
   "Sodium Honeycomb": {
@@ -20480,7 +20488,7 @@
     "industry": "Honeycomb Refinery M",
     "input": {
       "Pure Sodium": 600,
-      "Tier 2 Pure Honeycomb Schematic Copy": 1
+      "Tier 2 Pure Honeycomb Schematic Copy": 6
     }
   },
   "Lithium Honeycomb": {
@@ -20493,7 +20501,7 @@
     "industry": "Honeycomb Refinery M",
     "input": {
       "Pure Lithium": 200,
-      "Tier 3 Pure Honeycomb Schematic Copy": 1
+      "Tier 3 Pure Honeycomb Schematic Copy": 2
     }
   },
   "Nickel Honeycomb": {
@@ -20506,7 +20514,7 @@
     "industry": "Honeycomb Refinery M",
     "input": {
       "Pure Nickel": 200,
-      "Tier 3 Pure Honeycomb Schematic Copy": 1
+      "Tier 3 Pure Honeycomb Schematic Copy": 2
     }
   },
   "Silver Honeycomb": {
@@ -20519,7 +20527,7 @@
     "industry": "Honeycomb Refinery M",
     "input": {
       "Pure Silver": 200,
-      "Tier 3 Pure Honeycomb Schematic Copy": 1
+      "Tier 3 Pure Honeycomb Schematic Copy": 2
     }
   },
   "Sulfur Honeycomb": {
@@ -20532,7 +20540,7 @@
     "industry": "Honeycomb Refinery M",
     "input": {
       "Pure Sulfur": 200,
-      "Tier 3 Pure Honeycomb Schematic Copy": 1
+      "Tier 3 Pure Honeycomb Schematic Copy": 2
     }
   },
   "Gold Honeycomb": {
@@ -20650,7 +20658,7 @@
     "industry": "Honeycomb Refinery M",
     "input": {
       "Polycarbonate Plastic": 1800,
-      "Tier 1 Product Honeycomb Schematic Copy": 1
+      "Tier 1 Product Honeycomb Schematic Copy": 18
     }
   },
   "Wood Honeycomb": {
@@ -20664,7 +20672,7 @@
     "industry": "Honeycomb Refinery M",
     "input": {
       "Wood": 1800,
-      "Tier 1 Product Honeycomb Schematic Copy": 1
+      "Tier 1 Product Honeycomb Schematic Copy": 18
     }
   },
   "Concrete Honeycomb": {
@@ -20678,7 +20686,7 @@
     "industry": "Honeycomb Refinery M",
     "input": {
       "Concrete": 1800,
-      "Tier 1 Product Honeycomb Schematic Copy": 1
+      "Tier 1 Product Honeycomb Schematic Copy": 18
     }
   },
   "Carbon Fiber Honeycomb": {
@@ -20692,7 +20700,7 @@
     "industry": "Honeycomb Refinery M",
     "input": {
       "Carbon Fiber": 1800,
-      "Tier 1 Product Honeycomb Schematic Copy": 1
+      "Tier 1 Product Honeycomb Schematic Copy": 18
     }
   },
   "Brick Honeycomb": {
@@ -20706,7 +20714,7 @@
     "industry": "Honeycomb Refinery M",
     "input": {
       "Brick": 1800,
-      "Tier 1 Product Honeycomb Schematic Copy": 1
+      "Tier 1 Product Honeycomb Schematic Copy": 18
     }
   },
   "Steel Honeycomb": {
@@ -20720,7 +20728,7 @@
     "industry": "Honeycomb Refinery M",
     "input": {
       "Steel": 1800,
-      "Tier 1 Product Honeycomb Schematic Copy": 1
+      "Tier 1 Product Honeycomb Schematic Copy": 18
     }
   },
   "Silumin Honeycomb": {
@@ -20734,7 +20742,7 @@
     "industry": "Honeycomb Refinery M",
     "input": {
       "Silumin": 1800,
-      "Tier 1 Product Honeycomb Schematic Copy": 1
+      "Tier 1 Product Honeycomb Schematic Copy": 18
     }
   },
   "Marble Honeycomb": {
@@ -20747,7 +20755,7 @@
     "industry": "Honeycomb Refinery M",
     "input": {
       "Marble": 600,
-      "Tier 2 Product Honeycomb Schematic Copy": 1
+      "Tier 2 Product Honeycomb Schematic Copy": 6
     }
   },
   "Duralumin Honeycomb": {
@@ -20760,7 +20768,7 @@
     "industry": "Honeycomb Refinery M",
     "input": {
       "Duralumin": 600,
-      "Tier 2 Product Honeycomb Schematic Copy": 1
+      "Tier 2 Product Honeycomb Schematic Copy": 6
     }
   },
   "Stainless Steel Honeycomb": {
@@ -20773,7 +20781,7 @@
     "industry": "Honeycomb Refinery M",
     "input": {
       "Stainless Steel": 600,
-      "Tier 2 Product Honeycomb Schematic Copy": 1
+      "Tier 2 Product Honeycomb Schematic Copy": 6
     }
   },
   "Luminescent Glass": {
@@ -20787,7 +20795,7 @@
     "input": {
       "Advanced Glass": 600,
       "Uncommon LED": 60,
-      "Tier 1 Product Honeycomb Schematic Copy": 1
+      "Tier 1 Product Honeycomb Schematic Copy": 6
     }
   },
   "Al-Li Honeycomb": {
@@ -20800,7 +20808,7 @@
     "industry": "Honeycomb Refinery M",
     "input": {
       "Al-Li Alloy": 200,
-      "Tier 3 Product Honeycomb Schematic Copy": 1
+      "Tier 3 Product Honeycomb Schematic Copy": 2
     }
   },
   "Inconel Honeycomb": {
@@ -20813,7 +20821,7 @@
     "industry": "Honeycomb Refinery M",
     "input": {
       "Inconel": 200,
-      "Tier 3 Product Honeycomb Schematic Copy": 1
+      "Tier 3 Product Honeycomb Schematic Copy": 2
     }
   },
   "Maraging Steel Honeycomb": {
