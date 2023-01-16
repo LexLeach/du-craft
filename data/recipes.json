@@ -4474,6 +4474,23 @@
       "Basic Pipe": 3
     }
   },
+  "Uncommon Firing System XS": {
+    "tier": 2,
+    "type": "Functional Part",
+    "volume": 18.4,
+    "outputQuantity": 1,
+    "time": 168,
+    "byproducts": {},
+    "nanopack": true,
+    "industry": "Metalwork Industry M",
+    "input": {
+      "Basic Pipe": 1,
+      "Basic Burner": 1,
+      "Stainless Steel": 1,
+      "Uncommon Pipe": 1,
+      "Uncommon Burner": 1
+    }
+  },
   "Advanced Firing System XS": {
     "tier": 3,
     "type": "Functional Part",
@@ -4490,6 +4507,23 @@
       "Inconel": 1,
       "Advanced Pipe": 1,
       "Advanced Burner": 1
+    }
+  },
+  "Uncommon Firing System S": {
+    "tier": 2,
+    "type": "Functional Part",
+    "volume": 58.4,
+    "outputQuantity": 1,
+    "time": 504,
+    "byproducts": {},
+    "nanopack": true,
+    "industry": "Metalwork Industry M",
+    "input": {
+      "Basic Pipe": 2,
+      "Basic Burner": 2,
+      "Stainless Steel": 7,
+      "Uncommon Pipe": 4,
+      "Uncommon Burner": 4
     }
   },
   "Advanced Firing System S": {
@@ -4510,6 +4544,23 @@
       "Advanced Burner": 2
     }
   },
+  "Uncommon Firing System M": {
+    "tier": 2,
+    "type": "Functional Part",
+    "volume": 268,
+    "outputQuantity": 1,
+    "time": 1512,
+    "byproducts": {},
+    "nanopack": true,
+    "industry": "Metalwork Industry M",
+    "input": {
+      "Basic Pipe": 8,
+      "Basic Burner": 8,
+      "Stainless Steel": 49,
+      "Uncommon Pipe": 18,
+      "Uncommon Burner": 18
+    }
+  },
   "Advanced Firing System M": {
     "tier": 3,
     "type": "Functional Part",
@@ -4526,6 +4577,23 @@
       "Inconel": 49,
       "Advanced Pipe": 10,
       "Advanced Burner": 10
+    }
+  },
+  "Uncommon Firing System L": {
+    "tier": 2,
+    "type": "Functional Part",
+    "volume": 1383.20,
+    "outputQuantity": 1,
+    "time": 4536,
+    "byproducts": {},
+    "nanopack": true,
+    "industry": "Metalwork Industry M",
+    "input": {
+      "Basic Pipe": 38,
+      "Basic Burner": 38,
+      "Stainless Steel": 343,
+      "Uncommon Pipe": 88,
+      "Uncommon Burner": 88
     }
   },
   "Advanced Firing System L": {
@@ -5388,6 +5456,22 @@
       "Advanced Optics": 1
     }
   },
+  "Uncommon Laser Chamber S": {
+    "tier": 2,
+    "type": "Functional Part",
+    "volume": 58.4,
+    "outputQuantity": 1,
+    "time": 504,
+    "byproducts": {},
+    "industry": "Glass Furnace M",
+    "input": {
+      "Basic LED": 2,
+      "Basic Optics": 2,
+      "Advanced Glass": 7,
+      "Uncommon LED": 4,
+      "Uncommon Optics": 4
+    }
+  },
   "Advanced Laser Chamber S": {
     "tier": 3,
     "type": "Functional Part",
@@ -5406,6 +5490,22 @@
       "Advanced Optics": 2
     }
   },
+  "Uncommon Laser Chamber M": {
+    "tier": 2,
+    "type": "Functional Part",
+    "volume": 268,
+    "outputQuantity": 1,
+    "time": 1512,
+    "byproducts": {},
+    "industry": "Glass Furnace M",
+    "input": {
+      "Basic LED": 8,
+      "Basic Optics": 8,
+      "Advanced Glass": 49,
+      "Uncommon LED": 18,
+      "Uncommon Optics": 18
+    }
+  },
   "Advanced Laser Chamber M": {
     "tier": 3,
     "type": "Functional Part",
@@ -5422,6 +5522,22 @@
       "Ag-Li Reinforced Glass": 49,
       "Advanced LED": 10,
       "Advanced Optics": 10
+    }
+  },
+  "Uncommon Laser Chamber L": {
+    "tier": 2,
+    "type": "Functional Part",
+    "volume": 1383.20,
+    "outputQuantity": 1,
+    "time": 4536,
+    "byproducts": {},
+    "industry": "Glass Furnace M",
+    "input": {
+      "Basic LED": 38,
+      "Basic Optics": 38,
+      "Advanced Glass": 343,
+      "Uncommon LED": 88,
+      "Uncommon Optics": 88
     }
   },
   "Advanced Laser Chamber L": {
@@ -5655,6 +5771,22 @@
       "Uncommon Electronics": 4
     }
   },
+  "Uncommon Magnetic Rail XS": {
+    "tier": 2,
+    "type": "Functional Part",
+    "volume": 14.18,
+    "outputQuantity": 1,
+    "time": 168,
+    "byproducts": {},
+    "industry": "Metalwork Industry M",
+    "input": {
+      "Basic Pipe": 1,
+      "Basic Magnet": 1,
+      "Stainless Steel": 1,
+      "Uncommon Pipe": 1,
+      "Uncommon Magnet": 1
+    }
+  },
   "Advanced Magnetic Rail XS": {
     "tier": 3,
     "type": "Functional Part",
@@ -5671,6 +5803,22 @@
       "Inconel": 1,
       "Advanced Pipe": 1,
       "Advanced Magnet": 1
+    }
+  },
+  "Uncommon Magnetic Rail S": {
+    "tier": 2,
+    "type": "Functional Part",
+    "volume": 45.73,
+    "outputQuantity": 1,
+    "time": 504,
+    "byproducts": {},
+    "industry": "Metalwork Industry M",
+    "input": {
+      "Basic Pipe": 2,
+      "Basic Magnet": 2,
+      "Stainless Steel": 7,
+      "Uncommon Pipe": 4,
+      "Uncommon Magnet": 4
     }
   },
   "Advanced Magnetic Rail S": {
@@ -5691,6 +5839,22 @@
       "Advanced Magnet": 2
     }
   },
+  "Uncommon Magnetic Rail M": {
+    "tier": 2,
+    "type": "Functional Part",
+    "volume": 213.09,
+    "outputQuantity": 1,
+    "time": 1512,
+    "byproducts": {},
+    "industry": "Metalwork Industry M",
+    "input": {
+      "Basic Pipe": 8,
+      "Basic Magnet": 8,
+      "Stainless Steel": 49,
+      "Uncommon Pipe": 18,
+      "Uncommon Magnet": 18
+    }
+  },
   "Advanced Magnetic Rail M": {
     "tier": 3,
     "type": "Functional Part",
@@ -5707,6 +5871,22 @@
       "Inconel": 49,
       "Advanced Pipe": 10,
       "Advanced Magnet": 10
+    }
+  },
+  "Uncommon Magnetic Rail L": {
+    "tier": 2,
+    "type": "Functional Part",
+    "volume": 1117.09,
+    "outputQuantity": 1,
+    "time": 4536,
+    "byproducts": {},
+    "industry": "Metalwork Industry M",
+    "input": {
+      "Basic Pipe": 38,
+      "Basic Magnet": 38,
+      "Stainless Steel": 343,
+      "Uncommon Pipe": 88,
+      "Uncommon Magnet": 88
     }
   },
   "Advanced Magnetic Rail L": {
@@ -5924,6 +6104,22 @@
       "Exotic Magnet": 1
     }
   },
+  "Uncommon Missile Silo XS": {
+    "tier": 2,
+    "type": "Functional Part",
+    "volume": 18.4,
+    "outputQuantity": 1,
+    "time": 168,
+    "byproducts": {},
+    "industry": "Metalwork Industry M",
+    "input": {
+      "Basic Pipe": 1,
+      "Basic Burner": 1,
+      "Duralumin": 1,
+      "Uncommon Pipe": 1,
+      "Uncommon Burner": 1
+    }
+  },
   "Advanced Missile Silo XS": {
     "tier": 3,
     "type": "Functional Part",
@@ -5940,6 +6136,22 @@
       "Al-Li Alloy": 1,
       "Advanced Pipe": 1,
       "Advanced Burner": 1
+    }
+  },
+  "Uncommon Missile Silo S": {
+    "tier": 2,
+    "type": "Functional Part",
+    "volume": 58.4,
+    "outputQuantity": 1,
+    "time": 504,
+    "byproducts": {},
+    "industry": "Metalwork Industry M",
+    "input": {
+      "Basic Pipe": 2,
+      "Basic Burner": 2,
+      "Duralumin": 7,
+      "Uncommon Pipe": 4,
+      "Uncommon Burner": 4
     }
   },
   "Advanced Missile Silo S": {
@@ -5960,6 +6172,22 @@
       "Advanced Burner": 2
     }
   },
+  "Uncommon Missile Silo M": {
+    "tier": 2,
+    "type": "Functional Part",
+    "volume": 268,
+    "outputQuantity": 1,
+    "time": 1512,
+    "byproducts": {},
+    "industry": "Metalwork Industry M",
+    "input": {
+      "Basic Pipe": 8,
+      "Basic Burner": 8,
+      "Duralumin": 49,
+      "Uncommon Pipe": 18,
+      "Uncommon Burner": 18
+    }
+  },
   "Advanced Missile Silo M": {
     "tier": 3,
     "type": "Functional Part",
@@ -5976,6 +6204,22 @@
       "Al-Li Alloy": 49,
       "Advanced Pipe": 10,
       "Advanced Burner": 10
+    }
+  },
+  "Uncommon Missile Silo L": {
+    "tier": 2,
+    "type": "Functional Part",
+    "volume": 1383.20,
+    "outputQuantity": 1,
+    "time": 4536,
+    "byproducts": {},
+    "industry": "Metalwork Industry M",
+    "input": {
+      "Basic Pipe": 38,
+      "Basic Burner": 38,
+      "Duralumin": 343,
+      "Uncommon Pipe": 88,
+      "Uncommon Burner": 88
     }
   },
   "Advanced Missile Silo L": {
@@ -20683,10 +20927,11 @@
     "byproducts": {},
     "industry": "Assembly Line XS",
     "input": {
+      "Basic Screw": 1,
       "Uncommon Screw": 1,
-      "Advanced Electronics": 1,
-      "Advanced Firing System XS": 1,
-      "Advanced Reinforced Frame XS": 1,
+      "Uncommon Electronics": 1,
+      "Uncommon Firing System XS": 1,
+      "Uncommon Reinforced Frame XS": 1,
       "Tier 2 XS Element Schematic Copy": 1
     }
   },
@@ -20899,10 +21144,11 @@
     "byproducts": {},
     "industry": "Assembly Line S",
     "input": {
-      "Uncommon Screw": 6,
-      "Advanced Electronics": 5,
-      "Advanced Firing System S": 1,
-      "Advanced Reinforced Frame S": 1,
+      "Basic Screw": 3,
+      "Uncommon Screw": 3,
+      "Uncommon Electronics": 5,
+      "Uncommon Firing System S": 1,
+      "Uncommon Reinforced Frame S": 1,
       "Tier 2 S Element Schematic Copy": 1
     }
   },
@@ -21115,10 +21361,11 @@
     "byproducts": {},
     "industry": "Assembly Line M",
     "input": {
-      "Uncommon Screw": 36,
-      "Advanced Electronics": 25,
-      "Advanced Firing System M": 1,
-      "Advanced Reinforced Frame M": 1,
+      "Basic Screw": 18,
+      "Uncommon Screw": 18,
+      "Uncommon Electronics": 25,
+      "Uncommon Firing System M": 1,
+      "Uncommon Reinforced Frame M": 1,
       "Tier 2 M Element Schematic Copy": 1
     }
   },
@@ -21331,10 +21578,11 @@
     "byproducts": {},
     "industry": "Assembly Line L",
     "input": {
-      "Uncommon Screw": 216,
-      "Advanced Electronics": 125,
-      "Advanced Firing System L": 1,
-      "Advanced Reinforced Frame L": 1,
+      "Basic Screw": 108,
+      "Uncommon Screw": 108,
+      "Uncommon Electronics": 125,
+      "Uncommon Firing System L": 1,
+      "Uncommon Reinforced Frame L": 1,
       "Tier 2 L Element Schematic Copy": 1
     }
   },
@@ -21547,10 +21795,11 @@
     "byproducts": {},
     "industry": "Assembly Line XS",
     "input": {
+      "Basic Connector": 1,
       "Uncommon Connector": 1,
-      "Advanced Power System": 1,
-      "Advanced Laser Chamber XS": 1,
-      "Advanced Reinforced Frame XS": 1,
+      "Uncommon Power System": 1,
+      "Uncommon Laser Chamber XS": 1,
+      "Uncommon Reinforced Frame XS": 1,
       "Tier 2 XS Element Schematic Copy": 1
     }
   },
@@ -21763,10 +22012,11 @@
     "byproducts": {},
     "industry": "Assembly Line S",
     "input": {
-      "Uncommon Connector": 6,
-      "Advanced Power System": 5,
-      "Advanced Laser Chamber S": 1,
-      "Advanced Reinforced Frame S": 1,
+      "Basic Connector": 3,
+      "Uncommon Connector": 3,
+      "Uncommon Power System": 5,
+      "Uncommon Laser Chamber S": 1,
+      "Uncommon Reinforced Frame S": 1,
       "Tier 2 S Element Schematic Copy": 1
     }
   },
@@ -21979,10 +22229,11 @@
     "byproducts": {},
     "industry": "Assembly Line M",
     "input": {
-      "Uncommon Connector": 36,
-      "Advanced Power System": 25,
-      "Advanced Laser Chamber M": 1,
-      "Advanced Reinforced Frame M": 1,
+      "Basic Connector": 18,
+      "Uncommon Connector": 18,
+      "Uncommon Power System": 25,
+      "Uncommon Laser Chamber M": 1,
+      "Uncommon Reinforced Frame M": 1,
       "Tier 2 M Element Schematic Copy": 1
     }
   },
@@ -22195,10 +22446,11 @@
     "byproducts": {},
     "industry": "Assembly Line L",
     "input": {
-      "Uncommon Connector": 216,
-      "Advanced Power System": 125,
-      "Advanced Laser Chamber L": 1,
-      "Advanced Reinforced Frame L": 1,
+      "Basic Connector": 108,
+      "Uncommon Connector": 108,
+      "Uncommon Power System": 125,
+      "Uncommon Laser Chamber L": 1,
+      "Uncommon Reinforced Frame L": 1,
       "Tier 2 L Element Schematic Copy": 1
     }
   },
@@ -22411,10 +22663,11 @@
     "byproducts": {},
     "industry": "Assembly Line XS",
     "input": {
+      "Basic Screw": 1,
       "Uncommon Screw": 1,
-      "Advanced Hydraulics": 1,
-      "Advanced Missile Silo XS": 1,
-      "Advanced Reinforced Frame XS": 1,
+      "Uncommon Hydraulics": 1,
+      "Uncommon Missile Silo XS": 1,
+      "Uncommon Reinforced Frame XS": 1,
       "Tier 2 XS Element Schematic Copy": 1
     }
   },
@@ -22627,10 +22880,11 @@
     "byproducts": {},
     "industry": "Assembly Line S",
     "input": {
-      "Uncommon Screw": 6,
-      "Advanced Hydraulics": 5,
-      "Advanced Missile Silo S": 1,
-      "Advanced Reinforced Frame S": 1,
+      "Basic Screw": 3,
+      "Uncommon Screw": 3,
+      "Uncommon Hydraulics": 5,
+      "Uncommon Missile Silo S": 1,
+      "Uncommon Reinforced Frame S": 1,
       "Tier 2 S Element Schematic Copy": 1
     }
   },
@@ -22843,10 +23097,11 @@
     "byproducts": {},
     "industry": "Assembly Line M",
     "input": {
-      "Uncommon Screw": 36,
-      "Advanced Hydraulics": 25,
-      "Advanced Missile Silo M": 1,
-      "Advanced Reinforced Frame M": 1,
+      "Basic Screw": 18,
+      "Uncommon Screw": 18,
+      "Uncommon Hydraulics": 25,
+      "Uncommon Missile Silo M": 1,
+      "Uncommon Reinforced Frame M": 1,
       "Tier 2 M Element Schematic Copy": 1
     }
   },
@@ -23059,10 +23314,11 @@
     "byproducts": {},
     "industry": "Assembly Line L",
     "input": {
-      "Uncommon Screw": 216,
-      "Advanced Hydraulics": 125,
-      "Advanced Missile Silo L": 1,
-      "Advanced Reinforced Frame L": 1,
+      "Basic Screw": 108,
+      "Uncommon Screw": 108,
+      "Uncommon Hydraulics": 125,
+      "Uncommon Missile Silo L": 1,
+      "Uncommon Reinforced Frame L": 1,
       "Tier 2 L Element Schematic Copy": 1
     }
   },
@@ -23275,10 +23531,11 @@
     "byproducts": {},
     "industry": "Assembly Line XS",
     "input": {
+      "Basic Connector": 1,
       "Uncommon Connector": 1,
-      "Advanced Optics": 1,
-      "Advanced Magnetic Rail XS": 1,
-      "Advanced Reinforced Frame XS": 1,
+      "Uncommon Optics": 1,
+      "Uncommon Magnetic Rail XS": 1,
+      "Uncommon Reinforced Frame XS": 1,
       "Tier 2 XS Element Schematic Copy": 1
     }
   },
@@ -23491,10 +23748,11 @@
     "byproducts": {},
     "industry": "Assembly Line S",
     "input": {
-      "Uncommon Connector": 6,
-      "Advanced Optics": 5,
-      "Advanced Magnetic Rail S": 1,
-      "Advanced Reinforced Frame S": 1,
+      "Basic Connector": 3,
+      "Uncommon Connector": 3,
+      "Uncommon Optics": 5,
+      "Uncommon Magnetic Rail S": 1,
+      "Uncommon Reinforced Frame S": 1,
       "Tier 2 S Element Schematic Copy": 1
     }
   },
@@ -23707,10 +23965,11 @@
     "byproducts": {},
     "industry": "Assembly Line M",
     "input": {
-      "Uncommon Connector": 36,
-      "Advanced Optics": 25,
-      "Advanced Magnetic Rail M": 1,
-      "Advanced Reinforced Frame M": 1,
+      "Basic Connector": 18,
+      "Uncommon Connector": 18,
+      "Uncommon Optics": 25,
+      "Uncommon Magnetic Rail M": 1,
+      "Uncommon Reinforced Frame M": 1,
       "Tier 2 M Element Schematic Copy": 1
     }
   },
@@ -23923,10 +24182,11 @@
     "byproducts": {},
     "industry": "Assembly Line L",
     "input": {
-      "Uncommon Connector": 216,
-      "Advanced Optics": 125,
-      "Advanced Magnetic Rail L": 1,
-      "Advanced Reinforced Frame L": 1,
+      "Basic Connector": 108,
+      "Uncommon Connector": 108,
+      "Uncommon Optics": 125,
+      "Uncommon Magnetic Rail L": 1,
+      "Uncommon Reinforced Frame L": 1,
       "Tier 2 L Element Schematic Copy": 1
     }
   },
@@ -27002,6 +27262,7 @@
       "Exotic Antenna XL": 1,
       "Exotic Quantum Alignment Unit": 256,
       "Exotic Reinforced Frame XL": 1,
+      "Relic Plasma Octo L": 1,
       "Warp Beacon Schematic Copy": 1
     }
   },
