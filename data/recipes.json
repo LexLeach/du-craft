@@ -1777,7 +1777,7 @@
       "Pure Carbon": 100,
       "Pure Oxygen": 50,
       "Pure Hydrogen": 50,
-	  "Tier 1 Product Material Schematic": 1
+      "Tier 1 Product Material Schematic Copy": 1
     }
   },
   "Brick": {
@@ -1793,7 +1793,7 @@
       "Pure Silicon": 50,
       "Pure Aluminium": 50,
       "Pure Oxygen": 50,
-	  "Tier 1 Product Material Schematic": 1
+      "Tier 1 Product Material Schematic Copy": 1
     }
   },
   "Marble": {
@@ -1838,7 +1838,7 @@
     "input": {
       "Polycarbonate Plastic": 50,
       "Pure Carbon": 50,
-	  "Tier 1 Product Material Schematic": 1
+      "Tier 1 Product Material Schematic Copy": 1
     }
   },
   "Glass": {
@@ -1853,7 +1853,7 @@
     "input": {
       "Pure Silicon": 100,
       "Pure Oxygen": 50,
-	  "Tier 1 Product Material Schematic": 1
+      "Tier 1 Product Material Schematic Copy": 1
     }
   },
   "Advanced Glass": {
@@ -1869,7 +1869,7 @@
       "Pure Calcium": 50,
       "Pure Silicon": 50,
       "Pure Oxygen": 50,
-	  "Tier 2 Product Material Schematic": 1
+      "Tier 2 Product Material Schematic Copy": 1
     }
   },
   "Ag-Li Reinforced Glass": {
