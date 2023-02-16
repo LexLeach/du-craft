@@ -4231,7 +4231,7 @@
     }
   },
   "Uncommon Control System S": {
-    "tier": 1,
+    "tier": 2,
     "type": "Functional Part",
     "volume": 27.6,
     "outputQuantity": 1,
