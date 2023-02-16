@@ -4230,6 +4230,23 @@
       "Basic Component": 5
     }
   },
+  "Uncommon Control System S": {
+    "tier": 1,
+    "type": "Functional Part",
+    "volume": 27.6,
+    "outputQuantity": 1,
+    "time": 432,
+    "byproducts": {},
+    "nanopack": true,
+    "industry": "Electronics Industry M",
+    "input": {
+      "Basic Component": 2,
+      "Basic Processor": 2,
+      "Uncommon Component": 4,
+      "Uncommon Processor": 4,
+      "Polycalcite Plastic": 7
+    }
+  },
   "Basic Control System M": {
     "tier": 1,
     "type": "Functional Part",
@@ -4242,24 +4259,6 @@
     "input": {
       "Polycarbonate Plastic": 49,
       "Basic Component": 25
-    }
-  },
-  "Advanced Control System S": {
-    "tier": 3,
-    "type": "Functional Part",
-    "volume": 32,
-    "outputQuantity": 1,
-    "time": 2880,
-    "byproducts": {},
-    "industry": "Electronics Industry M",
-    "input": {
-      "Basic Component": 2,
-      "Basic Processor": 2,
-      "Uncommon Component": 2,
-      "Uncommon Processor": 2,
-      "Polysulfide Plastic": 7,
-      "Advanced Component": 2,
-      "Advanced Processor": 2
     }
   },
   "Advanced Control System M": {
@@ -4280,12 +4279,12 @@
       "Advanced Processor": 10
     }
   },
-  "Advanced Control System L": {
-    "tier": 3,
+  "Rare Control System L": {
+    "tier": 4,
     "type": "Functional Part",
     "volume": 828.8,
     "outputQuantity": 1,
-    "time": 25920,
+    "time": 103680,
     "byproducts": {},
     "industry": "Electronics Industry M",
     "input": {
