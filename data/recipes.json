@@ -2987,6 +2987,22 @@
       "Cu-Ag Alloy": 2
     }
   },
+  "Rare Processor": {
+    "tier": 4,
+    "type": "Complex Part",
+    "volume": 5,
+    "outputQuantity": 1,
+    "time": 3840,
+    "byproducts": {},
+    "industry": "Electronics Industry M",
+    "input": {
+      "Basic Fixation": 1,
+      "Calcium Reinforced Copper": 2,
+      "Uncommon Fixation": 2,
+      "Cu-Ag Alloy": 2,
+      "Red Gold": 2
+    }
+  },
   "Basic Quantum Core": {
     "tier": 1,
     "type": "Complex Part",
@@ -4230,6 +4246,23 @@
       "Basic Component": 5
     }
   },
+  "Uncommon Control System S": {
+    "tier": 2,
+    "type": "Functional Part",
+    "volume": 27.6,
+    "outputQuantity": 1,
+    "time": 432,
+    "byproducts": {},
+    "nanopack": true,
+    "industry": "Electronics Industry M",
+    "input": {
+      "Basic Component": 2,
+      "Basic Processor": 2,
+      "Uncommon Component": 4,
+      "Uncommon Processor": 4,
+      "Polycalcite Plastic": 7
+    }
+  },
   "Basic Control System M": {
     "tier": 1,
     "type": "Functional Part",
@@ -4242,24 +4275,6 @@
     "input": {
       "Polycarbonate Plastic": 49,
       "Basic Component": 25
-    }
-  },
-  "Advanced Control System S": {
-    "tier": 3,
-    "type": "Functional Part",
-    "volume": 32,
-    "outputQuantity": 1,
-    "time": 2880,
-    "byproducts": {},
-    "industry": "Electronics Industry M",
-    "input": {
-      "Basic Component": 2,
-      "Basic Processor": 2,
-      "Uncommon Component": 2,
-      "Uncommon Processor": 2,
-      "Polysulfide Plastic": 7,
-      "Advanced Component": 2,
-      "Advanced Processor": 2
     }
   },
   "Advanced Control System M": {
@@ -4280,12 +4295,12 @@
       "Advanced Processor": 10
     }
   },
-  "Advanced Control System L": {
-    "tier": 3,
+  "Rare Control System L": {
+    "tier": 4,
     "type": "Functional Part",
     "volume": 828.8,
     "outputQuantity": 1,
-    "time": 25920,
+    "time": 103680,
     "byproducts": {},
     "industry": "Electronics Industry M",
     "input": {
@@ -15573,15 +15588,16 @@
     "byproducts": {},
     "industry": "Assembly Line S",
     "input": {
-      "Uncommon Connector": 6,
-      "Advanced Power System": 5,
-      "Advanced Control System S": 1,
-      "Advanced Standard Frame S": 1,
+      "Basic Connector": 3,
+      "Uncommon Connector": 3,
+      "Uncommon Power System": 5,
+      "Uncommon Control System S": 1,
+      "Uncommon Standard Frame S": 1,
       "Tier 2 S Element Schematic Copy": 1
     }
   },
   "Gunner Module M": {
-    "tier": 2,
+    "tier": 3,
     "type": "Systems Element",
     "volume": 486.4,
     "outputQuantity": 1,
@@ -15597,7 +15613,7 @@
     }
   },
   "Gunner Module L": {
-    "tier": 2,
+    "tier": 4,
     "type": "Systems Element",
     "volume": 2666.6,
     "outputQuantity": 1,
@@ -15605,10 +15621,11 @@
     "byproducts": {},
     "industry": "Assembly Line L",
     "input": {
-      "Uncommon Connector": 216,
-      "Advanced Power System": 125,
-      "Advanced Control System L": 1,
-      "Advanced Standard Frame L": 1,
+      "Basic Connector": 108,
+      "Uncommon Connector": 108,
+      "Rare Power System": 125,
+      "Rare Control System L": 1,
+      "Rare Standard Frame L": 1,
       "Tier 4 L Element Schematic Copy": 1
     }
   },
@@ -19725,7 +19742,7 @@
     "input": {
       "Glass": 28,
       "Basic Fixation": 24,
-      "Basic Standard Frame S": 14
+      "Basic Standard Frame S": 4
     }
   },
   "Window L": {
