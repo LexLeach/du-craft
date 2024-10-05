@@ -134,23 +134,23 @@ let language = "english";
 let skillTree;
 let skillValues = new SkillValues();
 
-loadJSON("../data/itemsAccordion.json", function (json) {
+loadJSON("/data/itemsAccordion.json", function (json) {
   itemsAccordion = JSON.parse(json);
 });
-loadJSON("../data/recipes.json", function (json) {
+loadJSON("/data/recipes.json", function (json) {
   recipes = JSON.parse(json);
 });
-loadJSON("../data/skillsAccordion.json", function (json) {
+loadJSON("/data/skillsAccordion.json", function (json) {
   skillTree = parseSkillFile(JSON.parse(json));
 });
-loadJSON("../data/orePrices.json", function (json) {
+loadJSON("/data/orePrices.json", function (json) {
   prices = JSON.parse(json);
 });
 // loadJSON("../data/schematicsPrices.json", function (json) {
 //     schematicsPrices = JSON.parse(json);
 // })
 
-loadJSON("../data/craft_trans_german.json", function (json) {
+loadJSON("/data/craft_trans_german.json", function (json) {
   // german = json;
   german = JSON.stringify({});
 });
