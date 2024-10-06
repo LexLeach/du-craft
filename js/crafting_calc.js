@@ -182,21 +182,30 @@ function recipeCalc(recipes) {
     return newList;
   };
 
-  const SERVER_SPEED_MULTIPLIER = 0.06; // 10x speed multiplier
+  const SERVER_SPEED_MULTIPLIER = 0.08494; // For final products
+  const COMPONENT_MULTIPLIER = 0.032; // For parts
+  const Pure_MULTIPLIER = 0.035; // For pures
 
   this.modifyItemStat = function (item, skill, skillValue) {
-    const amount = skill.amount * skillValue; // Total skill reduction
+    const amount = skill.amount * skillValue;
     let currentBonus = 0;
     let skillBonus = 0;
 
-    // Step 1: Apply the server speed multiplier to the base crafting time
-    item.actualTime = item.time * SERVER_SPEED_MULTIPLIER;
+    // Automatically determine if the item is a component by checking its type or industry
+    const isComponent = item.type === "Intermediary Part";
 
-    // Step 2: Apply skill-based time reduction
+    // Apply different multipliers for components and final products
+    let multiplier = isComponent
+      ? COMPONENT_MULTIPLIER
+      : SERVER_SPEED_MULTIPLIER;
+
+    // Apply the multiplier directly to the base time
+    item.actualTime = item.time * multiplier;
+
+    // Apply skill-based reductions
     switch (skill.class) {
       case "Time":
-        // Skill reduction is applied after the server multiplier
-        skillBonus = item.actualTime * amount; // Reduce time based on skill level
+        skillBonus = item.actualTime * amount; // Skill bonus reduces time
         item.actualTime = item.actualTime - skillBonus;
         break;
 
@@ -225,6 +234,15 @@ function recipeCalc(recipes) {
           item.actualInput[i] = item.input[i] - skillBonus - currentBonus;
         }
         break;
+
+      default:
+        console.log(`Unknown skill class: ${skill.class}`);
+        break;
+    }
+
+    // Ensure we don't get too low of a time
+    if (item.actualTime < 1) {
+      item.actualTime = 1; // Minimum crafting time is 1 second
     }
   };
 
