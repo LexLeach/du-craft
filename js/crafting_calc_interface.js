@@ -150,7 +150,7 @@ loadJSON("/du-craft/data/orePrices.json", function (json) {
 //     schematicsPrices = JSON.parse(json);
 // })
 
-loadJSON("/data/craft_trans_german.json", function (json) {
+loadJSON("/du-craft/data/craft_trans_german.json", function (json) {
   // german = json;
   german = JSON.stringify({});
 });
