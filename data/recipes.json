@@ -2925,7 +2925,7 @@
       "Calcium Reinforced Copper Product": 2,
       "Uncommon Connector": 3,
       "Cu-Ag Alloy Product": 2,
-      "Red Gold": 2
+      "Red Gold Product": 2
     }
   },
   "Exotic Power System": {
@@ -2941,7 +2941,7 @@
       "Uncommon Connector": 1,
       "Cu-Ag Alloy Product": 2,
       "Advanced Connector": 2,
-      "Red Gold": 2,
+      "Red Gold Product": 2,
       "Ti-Nb Supraconductor Product": 2
     }
   },
@@ -3002,7 +3002,7 @@
       "Calcium Reinforced Copper Product": 2,
       "Uncommon Fixation": 2,
       "Cu-Ag Alloy Product": 2,
-      "Red Gold": 2
+      "Red Gold Product": 2
     }
   },
   "Basic Quantum Core": {
@@ -3410,7 +3410,7 @@
       "Uncommon Antimatter Capsule": 1,
       "Cu-Ag Alloy Product": 5,
       "Advanced Antimatter Capsule": 1,
-      "Red Gold": 5,
+      "Red Gold Product": 5,
       "Rare Antimatter Capsule": 1
     }
   },
@@ -3605,7 +3605,7 @@
       "Uncommon Power System": 2,
       "Advanced Screw": 4,
       "Advanced Power System": 2,
-      "Red Gold": 7,
+      "Red Gold Product": 7,
       "Rare Power System": 2
     }
   },
@@ -3622,7 +3622,7 @@
       "Uncommon Power System": 8,
       "Advanced Screw": 18,
       "Advanced Power System": 8,
-      "Red Gold": 49,
+      "Red Gold Product": 49,
       "Rare Power System": 10
     }
   },
@@ -3639,7 +3639,7 @@
       "Uncommon Power System": 38,
       "Advanced Screw": 88,
       "Advanced Power System": 38,
-      "Red Gold": 343,
+      "Red Gold Product": 343,
       "Rare Power System": 50
     }
   },
