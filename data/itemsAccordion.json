@@ -938,9 +938,7 @@
         "data": [
           {
             "name": "Fireworks Launchers",
-            "data": [
-              "Fireworks Launcher S"
-            ]
+            "data": ["Fireworks Launcher S"]
           },
           {
             "name": "Chairs",
@@ -966,28 +964,15 @@
             "data": [
               {
                 "name": "Adjuncts",
-                "data": [
-                  "Vertical Wing",
-                  "Wingtip S",
-                  "Wingtip M",
-                  "Wingtip L"
-                ]
+                "data": ["Vertical Wing", "Wingtip S", "Wingtip M", "Wingtip L"]
               },
               {
                 "name": "Antennas",
-                "data": [
-                  "Antenna S",
-                  "Antenna M",
-                  "Antenna L"
-                ]
+                "data": ["Antenna S", "Antenna M", "Antenna L"]
               },
               {
                 "name": "Barriers",
-                "data": [
-                  "Barrier Corner",
-                  "Barrier S",
-                  "Barrier M"
-                ]
+                "data": ["Barrier Corner", "Barrier S", "Barrier M"]
               },
               "Sink Unit",
               "Keyboard Unit",
@@ -1203,20 +1188,13 @@
                   },
                   {
                     "name": "Data Emitters",
-                    "data": [
-                      "Emitter XS",
-                      "Emitter S",
-                      "Emitter M"
-                    ]
+                    "data": ["Emitter XS", "Emitter S", "Emitter M"]
                   },
                   "Databank XS",
                   "Delay Line XS",
                   {
                     "name": "Laser Emitters",
-                    "data": [
-                      "Infrared Laser Emitter XS",
-                      "Laser Emitter XS"
-                    ]
+                    "data": ["Infrared Laser Emitter XS", "Laser Emitter XS"]
                   },
                   {
                     "name": "Logic Operators",
@@ -1231,11 +1209,7 @@
                   },
                   {
                     "name": "Receivers",
-                    "data": [
-                      "Receiver XS",
-                      "Receiver S",
-                      "Receiver M"
-                    ]
+                    "data": ["Receiver XS", "Receiver S", "Receiver M"]
                   },
                   "Relay XS",
                   {
@@ -1265,10 +1239,7 @@
                     "data": [
                       {
                         "name": "Manual Buttons",
-                        "data": [
-                          "Manual Button XS",
-                          "Manual Button S"
-                        ]
+                        "data": ["Manual Button XS", "Manual Button S"]
                       },
                       "Manual Switch XS",
                       "Pressure Tile XS"
@@ -1331,10 +1302,7 @@
               },
               {
                 "name": "Dispensers",
-                "data": [
-                  "Deprecated Dispenser M",
-                  "Dispenser M"
-                ]
+                "data": ["Deprecated Dispenser M", "Dispenser M"]
               },
               {
                 "name": "Fuel Tanks",
@@ -1606,10 +1574,7 @@
           "Resurrection Node S",
           {
             "name": "Surrogate Station Equipment",
-            "data": [
-              "Surrogate Pod Station S",
-              "Surrogate VR Station M"
-            ]
+            "data": ["Surrogate Pod Station S", "Surrogate VR Station M"]
           },
           "Territory Scanner XL"
         ]
@@ -1642,12 +1607,7 @@
               },
               {
                 "name": "Wing",
-                "data": [
-                  "Wing XS",
-                  "Wing S",
-                  "Wing M",
-                  "Wing Variant M"
-                ]
+                "data": ["Wing XS", "Wing S", "Wing M", "Wing Variant M"]
               }
             ]
           },
@@ -1785,7 +1745,7 @@
                     "data": [
                       {
                         "name": "Small Hovercraft Engines",
-                        "data":[
+                        "data": [
                           "Basic Hover Engine S",
                           "Uncommon Freight Hover Engine S",
                           "Uncommon Maneuver Hover Engine S",
@@ -1803,7 +1763,7 @@
                       },
                       {
                         "name": "Medium Hovercraft Engines",
-                        "data":[
+                        "data": [
                           "Basic Hover Engine M",
                           "Uncommon Freight Hover Engine M",
                           "Uncommon Maneuver Hover Engine M",
@@ -1821,7 +1781,7 @@
                       },
                       {
                         "name": "Large Hovercraft Engines",
-                        "data":[
+                        "data": [
                           "Basic Hover Engine L",
                           "Basic Flat Hover Engine L",
                           "Uncommon Freight Flat Hover Engine L",
@@ -1891,7 +1851,7 @@
                           "Exotic Military Vertical Booster S"
                         ]
                       },
-                      { 
+                      {
                         "name": "Vertical Boosters M",
                         "data": [
                           "Basic Vertical Booster M",
@@ -1911,8 +1871,7 @@
                       },
                       {
                         "name": "Vertical Boosters L",
-                        "data": 
-                        [
+                        "data": [
                           "Basic Vertical Booster L",
                           "Uncommon Freight Vertical Booster L",
                           "Uncommon Maneuver Vertical Booster L",
@@ -2172,39 +2131,19 @@
             "data": [
               {
                 "name": "Tier 1 Ores",
-                "data": [
-                  "Bauxite",
-                  "Coal",
-                  "Hematite",
-                  "Quartz"
-                ]
+                "data": ["Bauxite", "Coal", "Hematite", "Quartz"]
               },
               {
                 "name": "Tier 2 Ores",
-                "data": [
-                  "Chromite",
-                  "Limestone",
-                  "Malachite",
-                  "Natron"
-                ]
+                "data": ["Chromite", "Limestone", "Malachite", "Natron"]
               },
               {
                 "name": "Tier 3 Ores",
-                "data": [
-                  "Acanthite",
-                  "Garnierite",
-                  "Petalite",
-                  "Pyrite"
-                ]
+                "data": ["Acanthite", "Garnierite", "Petalite", "Pyrite"]
               },
               {
                 "name": "Tier 4 Ores",
-                "data": [
-                  "Cobaltite",
-                  "Cryolite",
-                  "Gold Nuggets",
-                  "Kolbeckite"
-                ]
+                "data": ["Cobaltite", "Cryolite", "Gold Nuggets", "Kolbeckite"]
               },
               {
                 "name": "Tier 5 Ores",
@@ -2225,68 +2164,64 @@
         "data": [
           {
             "name": "Catalysts",
-            "data": [
-              "Catalyst 3",
-              "Catalyst 4",
-              "Catalyst 5"
-            ]
+            "data": ["Catalyst 3", "Catalyst 4", "Catalyst 5"]
           },
           {
             "name": "Products",
             "data": [
-              "Biological Matter",
-              "Brick",
-              "Carbon Fiber",
-              "Concrete",
+              "Biological Matter Product",
+              "Brick Product",
+              "Carbon Fiber Product",
+              "Concrete Product",
               {
                 "name": "Conductor Metals",
                 "data": [
-                  "Al-Fe Alloy",
-                  "Calcium Reinforced Copper",
-                  "Cu-Ag Alloy",
-                  "Red Gold",
-                  "Ti-Nb Supraconductor"
+                  "Al-Fe Alloy Product",
+                  "Calcium Reinforced Copper Product",
+                  "Cu-Ag Alloy Product",
+                  "Red Gold Product",
+                  "Ti-Nb Supraconductor Product"
                 ]
               },
               {
                 "name": "Glass Materials",
                 "data": [
-                  "Glass",
-                  "Advanced Glass",
-                  "Ag-Li Reinforced Glass",
-                  "Gold-Coated Glass",
-                  "Manganese Reinforced Glass"
+                  "Glass Product",
+                  "Advanced Glass Product",
+                  "Ag-Li Reinforced Glass Product",
+                  "Gold-Coated Glass Product",
+                  "Manganese Reinforced Glass Product"
                 ]
               },
               {
                 "name": "Heavy Metals",
                 "data": [
-                  "Steel",
-                  "Stainless Steel",
-                  "Inconel",
-                  "Maraging Steel",
-                  "Mangalloy"
+                  "Steel Product",
+                  "Stainless Steel Product",
+                  "Inconel Product",
+                  "Maraging Steel Product",
+                  "Mangalloy Product"
                 ]
               },
               {
                 "name": "Light Metals",
                 "data": [
-                  "Silumin",
-                  "Duralumin",
-                  "Al-Li Alloy",
-                  "Sc-Al Alloy",
-                  "Grade 5 Titanium Alloy"
+                  "Silumin Product",
+                  "Duralumin Product",
+                  "Al-Li Alloy Product",
+                  "Sc-Al Alloy Product",
+                  "Grade 5 Titanium Alloy Product"
                 ]
               },
               "Marble",
               {
                 "name": "Polymers",
                 "data": [
-                  "Polycarbonate Plastic",
-                  "Polycalcite Plastic",
-                  "Polysulfide Plastic",
-                  "Fluoropolymer",
-                  "Vanamer"
+                  "Polycarbonate Plastic Product",
+                  "Polycalcite Plastic Product",
+                  "Polysulfide Plastic Product",
+                  "Fluoropolymer Product",
+                  "Vanamer Product"
                 ]
               },
               "Wood"
@@ -2470,10 +2405,7 @@
           },
           {
             "name": "Solid Warheads",
-            "data": [
-              "Uncommon Solid Warhead",
-              "Advanced Solid Warhead"
-            ]
+            "data": ["Uncommon Solid Warhead", "Advanced Solid Warhead"]
           }
         ]
       },
@@ -2688,10 +2620,7 @@
           },
           {
             "name": "Lights",
-            "data": [
-              "Uncommon Light XS",
-              "Uncommon Light S"
-            ]
+            "data": ["Uncommon Light XS", "Uncommon Light S"]
           },
           {
             "name": "Magnetic Rails",
@@ -2835,35 +2764,19 @@
           },
           {
             "name": "Fixations",
-            "data": [
-              "Basic Fixation",
-              "Uncommon Fixation",
-              "Advanced Fixation"
-            ]
+            "data": ["Basic Fixation", "Uncommon Fixation", "Advanced Fixation"]
           },
           {
             "name": "LEDs",
-            "data": [
-              "Basic LED",
-              "Uncommon LED",
-              "Advanced LED"
-            ]
+            "data": ["Basic LED", "Uncommon LED", "Advanced LED"]
           },
           {
             "name": "Pipes",
-            "data": [
-              "Basic Pipe",
-              "Uncommon Pipe",
-              "Advanced Pipe"
-            ]
+            "data": ["Basic Pipe", "Uncommon Pipe", "Advanced Pipe"]
           },
           {
             "name": "Screws",
-            "data": [
-              "Basic Screw",
-              "Uncommon Screw",
-              "Advanced Screw"
-            ]
+            "data": ["Basic Screw", "Uncommon Screw", "Advanced Screw"]
           }
         ]
       },
@@ -3047,10 +2960,7 @@
       },
       {
         "name": "Large Stationary Objects",
-        "data": [
-          "Territory Unit Schematic Copy",
-          "Warp Beacon Schematic Copy"
-        ]
+        "data": ["Territory Unit Schematic Copy", "Warp Beacon Schematic Copy"]
       },
       {
         "name": "Pure Honeycomb Materials",
@@ -3085,7 +2995,7 @@
         "data": [
           {
             "name": "XS",
-            "data" : [
+            "data": [
               "Tier 2 Ammo XS Schematic Copy",
               "Tier 3 Ammo XS Schematic Copy",
               "Tier 4 Ammo XS Schematic Copy"
@@ -3093,7 +3003,7 @@
           },
           {
             "name": "S",
-            "data" : [
+            "data": [
               "Tier 2 Ammo S Schematic Copy",
               "Tier 3 Ammo S Schematic Copy",
               "Tier 4 Ammo S Schematic Copy"
@@ -3101,7 +3011,7 @@
           },
           {
             "name": "M",
-            "data" : [
+            "data": [
               "Tier 2 Ammo M Schematic Copy",
               "Tier 3 Ammo M Schematic Copy",
               "Tier 4 Ammo M Schematic Copy"
@@ -3109,7 +3019,7 @@
           },
           {
             "name": "L",
-            "data" : [
+            "data": [
               "Tier 2 Ammo L Schematic Copy",
               "Tier 3 Ammo L Schematic Copy",
               "Tier 4 Ammo L Schematic Copy"
@@ -3128,9 +3038,7 @@
       },
       {
         "name": "Cosmetics",
-        "data": [
-          "Bonsai Schematic Copy"
-        ]
+        "data": ["Bonsai Schematic Copy"]
       }
     ]
   }
